@@ -1,0 +1,34 @@
+{
+  "name": "@aftabahmadkhan/npm-monorepo",
+  "private": true,
+  "description": "Scoped workspace for MERN-focused tooling: monguard, stacksense, syncora, typepress, promptmesh, perfstack, envguard, responsa, archsense, logmesh.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "workspaces": [
+    "monguard",
+    "stacksense",
+    "syncora",
+    "typepress",
+    "promptmesh",
+    "perfstack",
+    "envguard",
+    "responsa",
+    "archsense",
+    "logmesh"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "typecheck": "npm run typecheck --workspaces --if-present"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern-packages/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern-packages#readme"
+}
