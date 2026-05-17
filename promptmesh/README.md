@@ -16,13 +16,13 @@ Most teams hardcode prompts as string literals in their codebase. The minute you
 ## Install
 
 ```bash
-npm install @aftabahmadkhan/promptmesh
+npm install @mr-aftab-ahmad-khan/promptmesh
 ```
 
 ## Quick start
 
 ```ts
-import { createMesh } from "@aftabahmadkhan/promptmesh";
+import { createMesh } from "@mr-aftab-ahmad-khan/promptmesh";
 
 const mesh = createMesh<string>({
   defaultProvider: async (prompt) => callOpenAI(prompt.messages),

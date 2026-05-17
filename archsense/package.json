@@ -1,6 +1,6 @@
 {
-  "name": "@aftabahmadkhan/archsense",
-  "version": "0.1.0",
+  "name": "@mr-aftab-ahmad-khan/archsense",
+  "version": "0.1.2",
   "description": "Backend architecture intelligence CLI: detects circular dependencies, oversized modules, structural smells, and produces an architecture score for any Node/TypeScript codebase.",
   "license": "MIT",
   "type": "module",
@@ -8,7 +8,7 @@
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
-    "archsense": "./dist/cli.cjs"
+    "archsense": "archsense.cjs"
   },
   "exports": {
     ".": {
@@ -18,6 +18,7 @@
     }
   },
   "files": [
+    "archsense.cjs",
     "dist",
     "README.md",
     "LICENSE",

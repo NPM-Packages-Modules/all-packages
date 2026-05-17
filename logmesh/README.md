@@ -13,13 +13,13 @@ Structured logger built for the AI debugging era. Every record is JSON, every re
 ## Install
 
 ```bash
-npm install @aftabahmadkhan/logmesh
+npm install @mr-aftab-ahmad-khan/logmesh
 ```
 
 ## Basics
 
 ```ts
-import { createLogger } from "@aftabahmadkhan/logmesh";
+import { createLogger } from "@mr-aftab-ahmad-khan/logmesh";
 
 const log = createLogger({ level: "info", bindings: { app: "api" } });
 
@@ -37,7 +37,7 @@ try {
 
 ```ts
 import express from "express";
-import { createLogger, expressLogger, getContext } from "@aftabahmadkhan/logmesh";
+import { createLogger, expressLogger, getContext } from "@mr-aftab-ahmad-khan/logmesh";
 
 const log = createLogger();
 const app = express();
@@ -55,7 +55,7 @@ Every log inside the request handler is automatically annotated with the request
 ## Error clustering
 
 ```ts
-import { ErrorClusterer, memoryTransport, createLogger } from "@aftabahmadkhan/logmesh";
+import { ErrorClusterer, memoryTransport, createLogger } from "@mr-aftab-ahmad-khan/logmesh";
 
 const mem = memoryTransport();
 const log = createLogger({ transports: [mem] });
@@ -80,7 +80,7 @@ import {
   fileTransport,
   memoryTransport,
   createLogger,
-} from "@aftabahmadkhan/logmesh";
+} from "@mr-aftab-ahmad-khan/logmesh";
 
 const log = createLogger({
   transports: [

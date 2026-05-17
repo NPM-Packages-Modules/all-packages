@@ -5,13 +5,13 @@ Backend architecture intelligence for any Node/TypeScript codebase. Run one comm
 ## Install
 
 ```bash
-npm install -D @aftabahmadkhan/archsense
+npm install -D @mr-aftab-ahmad-khan/archsense
 ```
 
 Or run without installing:
 
 ```bash
-npx @aftabahmadkhan/archsense audit
+npx @mr-aftab-ahmad-khan/archsense audit
 ```
 
 ## CLI
@@ -59,7 +59,7 @@ archsense (/Users/me/app)
 ## Programmatic API
 
 ```ts
-import { audit, findCycles, buildGraph } from "@aftabahmadkhan/archsense";
+import { audit, findCycles, buildGraph } from "@mr-aftab-ahmad-khan/archsense";
 
 const report = audit({ rootDir: process.cwd(), ignore: ["node_modules", "dist"] });
 console.log(report.score, report.grade);
@@ -98,7 +98,7 @@ interface AuditReport {
 ## CI usage
 
 ```yaml
-- run: npx @aftabahmadkhan/archsense audit --fail-on error
+- run: npx @mr-aftab-ahmad-khan/archsense audit --fail-on error
 ```
 
 Fail the build only on errors (cycles, leaked secrets), or be stricter with `warn` / `info`.

@@ -1,5 +1,5 @@
 {
-  "name": "@aftabahmadkhan/perfstack",
+  "name": "@mr-aftab-ahmad-khan/perfstack",
   "version": "0.1.0",
   "description": "Fullstack performance profiler: HTTP latency, slow MongoDB queries, memory snapshots, span tracing, and a built-in dashboard endpoint.",
   "license": "MIT",

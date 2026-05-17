@@ -1,5 +1,5 @@
 {
-  "name": "@aftabahmadkhan/npm-monorepo",
+  "name": "@mr-aftab-ahmad-khan/npm-monorepo",
   "private": true,
   "description": "Scoped workspace for MERN-focused tooling: monguard, stacksense, syncora, typepress, promptmesh, perfstack, envguard, responsa, archsense, logmesh.",
   "license": "MIT",

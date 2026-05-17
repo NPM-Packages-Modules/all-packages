@@ -1,5 +1,5 @@
 {
-  "name": "@aftabahmadkhan/typepress",
+  "name": "@mr-aftab-ahmad-khan/typepress",
   "version": "0.1.0",
   "description": "Type-safe API framework for Express. Define routes once, get runtime validation, OpenAPI, TypeScript types, and a generated fetch client for free.",
   "license": "MIT",

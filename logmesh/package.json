@@ -1,5 +1,5 @@
 {
-  "name": "@aftabahmadkhan/logmesh",
+  "name": "@mr-aftab-ahmad-khan/logmesh",
   "version": "0.1.0",
   "description": "AI-native structured logger with request tracing, error clustering, sampling, redaction, and pretty/JSON transports.",
   "license": "MIT",

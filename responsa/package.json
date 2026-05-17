@@ -1,5 +1,5 @@
 {
-  "name": "@aftabahmadkhan/responsa",
+  "name": "@mr-aftab-ahmad-khan/responsa",
   "version": "0.1.0",
   "description": "API response standardization middleware for Express — typed envelopes, paginated lists, structured errors, and per-request trace IDs.",
   "license": "MIT",

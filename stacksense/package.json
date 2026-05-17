@@ -1,5 +1,5 @@
 {
-  "name": "@aftabahmadkhan/stacksense",
+  "name": "@mr-aftab-ahmad-khan/stacksense",
   "version": "0.1.0",
   "description": "Smart Express error intelligence: parses stack traces, fingerprints + groups crashes, attaches request context, and produces actionable diagnostic reports.",
   "license": "MIT",

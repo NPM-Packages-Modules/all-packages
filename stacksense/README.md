@@ -16,14 +16,14 @@ Most teams ship Express apps with `app.use((err, req, res) => res.status(500).se
 ## Install
 
 ```bash
-npm install @aftabahmadkhan/stacksense
+npm install @mr-aftab-ahmad-khan/stacksense
 ```
 
 ## Use as Express middleware
 
 ```ts
 import express from "express";
-import { stacksense } from "@aftabahmadkhan/stacksense";
+import { stacksense } from "@mr-aftab-ahmad-khan/stacksense";
 
 const app = express();
 app.use(express.json());
@@ -71,7 +71,7 @@ Terminal output (when `pretty: true`):
 ## Use the reporter directly
 
 ```ts
-import { createStacksense } from "@aftabahmadkhan/stacksense";
+import { createStacksense } from "@mr-aftab-ahmad-khan/stacksense";
 
 const sense = createStacksense();
 
@@ -84,7 +84,7 @@ app.get("/__errors/:fp", (req, res) => res.json(sense.inspect(req.params.fp)));
 ## Generate a GitHub issue from any crash
 
 ```ts
-import { reportToGithubIssue } from "@aftabahmadkhan/stacksense";
+import { reportToGithubIssue } from "@mr-aftab-ahmad-khan/stacksense";
 
 sense.middleware = (err, req, res, next) => { /* … */ };
 

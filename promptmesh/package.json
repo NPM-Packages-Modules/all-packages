@@ -1,5 +1,5 @@
 {
-  "name": "@aftabahmadkhan/promptmesh",
+  "name": "@mr-aftab-ahmad-khan/promptmesh",
   "version": "0.1.0",
   "description": "Production-grade prompt infrastructure: versioning, variables, caching, A/B testing, fallbacks, analytics, and provider-agnostic execution.",
   "license": "MIT",
