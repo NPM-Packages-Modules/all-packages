@@ -1,6 +1,6 @@
 {
   "name": "@mr-aftab-ahmad-khan/responsa",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "API response standardization middleware for Express — typed envelopes, paginated lists, structured errors, and per-request trace IDs.",
   "license": "MIT",
   "type": "module",
@@ -62,13 +62,12 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/mern-packages.git",
-    "directory": "responsa"
+    "url": "git+https://github.com/NPM-Packages-Modules/responsa.git"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/mern-packages/issues"
+    "url": "https://github.com/NPM-Packages-Modules/responsa/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern-packages/tree/main/responsa#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/responsa#readme",
   "publishConfig": {
     "access": "public"
   }

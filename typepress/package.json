@@ -1,6 +1,6 @@
 {
   "name": "@mr-aftab-ahmad-khan/typepress",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Type-safe API framework for Express. Define routes once, get runtime validation, OpenAPI, TypeScript types, and a generated fetch client for free.",
   "license": "MIT",
   "type": "module",
@@ -62,13 +62,12 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/mern-packages.git",
-    "directory": "typepress"
+    "url": "git+https://github.com/NPM-Packages-Modules/typepress.git"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/mern-packages/issues"
+    "url": "https://github.com/NPM-Packages-Modules/typepress/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern-packages/tree/main/typepress#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/typepress#readme",
   "publishConfig": {
     "access": "public"
   }

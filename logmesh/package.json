@@ -1,6 +1,6 @@
 {
   "name": "@mr-aftab-ahmad-khan/logmesh",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "AI-native structured logger with request tracing, error clustering, sampling, redaction, and pretty/JSON transports.",
   "license": "MIT",
   "type": "module",
@@ -64,13 +64,12 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/mern-packages.git",
-    "directory": "logmesh"
+    "url": "git+https://github.com/NPM-Packages-Modules/logmesh.git"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/mern-packages/issues"
+    "url": "https://github.com/NPM-Packages-Modules/logmesh/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern-packages/tree/main/logmesh#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/logmesh#readme",
   "publishConfig": {
     "access": "public"
   }

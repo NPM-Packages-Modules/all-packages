@@ -1,6 +1,6 @@
 {
   "name": "@mr-aftab-ahmad-khan/promptmesh",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Production-grade prompt infrastructure: versioning, variables, caching, A/B testing, fallbacks, analytics, and provider-agnostic execution.",
   "license": "MIT",
   "type": "module",
@@ -50,13 +50,12 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/mern-packages.git",
-    "directory": "promptmesh"
+    "url": "git+https://github.com/NPM-Packages-Modules/promptmesh.git"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/mern-packages/issues"
+    "url": "https://github.com/NPM-Packages-Modules/promptmesh/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern-packages/tree/main/promptmesh#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/promptmesh#readme",
   "publishConfig": {
     "access": "public"
   }

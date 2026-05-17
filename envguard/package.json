@@ -1,6 +1,6 @@
 {
   "name": "@mr-aftab-ahmad-khan/envguard",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Production-safe environment validation system with schema typing, CI checks, and a CLI for missing/invalid secrets.",
   "license": "MIT",
   "type": "module",
@@ -55,13 +55,12 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/mern-packages.git",
-    "directory": "envguard"
+    "url": "git+https://github.com/NPM-Packages-Modules/envguard.git"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/mern-packages/issues"
+    "url": "https://github.com/NPM-Packages-Modules/envguard/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern-packages/tree/main/envguard#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/envguard#readme",
   "publishConfig": {
     "access": "public"
   }
