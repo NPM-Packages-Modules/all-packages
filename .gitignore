@@ -1,3 +1,6 @@
 node_modules/
 npm-debug.log*
 .DS_Store
+
+# Local smoke / publish helpers (not for version control)
+.smoke/

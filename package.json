@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/npm-monorepo",
   "private": true,
-  "description": "Scoped workspace for MERN-focused tooling: monguard, stacksense, syncora, typepress, promptmesh, perfstack, envguard, responsa, archsense, logmesh.",
+  "description": "Scoped @mr-aftab-ahmad-khan workspace: MERN observability, auth, jobs, caching, rate limits, security scanners, deploy checks, and more.",
   "license": "MIT",
   "engines": {
     "node": ">=18"
@@ -16,7 +16,17 @@
     "envguard",
     "responsa",
     "archsense",
-    "logmesh"
+    "logmesh",
+    "authmesh",
+    "jobforge",
+    "routecheck",
+    "renderguard",
+    "cachemesh",
+    "shieldpress",
+    "tenantforge",
+    "ratemesh",
+    "uploadmesh",
+    "deployguard"
   ],
   "scripts": {
     "build": "npm run build --workspaces --if-present",
