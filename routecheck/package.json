@@ -11,7 +11,7 @@
   "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js", "require": "./dist/index.cjs" } },
   "files": ["dist", "routecheck.cjs", "README.md", "LICENSE", "CHANGELOG.md"],
   "scripts": { "build": "tsup", "test": "vitest run", "typecheck": "tsc --noEmit", "prepublishOnly": "npm run build" },
-  "keywords": ["express", "testing", "openapi", "cli", "mern", "typescript"],
+  "keywords": ["express", "testing", "openapi", "cli", "mern", "merndev", "nodejs", "typescript"],
   "dependencies": { "picocolors": "^1.0.0" },
   "devDependencies": {
     "@types/express": "^4.17.21",

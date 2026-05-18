@@ -21,7 +21,7 @@
     "typecheck": "tsc --noEmit",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["jobs", "queue", "worker", "cron", "retry", "nodejs", "typescript", "mern"],
+  "keywords": ["jobs", "queue", "worker", "cron", "retry", "nodejs", "typescript", "mern", "merndev"],
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.11.0",
