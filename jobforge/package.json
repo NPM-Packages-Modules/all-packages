@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/jobforge",
   "version": "0.1.0",
-  "description": "Lightweight background jobs for Node: delayed execution, retries with backoff, periodic schedules, and in-memory monitoring hooks.",
+  "description": "Background jobs with retries, backoff, schedules, and monitoring hooks for Node.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -21,7 +21,7 @@
     "typecheck": "tsc --noEmit",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["jobs", "queue", "worker", "cron", "retry", "nodejs", "typescript", "mern", "merndev"],
+  "keywords": ["jobs", "merndev", "nodejs", "observability", "queue", "typescript", "worker", "mern", "cron", "retry"],
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.11.0",

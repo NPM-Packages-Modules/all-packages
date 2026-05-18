@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/shieldpress",
   "version": "0.1.0",
-  "description": "Static Express security scanner: missing helmet, raw query concat patterns, wildcard CORS, and auth bypass smells — ideal for CI gates.",
+  "description": "Express security static analysis: helmet gaps, injection smells, CORS and auth checks.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -11,7 +11,7 @@
   "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js", "require": "./dist/index.cjs" } },
   "files": ["dist", "shieldpress.cjs", "README.md", "LICENSE", "CHANGELOG.md"],
   "scripts": { "build": "tsup", "test": "vitest run", "typecheck": "tsc --noEmit", "prepublishOnly": "npm run build" },
-  "keywords": ["security", "express", "static-analysis", "cli", "mern", "merndev", "nodejs", "typescript"],
+  "keywords": ["cli", "express", "merndev", "nodejs", "security", "static-analysis", "typescript", "mern"],
   "dependencies": { "picocolors": "^1.0.0" },
   "devDependencies": {
     "@types/node": "^20.11.0",

@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/authmesh",
   "version": "0.1.0",
-  "description": "MERN-oriented authentication infrastructure: JWT access + refresh rotation, role guards, device context, session analytics hooks, and suspicious-login heuristics.",
+  "description": "JWT access and refresh rotation, role guards, device tracking, Express integration.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -23,17 +23,16 @@
   },
   "keywords": [
     "auth",
-    "jwt",
     "express",
-    "mern",
     "merndev",
+    "middleware",
     "nodejs",
+    "observability",
     "typescript",
+    "jwt",
     "oauth",
     "session",
-    "refresh-token",
-    "rbac",
-    "middleware"
+    "rbac"
   ],
   "dependencies": {},
   "devDependencies": {

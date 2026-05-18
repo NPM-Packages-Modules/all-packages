@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/renderguard",
   "version": "0.1.0",
-  "description": "React render observability: Profiler-based wrappers, per-tree render counts, and simple performance scoring for unnecessary re-render hotspots.",
+  "description": "React render tracking, Profiler wrappers, and hotspots for expensive subtrees.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -10,7 +10,7 @@
   "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js", "require": "./dist/index.cjs" } },
   "files": ["dist", "README.md", "LICENSE", "CHANGELOG.md"],
   "scripts": { "build": "tsup", "test": "vitest run", "typecheck": "tsc --noEmit", "prepublishOnly": "npm run build" },
-  "keywords": ["react", "performance", "profiler", "re-render", "mern", "merndev", "nodejs", "typescript"],
+  "keywords": ["merndev", "nodejs", "observability", "performance", "profiler", "react", "typescript", "mern", "re-render"],
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.11.0",
