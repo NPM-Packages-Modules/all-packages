@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/npm-monorepo",
   "private": true,
-  "description": "Scoped @mr-aftab-ahmad-khan workspace: MERN observability, auth, migrations, mocks, webhooks, flags, SDK generation, and deploy checks.",
+  "description": "Scoped @mr-aftab-ahmad-khan workspace: MERN observability, auth, CRUD/aggregation, workflows, modular Express, RBAC, cache graphs, CLIs, and deploy checks.",
   "license": "MIT",
   "engines": {
     "node": ">=18"
@@ -36,7 +36,17 @@
     "eventmesh",
     "validora",
     "sdkforge",
-    "replaystack"
+    "replaystack",
+    "relatik",
+    "workflowmesh",
+    "modulify",
+    "aggra",
+    "policyflow",
+    "formbridge",
+    "recoverpress",
+    "backendforge",
+    "cacheflow",
+    "codemorph"
   ],
   "scripts": {
     "build": "npm run build --workspaces --if-present",
