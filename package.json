@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/npm-monorepo",
   "private": true,
-  "description": "Scoped @mr-aftab-ahmad-khan workspace: MERN observability, auth, jobs, caching, rate limits, security scanners, deploy checks, and more.",
+  "description": "Scoped @mr-aftab-ahmad-khan workspace: MERN observability, auth, migrations, mocks, webhooks, flags, SDK generation, and deploy checks.",
   "license": "MIT",
   "engines": {
     "node": ">=18"
@@ -26,7 +26,17 @@
     "tenantforge",
     "ratemesh",
     "uploadmesh",
-    "deployguard"
+    "deployguard",
+    "schemashift",
+    "mockpress",
+    "heapguard",
+    "hookmesh",
+    "flagmesh",
+    "versionpress",
+    "eventmesh",
+    "validora",
+    "sdkforge",
+    "replaystack"
   ],
   "scripts": {
     "build": "npm run build --workspaces --if-present",
