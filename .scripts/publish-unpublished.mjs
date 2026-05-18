@@ -27,10 +27,10 @@ const workspaces = JSON.parse(readFileSync(join(root, "package.json"), "utf8")).
 const filter = new Set(process.argv.slice(2).filter((a) => !a.startsWith("-")));
 
 function log(msg) {
-  const line = `[${new Date().toISOString()}] ${msg}\n`;
-  process.stderr.write(line);
+  const line = `[${new Date().toISOString()}] ${msg}`;
+  if (process.stderr.isTTY) process.stderr.write(`${line}\n`);
   try {
-    appendFileSync(logPath, line);
+    appendFileSync(logPath, `${line}\n`);
   } catch {
     /* ignore */
   }
