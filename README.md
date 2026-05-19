@@ -26,9 +26,13 @@ npm run build --workspace=react-native/servbridge
 cd flutter/smart_form_x && flutter pub get && flutter test
 ```
 
+## Clean up GitHub org (remove 100+ duplicate repos)
+
+Archived copies still appear on the [org page](https://github.com/orgs/NPM-Packages-Modules/repositories) as **“Public archive”**. To remove them completely, see [`.scripts/CLEANUP-ORG.md`](./.scripts/CLEANUP-ORG.md).
+
 ## Legacy
 
-[`mern-packages`](https://github.com/NPM-Packages-Modules/mern-packages) — older combined mirror; prefer the three repos above.
+[`mern-packages`](https://github.com/NPM-Packages-Modules/mern-packages) — local dev umbrella; optional if you only use `mern`, `react-native`, and `flutter`.
 
 ## License
 

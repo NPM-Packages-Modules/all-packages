@@ -1,7 +1,19 @@
 {
   "name": "@mr-aftab-ahmad-khan/npm-monorepo",
   "private": true,
-  "description": "Monorepo: mern/, react-native/, and flutter/ — each subfolder is one package repo.",
+  "description": "MERN-focused npm workspace: @mr-aftab-ahmad-khan packages (monguard, stacksense, syncora, typepress, promptmesh, perfstack, envguard, responsa, archsense, logmesh).",
+  "keywords": [
+    "merndev",
+    "nodejs",
+    "typescript",
+    "observability",
+    "mern-packages",
+    "npm-pm",
+    "mern",
+    "monorepo",
+    "express",
+    "mongodb"
+  ],
   "license": "MIT",
   "engines": {
     "node": ">=18"
