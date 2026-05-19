@@ -1,0 +1,19 @@
+name: flutter_icon_smith
+description: Generate app icons and splash screens instantly.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+repository: https://github.com/NPM-Packages-Modules/flutter_icon_smith
