@@ -5,18 +5,41 @@
  */
 
 import { execFileSync, execSync } from "node:child_process";
-import { readFileSync, existsSync, mkdtempSync, rmSync, mkdirSync } from "node:fs";
+import { readFileSync, existsSync, mkdtempSync, rmSync, mkdirSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import { setTimeout as sleep } from "node:timers/promises";
 import { fileURLToPath } from "node:url";
 
 const ROOT = fileURLToPath(new URL("..", import.meta.url));
-let workspaces = JSON.parse(readFileSync(join(ROOT, "package.json"), "utf8")).workspaces;
+
+function expandWorkspaces(patterns) {
+  const out = [];
+  for (const w of patterns) {
+    if (w.endsWith("/*")) {
+      const dir = w.slice(0, -2);
+      const base = join(ROOT, dir);
+      if (!existsSync(base)) continue;
+      for (const name of readdirSync(base)) {
+        if (existsSync(join(base, name, "package.json"))) out.push(`${dir}/${name}`);
+      }
+    } else if (existsSync(join(ROOT, w, "package.json"))) {
+      out.push(w);
+    }
+  }
+  return out.sort();
+}
+
+let workspaces = expandWorkspaces(
+  JSON.parse(readFileSync(join(ROOT, "package.json"), "utf8")).workspaces
+);
+
 const only = process.argv.slice(2).filter((a) => !a.startsWith("-"));
 if (only.length) {
   const set = new Set(only);
-  workspaces = workspaces.filter((w) => set.has(w));
+  workspaces = workspaces.filter(
+    (w) => set.has(w) || [...set].some((f) => f.endsWith("/*") && w.startsWith(f.slice(0, -1)))
+  );
   if (!workspaces.length) {
     console.error("No matching workspace names in filter:", only.join(", "));
     process.exit(1);
