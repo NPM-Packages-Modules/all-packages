@@ -1,5 +1,7 @@
 # flutter-device-lab
 
+**Topics:** `dart` · `flutter` · `flutter-device-lab` · `mobile` · `pub`
+
 Run automated testing across device matrices.
 
 ## CLI

@@ -1,5 +1,7 @@
 # FlutterSuperTable
 
+**Topics:** `dart` · `data-grid` · `flutter` · `flutter-super-table` · `mobile` · `pub` · `table`
+
 Enterprise-level data table package.
 
 ## Features

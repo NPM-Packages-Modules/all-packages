@@ -1,5 +1,7 @@
 # flutter-api-weaver
 
+**Topics:** `api` · `cli` · `codegen` · `dart` · `flutter` · `flutter-api-weaver` · `mobile` · `pub`
+
 Generate API layers from Swagger/Postman.
 
 ## CLI

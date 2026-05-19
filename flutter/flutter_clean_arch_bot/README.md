@@ -1,5 +1,7 @@
 # flutter-clean-arch-bot
 
+**Topics:** `dart` · `flutter` · `flutter-clean-arch-bot` · `mobile` · `pub`
+
 Generate full clean architecture instantly.
 
 ## CLI

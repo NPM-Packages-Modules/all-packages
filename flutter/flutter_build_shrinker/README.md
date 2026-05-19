@@ -1,5 +1,7 @@
 # flutter-build-shrinker
 
+**Topics:** `dart` · `flutter` · `flutter-build-shrinker` · `mobile` · `pub`
+
 Reduce Flutter app size automatically.
 
 ## CLI

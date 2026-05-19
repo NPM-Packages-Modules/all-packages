@@ -1,5 +1,7 @@
 # WidgetStudio
 
+**Topics:** `dart` · `flutter` · `json` · `mobile` · `pub` · `server-driven-ui` · `widget-studio`
+
 Build Flutter UIs from JSON/schema dynamically.
 
 ## Features

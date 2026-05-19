@@ -1,5 +1,7 @@
 # flutter-widget-map
 
+**Topics:** `dart` · `flutter` · `flutter-widget-map` · `mobile` · `pub`
+
 Visualize widget dependency trees.
 
 ## CLI

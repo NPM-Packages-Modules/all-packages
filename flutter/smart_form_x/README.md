@@ -1,5 +1,7 @@
 # SmartFormX
 
+**Topics:** `dart` · `flutter` · `forms` · `mobile` · `pub` · `smart-form-x` · `ui` · `validation`
+
 AI-powered form engine for Flutter.
 
 ## Features

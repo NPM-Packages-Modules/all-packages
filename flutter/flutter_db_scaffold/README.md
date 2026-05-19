@@ -1,5 +1,7 @@
 # flutter-db-scaffold
 
+**Topics:** `dart` · `database` · `drift` · `flutter` · `flutter-db-scaffold` · `mobile` · `pub` · `sqlite`
+
 Generate local database layers automatically.
 
 ## CLI

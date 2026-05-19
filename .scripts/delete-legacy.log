@@ -1,0 +1,345 @@
+Keep: mern, react-native, flutter, mern-packages
+Packages in monorepos: 115
+Legacy repos to delete: 113
+
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/adminforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/adminforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/aggra)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/aggra
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/apiblocks)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/apiblocks
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/apidocsmith)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/apidocsmith
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/apiflowx)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/apiflowx
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/apilifecycle)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/apilifecycle
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/archsense)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/archsense
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/authmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/authmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/backendforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/backendforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/cacheflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/cacheflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/cacheforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/cacheforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/cachemesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/cachemesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/cachepilot)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/cachepilot
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/chainsentry)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/chainsentry
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/codemorph)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/codemorph
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/configforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/configforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/cost-limiter)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/cost-limiter
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/cronmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/cronmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/cronpilot)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/cronpilot
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/ctrlflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/ctrlflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/datamorph)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/datamorph
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/dbflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/dbflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/dbmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/dbmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/deployguard)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/deployguard
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/deploysense)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/deploysense
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/docstack)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/docstack
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/duoapi)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/duoapi
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/envguard)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/envguard
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/envrunes)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/envrunes
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/envsyncer)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/envsyncer
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/eventbridgex)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/eventbridgex
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/eventforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/eventforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/eventmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/eventmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/fileflux)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/fileflux
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/flagmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/flagmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/formbridge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/formbridge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/fusionstack)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/fusionstack
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/graphstack)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/graphstack
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/guardpress)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/guardpress
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/heapguard)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/heapguard
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/hookmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/hookmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/hookretry)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/hookretry
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/injectflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/injectflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/jobforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/jobforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/lesscode)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/lesscode
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/llmtoken)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/llmtoken
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/lockmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/lockmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/logicforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/logicforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/logmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/logmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/mcp-bootstrap)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/mcp-bootstrap
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/metricpress)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/metricpress
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/midflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/midflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/mockpress)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/mockpress
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/modstack)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/modstack
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/modulify)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/modulify
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/mongoforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/mongoforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/mongoose-advanced-plugin)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/mongoose-advanced-plugin
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/monguard)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/monguard
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/monodrift)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/monodrift
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/pageforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/pageforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/perfstack)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/perfstack
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/picsmith)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/picsmith
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/pipeguard)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/pipeguard
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/plugstack)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/plugstack
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/policyflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/policyflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/promptmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/promptmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/promptver)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/promptver
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/queryforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/queryforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/querygenie)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/querygenie
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/queueflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/queueflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/ratemesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/ratemesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/reconnecting-stream)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/reconnecting-stream
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/recoverpress)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/recoverpress
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/relaforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/relaforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/relatik)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/relatik
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/renderguard)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/renderguard
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/replaystack)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/replaystack
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/responsa)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/responsa
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/retryflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/retryflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/retrystack)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/retrystack
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/routeblocks)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/routeblocks
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/routeboost)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/routeboost
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/routecheck)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/routecheck
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/routeforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/routeforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/rulemesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/rulemesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/schemagen)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/schemagen
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/schemashift)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/schemashift
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/schemaui)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/schemaui
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/sdkforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/sdkforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/sdkpress)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/sdkpress
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/searchforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/searchforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/secureflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/secureflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/seedforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/seedforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/servbridge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/servbridge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/serviceforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/serviceforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/servqueue)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/servqueue
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/shieldpress)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/shieldpress
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/socketmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/socketmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/stacksense)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/stacksense
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/stacktracex)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/stacktracex
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/statemesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/statemesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/syncora)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/syncora
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/tenantforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/tenantforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/testforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/testforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/transactly)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/transactly
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/typepress)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/typepress
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/uploadflow)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/uploadflow
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/uploadmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/uploadmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/validora)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/validora
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/versionpress)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/versionpress
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/workerforge)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/workerforge
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/workflowmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/workflowmesh
+HTTP 403: Must have admin rights to Repository. (https://api.github.com/repos/NPM-Packages-Modules/wsmesh)
+This API operation needs the "delete_repo" scope. To request it, run:  gh auth refresh -h github.com -s delete_repo
+FAIL NPM-Packages-Modules/wsmesh
+
+Failed: adminforge, aggra, apiblocks, apidocsmith, apiflowx, apilifecycle, archsense, authmesh, backendforge, cacheflow, cacheforge, cachemesh, cachepilot, chainsentry, codemorph, configforge, cost-limiter, cronmesh, cronpilot, ctrlflow, datamorph, dbflow, dbmesh, deployguard, deploysense, docstack, duoapi, envguard, envrunes, envsyncer, eventbridgex, eventforge, eventmesh, fileflux, flagmesh, formbridge, fusionstack, graphstack, guardpress, heapguard, hookmesh, hookretry, injectflow, jobforge, lesscode, llmtoken, lockmesh, logicforge, logmesh, mcp-bootstrap, metricpress, midflow, mockpress, modstack, modulify, mongoforge, mongoose-advanced-plugin, monguard, monodrift, pageforge, perfstack, picsmith, pipeguard, plugstack, policyflow, promptmesh, promptver, queryforge, querygenie, queueflow, ratemesh, reconnecting-stream, recoverpress, relaforge, relatik, renderguard, replaystack, responsa, retryflow, retrystack, routeblocks, routeboost, routecheck, routeforge, rulemesh, schemagen, schemashift, schemaui, sdkforge, sdkpress, searchforge, secureflow, seedforge, servbridge, serviceforge, servqueue, shieldpress, socketmesh, stacksense, stacktracex, statemesh, syncora, tenantforge, testforge, transactly, typepress, uploadflow, uploadmesh, validora, versionpress, workerforge, workflowmesh, wsmesh

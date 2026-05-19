@@ -1,5 +1,7 @@
 # flutter-zero-setup
 
+**Topics:** `cli` · `dart` · `flutter` · `flutter-zero-setup` · `mobile` · `pub` · `scaffolding`
+
 Initialize a production-grade Flutter app in one command.
 
 ## CLI

@@ -1,5 +1,7 @@
 # AppFlowOrchestrator
 
+**Topics:** `app-flow-orchestrator` · `dart` · `flutter` · `mobile` · `navigation` · `pub` · `routing`
+
 Visual screen flow/state orchestration engine.
 
 ## Features

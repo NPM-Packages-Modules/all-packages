@@ -1,5 +1,7 @@
 # flutter-state-smith
 
+**Topics:** `dart` · `flutter` · `flutter-state-smith` · `mobile` · `pub`
+
 Generate complete state management architecture.
 
 ## CLI

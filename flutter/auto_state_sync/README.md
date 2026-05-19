@@ -1,5 +1,7 @@
 # AutoStateSync
 
+**Topics:** `auto-state-sync` · `cache` · `dart` · `flutter` · `mobile` · `offline` · `pub` · `state`
+
 Automatic API → local state → cache synchronization.
 
 ## Features

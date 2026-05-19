@@ -1,5 +1,7 @@
 # flutter-monorepo-chief
 
+**Topics:** `dart` · `flutter` · `flutter-monorepo-chief` · `mobile` · `pub`
+
 Manage Flutter monorepos effortlessly.
 
 ## CLI

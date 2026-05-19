@@ -123,15 +123,33 @@ function mergeKeywords(...lists) {
   return [...set].sort();
 }
 
+function topicsLine(keywords) {
+  return `**Topics:** ${keywords.map((k) => `\`${k}\``).join(" · ")}\n\n`;
+}
+
+function patchReadmeTopics(readmePath, keywords) {
+  if (!existsSync(readmePath)) return;
+  let md = readFileSync(readmePath, "utf8");
+  md = md.replace(/^\*\*Topics:\*\*[^\n]*\n\n/m, "");
+  const line = topicsLine(keywords);
+  if (/^# /m.test(md)) {
+    md = md.replace(/^(# [^\n]+\n\n)/m, `$1${line}`);
+  } else {
+    md = line + md;
+  }
+  writeFileSync(readmePath, md);
+}
+
 function patchNpm(ecosystem, extraMap, addRn = false) {
   const base = join(ROOT, ecosystem);
   let n = 0;
   for (const name of readdirSync(base)) {
-    const p = join(base, name, "package.json");
+    const dir = join(base, name);
+    const p = join(dir, "package.json");
     if (!existsSync(p)) continue;
     const pkg = JSON.parse(readFileSync(p, "utf8"));
     const optional = inferOptional(pkg, name);
-    pkg.keywords = mergeKeywords(
+    const keywords = mergeKeywords(
       ORG_STANDARD,
       addRn ? RN_EXTRA : [],
       optional,
@@ -139,10 +157,16 @@ function patchNpm(ecosystem, extraMap, addRn = false) {
       pkg.keywords || [],
       [name]
     );
+    pkg.keywords = keywords;
     writeFileSync(p, JSON.stringify(pkg, null, 2) + "\n");
+    patchReadmeTopics(join(dir, "README.md"), keywords);
+    writeFileSync(
+      join(dir, "package-topics.json"),
+      JSON.stringify({ topics: keywords }, null, 2) + "\n"
+    );
     n++;
   }
-  console.log(`${ecosystem}: ${n} package.json updated`);
+  console.log(`${ecosystem}: ${n} packages updated (keywords + README topics)`);
 }
 
 function patchFlutter() {
@@ -164,9 +188,17 @@ function patchFlutter() {
       yaml = yaml.replace(/^(version: .+\n)/m, `$1\n${block}`);
     }
     writeFileSync(pubPath, yaml);
+    const readmePath = join(base, name, "README.md");
+    patchReadmeTopics(readmePath, topics);
+    if (existsSync(readmePath)) {
+      writeFileSync(
+        join(base, name, "package-topics.json"),
+        JSON.stringify({ topics }, null, 2) + "\n"
+      );
+    }
     n++;
   }
-  console.log(`flutter: ${n} pubspec.yaml updated`);
+  console.log(`flutter: ${n} pub packages updated (pubspec topics + README)`);
 }
 
 patchNpm("mern", MERN_EXTRA, false);

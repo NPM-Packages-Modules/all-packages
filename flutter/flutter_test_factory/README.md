@@ -1,5 +1,7 @@
 # flutter-test-factory
 
+**Topics:** `dart` · `flutter` · `flutter-test-factory` · `mobile` · `pub`
+
 Generate Flutter tests automatically.
 
 ## CLI

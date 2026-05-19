@@ -1,5 +1,7 @@
 # flutter-asset-sync
 
+**Topics:** `dart` · `flutter` · `flutter-asset-sync` · `mobile` · `pub`
+
 Sync Figma/exported assets directly into Flutter projects.
 
 ## CLI

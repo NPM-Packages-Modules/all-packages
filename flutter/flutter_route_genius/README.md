@@ -1,5 +1,7 @@
 # flutter-route-genius
 
+**Topics:** `cli` · `dart` · `flutter` · `flutter-route-genius` · `mobile` · `navigation` · `pub`
+
 Auto-generate type-safe navigation.
 
 ## CLI

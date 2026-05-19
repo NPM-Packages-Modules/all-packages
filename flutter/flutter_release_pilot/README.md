@@ -1,5 +1,7 @@
 # flutter-release-pilot
 
+**Topics:** `dart` · `flutter` · `flutter-release-pilot` · `mobile` · `pub`
+
 Fully automate Flutter releases.
 
 ## CLI

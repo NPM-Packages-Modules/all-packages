@@ -1,5 +1,7 @@
 # MotionBuilder
 
+**Topics:** `animation` · `dart` · `flutter` · `mobile` · `motion-builder` · `pub` · `ui`
+
 No-code animation system for Flutter.
 
 ## Features

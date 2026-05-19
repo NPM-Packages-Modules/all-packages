@@ -1,5 +1,7 @@
 # flutter-pub-cleaner
 
+**Topics:** `dart` · `flutter` · `flutter-pub-cleaner` · `mobile` · `pub`
+
 Remove unused Flutter dependencies automatically.
 
 ## CLI

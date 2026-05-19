@@ -1,5 +1,7 @@
 # ResponsiveMagicUI
 
+**Topics:** `dart` · `flutter` · `layout` · `mobile` · `pub` · `responsive` · `responsive-magic-ui` · `ui`
+
 Fully automatic responsive layout engine.
 
 ## Features

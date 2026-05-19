@@ -1,5 +1,7 @@
 # flutter-perf-doctor
 
+**Topics:** `dart` · `flutter` · `flutter-perf-doctor` · `mobile` · `pub`
+
 Detect Flutter performance issues automatically.
 
 ## CLI

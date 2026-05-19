@@ -1,5 +1,7 @@
 # SecureVaultLite
 
+**Topics:** `dart` · `flutter` · `mobile` · `pub` · `secure-vault-lite` · `security` · `storage`
+
 Complete secure local storage ecosystem.
 
 ## Features

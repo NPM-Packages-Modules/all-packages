@@ -1,5 +1,7 @@
 # flutter-screen-forge
 
+**Topics:** `dart` · `flutter` · `flutter-screen-forge` · `mobile` · `pub`
+
 Generate complete screens from prompts.
 
 ## CLI

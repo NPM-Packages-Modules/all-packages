@@ -1,5 +1,7 @@
 # flutter-firelink
 
+**Topics:** `dart` · `flutter` · `flutter-firelink` · `mobile` · `pub`
+
 Firebase setup in one command.
 
 ## CLI

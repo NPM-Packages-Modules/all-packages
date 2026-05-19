@@ -1,5 +1,7 @@
 # SmartThemeEngine
 
+**Topics:** `dart` · `flutter` · `mobile` · `pub` · `smart-theme-engine` · `theme` · `ui`
+
 Dynamic AI-style theming system.
 
 ## Features

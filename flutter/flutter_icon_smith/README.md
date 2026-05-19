@@ -1,5 +1,7 @@
 # flutter-icon-smith
 
+**Topics:** `dart` · `flutter` · `flutter-icon-smith` · `mobile` · `pub`
+
 Generate app icons and splash screens instantly.
 
 ## CLI

@@ -1,5 +1,7 @@
 # AutoLocalizationKit
 
+**Topics:** `auto-localization-kit` · `dart` · `flutter` · `i18n` · `localization` · `mobile` · `pub`
+
 Fully automated localization system.
 
 ## Features
