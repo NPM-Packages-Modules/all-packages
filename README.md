@@ -1,23 +1,16 @@
-# MERN packages monorepo
+# NPM packages monorepo
 
-Public npm workspace under **`@mr-aftab-ahmad-khan/*`**. This repo aggregates sources for local development; **each package also has its own GitHub repo** (canonical for issues and publishing from a single-package checkout).
+Public packages under **`@mr-aftab-ahmad-khan/*`** (npm) and Dart **`pub`** packages. Each subfolder is a **standalone repo** (GitHub: [`NPM-Packages-Modules`](https://github.com/NPM-Packages-Modules)).
 
-| Package | Standalone repo | Role |
-| --- | --- | --- |
-| `@mr-aftab-ahmad-khan/monguard` | [monguard](https://github.com/NPM-Packages-Modules/monguard) | Mongoose query profiler & index hints |
-| `@mr-aftab-ahmad-khan/stacksense` | [stacksense](https://github.com/NPM-Packages-Modules/stacksense) | Express error middleware & fingerprints |
-| `@mr-aftab-ahmad-khan/syncora` | [syncora](https://github.com/NPM-Packages-Modules/syncora) | Realtime sync (WS + React hooks) |
-| `@mr-aftab-ahmad-khan/typepress` | [typepress](https://github.com/NPM-Packages-Modules/typepress) | Type-safe Express API helpers |
-| `@mr-aftab-ahmad-khan/promptmesh` | [promptmesh](https://github.com/NPM-Packages-Modules/promptmesh) | Prompt versioning, cache, A/B |
-| `@mr-aftab-ahmad-khan/perfstack` | [perfstack](https://github.com/NPM-Packages-Modules/perfstack) | Full-stack perf profiling |
-| `@mr-aftab-ahmad-khan/envguard` | [envguard](https://github.com/NPM-Packages-Modules/envguard) | Env validation + CLI |
-| `@mr-aftab-ahmad-khan/responsa` | [responsa](https://github.com/NPM-Packages-Modules/responsa) | Standard API responses |
-| `@mr-aftab-ahmad-khan/archsense` | [archsense](https://github.com/NPM-Packages-Modules/archsense) | Architecture audit CLI |
-| `@mr-aftab-ahmad-khan/logmesh` | [logmesh](https://github.com/NPM-Packages-Modules/logmesh) | Structured logging |
+## Three ecosystem folders
 
-Monorepo mirror: [NPM-Packages-Modules/mern-packages](https://github.com/NPM-Packages-Modules/mern-packages).
+| Folder | Stack | Workspace | Packages |
+| --- | --- | --- | --- |
+| [`mern/`](./mern/) | Node, Express, MongoDB, React (web) | `mern/*` (npm) | All MERN/backend npm repos |
+| [`react-native/`](./react-native/) | React Native (iOS/Android) | `react-native/*` (npm) | Mobile RN repos |
+| [`flutter/`](./flutter/) | Dart / Flutter | — (`pub`, not npm) | Flutter libraries & CLI tools |
 
-Repositories use topics such as **`nodejs`**, **`typescript`**, **`merndev`**, **`middleware`**, and package-specific tags (e.g. **`llm`**, **`openai`**, **`rate-limiting`**, **`budget`** on promptmesh).
+Put every new repo in the matching folder — same layout as existing MERN packages (`package.json`, `src/`, README, LICENSE, publish workflow).
 
 ## Development
 
@@ -25,8 +18,22 @@ Repositories use topics such as **`nodejs`**, **`typescript`**, **`merndev`**, *
 npm install
 npm run build
 npm test
+
+# One MERN package
+npm run build --workspace=mern/monguard
+npm test --workspace=mern/logmesh
+
+# Flutter (from package dir)
+cd flutter/smart_form_x && flutter pub get && flutter test
+```
+
+## Sync to GitHub
+
+```bash
+node .scripts/sync-workspace-repos.mjs
+node .scripts/sync-workspace-repos.mjs mern/monguard   # single package
 ```
 
 ## License
 
-Packages are licensed under MIT unless noted in each folder.
+MIT unless noted in each package folder.
