@@ -44,12 +44,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/cacheforge.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "cacheforge"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/cacheforge/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/cacheforge#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/cacheforge",
   "publishConfig": {
     "access": "public"
   }

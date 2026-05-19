@@ -71,12 +71,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/querygenie.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
+    "directory": "querygenie"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/querygenie/issues"
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/querygenie#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/querygenie",
   "publishConfig": {
     "access": "public"
   }

@@ -7,10 +7,36 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js", "require": "./dist/index.cjs" } },
-  "files": ["dist", "README.md", "LICENSE", "CHANGELOG.md"],
-  "scripts": { "build": "tsup", "test": "vitest run", "typecheck": "tsc --noEmit", "prepublishOnly": "npm run build" },
-  "keywords": ["merndev", "nodejs", "s3", "typescript", "upload", "express", "validation", "mern", "multer"],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "merndev",
+    "nodejs",
+    "s3",
+    "typescript",
+    "upload",
+    "express",
+    "validation",
+    "mern",
+    "multer"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.11.0",
@@ -18,12 +44,28 @@
     "typescript": "^5.4.0",
     "vitest": "^1.4.0"
   },
-  "peerDependencies": { "multer": "^1.4.0 || ^2.0.0" },
-  "peerDependenciesMeta": { "multer": { "optional": true } },
-  "engines": { "node": ">=18" },
+  "peerDependencies": {
+    "multer": "^1.4.0 || ^2.0.0"
+  },
+  "peerDependenciesMeta": {
+    "multer": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
-  "repository": { "type": "git", "url": "git+https://github.com/NPM-Packages-Modules/uploadmesh.git" },
-  "bugs": { "url": "https://github.com/NPM-Packages-Modules/uploadmesh/issues" },
-  "homepage": "https://github.com/NPM-Packages-Modules/uploadmesh#readme",
-  "publishConfig": { "access": "public" }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "uploadmesh"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/uploadmesh",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -70,12 +70,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/stacktracex.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
+    "directory": "stacktracex"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/stacktracex/issues"
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/stacktracex#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/stacktracex",
   "publishConfig": {
     "access": "public"
   }

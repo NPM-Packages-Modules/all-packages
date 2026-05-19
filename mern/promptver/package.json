@@ -61,10 +61,11 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/promptver.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "promptver"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/promptver/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/promptver#readme"
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/promptver"
 }

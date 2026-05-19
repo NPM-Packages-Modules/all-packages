@@ -7,12 +7,44 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "bin": { "deployguard": "deployguard.cjs" },
-  "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js", "require": "./dist/index.cjs" } },
-  "files": ["dist", "deployguard.cjs", "README.md", "LICENSE", "CHANGELOG.md"],
-  "scripts": { "build": "tsup", "test": "vitest run", "typecheck": "tsc --noEmit", "prepublishOnly": "npm run build" },
-  "keywords": ["cli", "deploy", "devops", "docker", "merndev", "nodejs", "typescript", "mern", "mongo", "validation"],
-  "dependencies": { "picocolors": "^1.0.0" },
+  "bin": {
+    "deployguard": "deployguard.cjs"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "deployguard.cjs",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "cli",
+    "deploy",
+    "devops",
+    "docker",
+    "merndev",
+    "nodejs",
+    "typescript",
+    "mern",
+    "mongo",
+    "validation"
+  ],
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
   "devDependencies": {
     "@types/node": "^20.11.0",
     "mongodb": "^6.3.0",
@@ -20,10 +52,20 @@
     "typescript": "^5.4.0",
     "vitest": "^1.4.0"
   },
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
-  "repository": { "type": "git", "url": "git+https://github.com/NPM-Packages-Modules/deployguard.git" },
-  "bugs": { "url": "https://github.com/NPM-Packages-Modules/deployguard/issues" },
-  "homepage": "https://github.com/NPM-Packages-Modules/deployguard#readme",
-  "publishConfig": { "access": "public" }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "deployguard"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/deployguard",
+  "publishConfig": {
+    "access": "public"
+  }
 }

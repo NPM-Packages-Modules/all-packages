@@ -44,12 +44,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/hookretry.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "hookretry"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/hookretry/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/hookretry#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/hookretry",
   "publishConfig": {
     "access": "public"
   }

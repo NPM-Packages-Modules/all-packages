@@ -46,12 +46,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/sdkpress.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "sdkpress"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/sdkpress/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/sdkpress#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/sdkpress",
   "publishConfig": {
     "access": "public"
   },

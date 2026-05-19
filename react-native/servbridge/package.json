@@ -58,12 +58,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/servbridge.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
+    "directory": "servbridge"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/servbridge/issues"
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/servbridge#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/servbridge",
   "publishConfig": {
     "access": "public"
   },

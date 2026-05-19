@@ -64,10 +64,11 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/cost-limiter.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "cost-limiter"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/cost-limiter/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/cost-limiter#readme"
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/cost-limiter"
 }

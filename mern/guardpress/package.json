@@ -48,12 +48,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/guardpress.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "guardpress"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/guardpress/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/guardpress#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/guardpress",
   "publishConfig": {
     "access": "public"
   },

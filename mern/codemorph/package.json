@@ -7,7 +7,9 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "bin": { "codemorph": "codemorph.cjs" },
+  "bin": {
+    "codemorph": "codemorph.cjs"
+  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -15,25 +17,50 @@
       "require": "./dist/index.cjs"
     }
   },
-  "files": ["dist", "codemorph.cjs", "README.md", "LICENSE", "CHANGELOG.md"],
+  "files": [
+    "dist",
+    "codemorph.cjs",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
   "scripts": {
     "build": "tsup",
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["refactor", "cli", "static-analysis", "dedupe", "merndev", "typescript"],
-  "dependencies": { "picocolors": "^1.0.0" },
+  "keywords": [
+    "refactor",
+    "cli",
+    "static-analysis",
+    "dedupe",
+    "merndev",
+    "typescript"
+  ],
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
   "devDependencies": {
     "@types/node": "^20.11.0",
     "tsup": "^8.0.0",
     "typescript": "^5.4.0",
     "vitest": "^1.4.0"
   },
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
-  "repository": { "type": "git", "url": "git+https://github.com/NPM-Packages-Modules/codemorph.git" },
-  "bugs": { "url": "https://github.com/NPM-Packages-Modules/codemorph/issues" },
-  "homepage": "https://github.com/NPM-Packages-Modules/codemorph#readme",
-  "publishConfig": { "access": "public" }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "codemorph"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/codemorph",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -65,12 +65,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/schemashift.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
+    "directory": "schemashift"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/schemashift/issues"
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/schemashift#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/schemashift",
   "publishConfig": {
     "access": "public"
   },

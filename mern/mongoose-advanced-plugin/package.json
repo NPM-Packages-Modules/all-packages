@@ -15,12 +15,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aftab-ahmad-khan-dev/mongoose-advanced-plugin.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "mongoose-advanced-plugin"
   },
   "bugs": {
-    "url": "https://github.com/aftab-ahmad-khan-dev/mongoose-advanced-plugin/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/aftab-ahmad-khan-dev/mongoose-advanced-plugin#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/mongoose-advanced-plugin",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [

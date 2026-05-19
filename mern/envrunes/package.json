@@ -75,12 +75,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/envrunes.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "envrunes"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/envrunes/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/envrunes#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/envrunes",
   "publishConfig": {
     "access": "public"
   }

@@ -61,12 +61,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/perfstack.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "perfstack"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/perfstack/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/perfstack#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/perfstack",
   "publishConfig": {
     "access": "public"
   }

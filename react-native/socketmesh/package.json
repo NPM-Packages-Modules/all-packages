@@ -70,12 +70,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/socketmesh.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
+    "directory": "socketmesh"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/socketmesh/issues"
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/socketmesh#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/socketmesh",
   "publishConfig": {
     "access": "public"
   }

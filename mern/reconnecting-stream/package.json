@@ -56,10 +56,11 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/reconnecting-stream.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "reconnecting-stream"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/reconnecting-stream/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/reconnecting-stream#readme"
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/reconnecting-stream"
 }

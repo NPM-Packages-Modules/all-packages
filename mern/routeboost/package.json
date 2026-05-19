@@ -49,12 +49,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/routeboost.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "routeboost"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/routeboost/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/routeboost#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/routeboost",
   "publishConfig": {
     "access": "public"
   },

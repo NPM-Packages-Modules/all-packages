@@ -45,12 +45,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/pageforge.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "pageforge"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/pageforge/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/pageforge#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/pageforge",
   "publishConfig": {
     "access": "public"
   }

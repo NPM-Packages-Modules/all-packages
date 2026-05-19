@@ -70,12 +70,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/servqueue.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
+    "directory": "servqueue"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/servqueue/issues"
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/servqueue#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/servqueue",
   "publishConfig": {
     "access": "public"
   }

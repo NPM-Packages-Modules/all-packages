@@ -58,12 +58,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/datamorph.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
+    "directory": "datamorph"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/datamorph/issues"
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/datamorph#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/datamorph",
   "publishConfig": {
     "access": "public"
   },

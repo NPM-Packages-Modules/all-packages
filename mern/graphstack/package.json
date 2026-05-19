@@ -46,12 +46,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/graphstack.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "graphstack"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/graphstack/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/graphstack#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/graphstack",
   "publishConfig": {
     "access": "public"
   },

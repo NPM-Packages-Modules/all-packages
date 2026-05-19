@@ -62,12 +62,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/typepress.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "typepress"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/typepress/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/typepress#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/typepress",
   "publishConfig": {
     "access": "public"
   }

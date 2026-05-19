@@ -70,12 +70,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/cronpilot.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
+    "directory": "cronpilot"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/cronpilot/issues"
+    "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/cronpilot#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/cronpilot",
   "publishConfig": {
     "access": "public"
   }

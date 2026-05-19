@@ -48,12 +48,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/ctrlflow.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "ctrlflow"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/ctrlflow/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/ctrlflow#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/ctrlflow",
   "publishConfig": {
     "access": "public"
   },

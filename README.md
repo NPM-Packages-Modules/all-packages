@@ -1,31 +1,35 @@
-# NPM packages monorepo
+# NPM Packages Modules — dev workspace
 
-Local dev mirror for [@mr-aftab-ahmad-khan](https://www.npmjs.com/~mr-aftab-ahmad-khan) packages. **Each package has its own repo** on [NPM-Packages-Modules](https://github.com/orgs/NPM-Packages-Modules/repositories).
+Local umbrella for three **GitHub monorepos** ([NPM-Packages-Modules](https://github.com/orgs/NPM-Packages-Modules/repositories)):
 
-## Folders
-
-| Folder | Stack | npm workspace |
+| GitHub repo | Folder here | Packages |
 | --- | --- | --- |
-| [`mern/`](./mern/) | Node, Express, MongoDB, React (web) | `mern/*` |
-| [`react-native/`](./react-native/) | React Native (20 mobile packages) | `react-native/*` |
-| [`flutter/`](./flutter/) | Dart / Flutter | — (`pub` per package) |
+| [**mern**](https://github.com/NPM-Packages-Modules/mern) | [`mern/`](./mern/) | ~96 Node/MERN npm packages |
+| [**react-native**](https://github.com/NPM-Packages-Modules/react-native) | [`react-native/`](./react-native/) | 20 React Native npm packages |
+| [**flutter**](https://github.com/NPM-Packages-Modules/flutter) | [`flutter/`](./flutter/) | 30 Dart/Flutter packages |
 
-## Development
+Each package is a **subfolder** inside its ecosystem repo — not a separate org repo.
+
+## Sync to GitHub
+
+```bash
+node .scripts/sync-ecosystem-repos.mjs           # all three
+node .scripts/sync-ecosystem-repos.mjs mern      # one ecosystem
+```
+
+## Local development
 
 ```bash
 npm install
 npm run build --workspace=mern/monguard
+npm run build --workspace=react-native/servbridge
 cd flutter/smart_form_x && flutter pub get && flutter test
 ```
 
-## Sync package → GitHub
+## Legacy
 
-```bash
-node .scripts/sync-workspace-repos.mjs mern/monguard
-```
-
-Monorepo: [mern-packages](https://github.com/NPM-Packages-Modules/mern-packages).
+[`mern-packages`](https://github.com/NPM-Packages-Modules/mern-packages) — older combined mirror; prefer the three repos above.
 
 ## License
 
-MIT per package unless noted.
+MIT per package.

@@ -3,7 +3,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-All **Flutter / Dart** packages live here (not npm workspaces — use `pub` per package). Same idea as [`../mern`](../mern): one folder = one repo under [`NPM-Packages-Modules`](https://github.com/NPM-Packages-Modules).
+Canonical repo: **[github.com/NPM-Packages-Modules/flutter](https://github.com/NPM-Packages-Modules/flutter)**
+
+Each subfolder is one Dart/Flutter package (`pub` per package).
 
 ## Layout (every repo)
 

@@ -7,15 +7,33 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js", "require": "./dist/index.cjs" } },
-  "files": ["dist", "README.md", "LICENSE", "CHANGELOG.md"],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
   "scripts": {
     "build": "tsup",
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["express", "api-versioning", "merndev", "nodejs", "typescript", "middleware"],
+  "keywords": [
+    "express",
+    "api-versioning",
+    "merndev",
+    "nodejs",
+    "typescript",
+    "middleware"
+  ],
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^20.11.0",
@@ -26,12 +44,28 @@
     "typescript": "^5.4.0",
     "vitest": "^1.4.0"
   },
-  "peerDependencies": { "express": "^4.0.0 || ^5.0.0" },
-  "peerDependenciesMeta": { "express": { "optional": true } },
-  "engines": { "node": ">=18" },
+  "peerDependencies": {
+    "express": "^4.0.0 || ^5.0.0"
+  },
+  "peerDependenciesMeta": {
+    "express": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
-  "repository": { "type": "git", "url": "git+https://github.com/NPM-Packages-Modules/versionpress.git" },
-  "bugs": { "url": "https://github.com/NPM-Packages-Modules/versionpress/issues" },
-  "homepage": "https://github.com/NPM-Packages-Modules/versionpress#readme",
-  "publishConfig": { "access": "public" }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "versionpress"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/versionpress",
+  "publishConfig": {
+    "access": "public"
+  }
 }

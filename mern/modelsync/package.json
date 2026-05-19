@@ -57,12 +57,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/modelsync.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "modelsync"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/modelsync/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/modelsync#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/modelsync",
   "publishConfig": {
     "access": "public"
   }

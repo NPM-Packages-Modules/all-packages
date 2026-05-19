@@ -46,12 +46,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/docstack.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "docstack"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/docstack/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/docstack#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/docstack",
   "publishConfig": {
     "access": "public"
   },

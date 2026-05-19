@@ -46,12 +46,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/testforge.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "testforge"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/testforge/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/testforge#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/testforge",
   "publishConfig": {
     "access": "public"
   },

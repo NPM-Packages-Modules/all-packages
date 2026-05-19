@@ -14,17 +14,38 @@
       "require": "./dist/index.cjs"
     }
   },
-  "files": ["dist", "README.md", "LICENSE", "CHANGELOG.md"],
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
   "scripts": {
     "build": "tsup",
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["react", "zod", "form", "validation", "merndev", "typescript", "schema"],
-  "dependencies": { "zod": "^3.23.8" },
-  "peerDependencies": { "react": ">=18" },
-  "peerDependenciesMeta": { "react": { "optional": true } },
+  "keywords": [
+    "react",
+    "zod",
+    "form",
+    "validation",
+    "merndev",
+    "typescript",
+    "schema"
+  ],
+  "dependencies": {
+    "zod": "^3.23.8"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
   "devDependencies": {
     "@types/node": "^20.11.0",
     "@types/react": "^18.2.0",
@@ -35,10 +56,20 @@
     "typescript": "^5.4.0",
     "vitest": "^1.4.0"
   },
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
-  "repository": { "type": "git", "url": "git+https://github.com/NPM-Packages-Modules/schemaui.git" },
-  "bugs": { "url": "https://github.com/NPM-Packages-Modules/schemaui/issues" },
-  "homepage": "https://github.com/NPM-Packages-Modules/schemaui#readme",
-  "publishConfig": { "access": "public" }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "schemaui"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/schemaui",
+  "publishConfig": {
+    "access": "public"
+  }
 }

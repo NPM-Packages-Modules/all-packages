@@ -55,12 +55,13 @@
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPM-Packages-Modules/chainsentry.git"
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "chainsentry"
   },
   "bugs": {
-    "url": "https://github.com/NPM-Packages-Modules/chainsentry/issues"
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/chainsentry#readme",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/chainsentry",
   "publishConfig": {
     "access": "public"
   }
