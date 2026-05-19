@@ -6,7 +6,8 @@
  *
  * Usage:
  *   node .scripts/delete-legacy-repos.mjs --dry-run
- *   node .scripts/delete-legacy-repos.mjs --yes
+ *   node .scripts/delete-legacy-repos.mjs --archive   # works with repo scope
+ *   node .scripts/delete-legacy-repos.mjs --yes        # needs: gh auth refresh -s delete_repo
  */
 
 import { execFileSync } from "node:child_process";
@@ -20,9 +21,10 @@ const KEEP = new Set(["mern", "react-native", "flutter", "mern-packages"]);
 
 const dryRun = process.argv.includes("--dry-run");
 const yes = process.argv.includes("--yes");
+const archive = process.argv.includes("--archive");
 
-if (!dryRun && !yes) {
-  console.error("Pass --dry-run or --yes to delete repos.");
+if (!dryRun && !yes && !archive) {
+  console.error("Pass --dry-run, --archive, or --yes");
   process.exit(1);
 }
 
@@ -66,23 +68,30 @@ const toDelete = repos
 
 console.log(`Keep: ${[...KEEP].join(", ")}`);
 console.log(`Packages in monorepos: ${inMonorepo.size}`);
-console.log(`Legacy repos to delete: ${toDelete.length}\n`);
+const action = archive ? "archive" : "delete";
+console.log(`Legacy repos to ${action}: ${toDelete.length}\n`);
 
 if (dryRun) {
-  for (const name of toDelete) console.log("  would delete", `${ORG}/${name}`);
+  for (const name of toDelete) console.log(`  would ${action}`, `${ORG}/${name}`);
   process.exit(0);
 }
 
-ensureDeleteScope();
+if (yes) ensureDeleteScope();
 
 const failed = [];
 for (let i = 0; i < toDelete.length; i++) {
   const name = toDelete[i];
   const slug = `${ORG}/${name}`;
   try {
-    execFileSync("gh", ["repo", "delete", slug, "--yes"], { stdio: "inherit" });
-    console.log(`[${i + 1}/${toDelete.length}] deleted ${slug}`);
-  } catch (err) {
+    if (archive) {
+      execFileSync("gh", ["api", "--method", "PATCH", `repos/${slug}`, "-f", "archived=true"], {
+        stdio: "pipe",
+      });
+    } else {
+      execFileSync("gh", ["repo", "delete", slug, "--yes"], { stdio: "inherit" });
+    }
+    console.log(`[${i + 1}/${toDelete.length}] ${action}d ${slug}`);
+  } catch {
     console.error(`FAIL ${slug}`);
     failed.push(name);
   }
