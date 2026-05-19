@@ -7,7 +7,7 @@ Local dev mirror for [@mr-aftab-ahmad-khan](https://www.npmjs.com/~mr-aftab-ahma
 | Folder | Stack | npm workspace |
 | --- | --- | --- |
 | [`mern/`](./mern/) | Node, Express, MongoDB, React (web) | `mern/*` |
-| [`react-native/`](./react-native/) | React Native (iOS/Android) | `react-native/*` |
+| [`react-native/`](./react-native/) | React Native (20 mobile packages) | `react-native/*` |
 | [`flutter/`](./flutter/) | Dart / Flutter | — (`pub` per package) |
 
 ## Development

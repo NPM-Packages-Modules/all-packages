@@ -12,4 +12,8 @@ npm run build --workspace=mern/monguard
 node ../.scripts/sync-workspace-repos.mjs mern/monguard
 ```
 
-Also see: [`../flutter`](../flutter), [`../react-native`](../react-native).
+Also see: [`../flutter`](../flutter), [`../react-native`](../react-native) (mobile — not MERN backend).
+
+### Flagship packages
+
+servbridge · datamorph · routeforge · authmesh · querygenie · cachepilot · socketmesh · envsyncer · stacktracex · retryflow · mongoforge · eventbridgex · cronpilot · schemashift · secureflow · logmesh · servqueue · deploysense · apidocsmith · apiflowx
