@@ -1,6 +1,15 @@
 name: flutter_route_genius
 description: Auto-generate type-safe navigation.
 version: 0.1.0
+
+topics:
+  - cli
+  - dart
+  - flutter
+  - flutter-route-genius
+  - mobile
+  - navigation
+  - pub
 publish_to: none
 
 environment:

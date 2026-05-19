@@ -1,6 +1,16 @@
 name: flutter_env_forge
 description: Generate environment systems automatically.
 version: 0.1.0
+
+topics:
+  - cli
+  - config
+  - dart
+  - env
+  - flutter
+  - flutter-env-forge
+  - mobile
+  - pub
 publish_to: none
 
 environment:

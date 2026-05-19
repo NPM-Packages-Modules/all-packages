@@ -1,6 +1,15 @@
 name: secure_vault_lite
 description: Complete secure local storage ecosystem.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - mobile
+  - pub
+  - secure-vault-lite
+  - security
+  - storage
 publish_to: none
 
 environment:

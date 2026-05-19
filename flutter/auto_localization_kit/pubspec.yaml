@@ -1,6 +1,15 @@
 name: auto_localization_kit
 description: Fully automated localization system.
 version: 0.1.0
+
+topics:
+  - auto-localization-kit
+  - dart
+  - flutter
+  - i18n
+  - localization
+  - mobile
+  - pub
 publish_to: none
 
 environment:

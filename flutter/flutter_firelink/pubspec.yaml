@@ -1,6 +1,13 @@
 name: flutter_firelink
 description: Firebase setup in one command.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-firelink
+  - mobile
+  - pub
 publish_to: none
 
 environment:

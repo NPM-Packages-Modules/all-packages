@@ -1,6 +1,13 @@
 name: flutter_pub_cleaner
 description: Remove unused Flutter dependencies automatically.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-pub-cleaner
+  - mobile
+  - pub
 publish_to: none
 
 environment:

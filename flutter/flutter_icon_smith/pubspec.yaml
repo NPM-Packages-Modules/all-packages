@@ -1,6 +1,13 @@
 name: flutter_icon_smith
 description: Generate app icons and splash screens instantly.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-icon-smith
+  - mobile
+  - pub
 publish_to: none
 
 environment:

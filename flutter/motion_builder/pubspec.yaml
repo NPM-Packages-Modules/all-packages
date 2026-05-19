@@ -1,6 +1,15 @@
 name: motion_builder
 description: No-code animation system for Flutter.
 version: 0.1.0
+
+topics:
+  - animation
+  - dart
+  - flutter
+  - mobile
+  - motion-builder
+  - pub
+  - ui
 publish_to: none
 
 environment:

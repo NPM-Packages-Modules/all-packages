@@ -1,6 +1,13 @@
 name: flutter_device_lab
 description: Run automated testing across device matrices.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-device-lab
+  - mobile
+  - pub
 publish_to: none
 
 environment:

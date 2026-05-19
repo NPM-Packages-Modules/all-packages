@@ -1,6 +1,16 @@
 name: responsive_magic_ui
 description: Fully automatic responsive layout engine.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - layout
+  - mobile
+  - pub
+  - responsive
+  - responsive-magic-ui
+  - ui
 publish_to: none
 
 environment:

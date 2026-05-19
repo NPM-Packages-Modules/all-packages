@@ -1,6 +1,13 @@
 name: flutter_test_factory
 description: Generate Flutter tests automatically.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-test-factory
+  - mobile
+  - pub
 publish_to: none
 
 environment:

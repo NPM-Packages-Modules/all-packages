@@ -1,6 +1,15 @@
 name: smart_theme_engine
 description: Dynamic AI-style theming system.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - mobile
+  - pub
+  - smart-theme-engine
+  - theme
+  - ui
 publish_to: none
 
 environment:

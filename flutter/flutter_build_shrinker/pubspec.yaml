@@ -1,6 +1,13 @@
 name: flutter_build_shrinker
 description: Reduce Flutter app size automatically.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-build-shrinker
+  - mobile
+  - pub
 publish_to: none
 
 environment:

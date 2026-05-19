@@ -1,6 +1,13 @@
 name: flutter_screen_forge
 description: Generate complete screens from prompts.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-screen-forge
+  - mobile
+  - pub
 publish_to: none
 
 environment:

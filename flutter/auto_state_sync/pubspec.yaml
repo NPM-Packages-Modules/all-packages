@@ -1,6 +1,16 @@
 name: auto_state_sync
 description: Automatic API → local state → cache synchronization.
 version: 0.1.0
+
+topics:
+  - auto-state-sync
+  - cache
+  - dart
+  - flutter
+  - mobile
+  - offline
+  - pub
+  - state
 publish_to: none
 
 environment:

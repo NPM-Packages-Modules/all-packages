@@ -1,6 +1,13 @@
 name: flutter_monorepo_chief
 description: Manage Flutter monorepos effortlessly.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-monorepo-chief
+  - mobile
+  - pub
 publish_to: none
 
 environment:

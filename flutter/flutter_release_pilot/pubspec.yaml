@@ -1,6 +1,13 @@
 name: flutter_release_pilot
 description: Fully automate Flutter releases.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-release-pilot
+  - mobile
+  - pub
 publish_to: none
 
 environment:

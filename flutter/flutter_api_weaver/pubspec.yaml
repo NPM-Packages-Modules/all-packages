@@ -1,6 +1,16 @@
 name: flutter_api_weaver
 description: Generate API layers from Swagger/Postman.
 version: 0.1.0
+
+topics:
+  - api
+  - cli
+  - codegen
+  - dart
+  - flutter
+  - flutter-api-weaver
+  - mobile
+  - pub
 publish_to: none
 
 environment:

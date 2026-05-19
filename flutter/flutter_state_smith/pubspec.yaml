@@ -1,6 +1,13 @@
 name: flutter_state_smith
 description: Generate complete state management architecture.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-state-smith
+  - mobile
+  - pub
 publish_to: none
 
 environment:

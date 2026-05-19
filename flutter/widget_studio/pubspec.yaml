@@ -1,6 +1,15 @@
 name: widget_studio
 description: Build Flutter UIs from JSON/schema dynamically.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - json
+  - mobile
+  - pub
+  - server-driven-ui
+  - widget-studio
 publish_to: none
 
 environment:

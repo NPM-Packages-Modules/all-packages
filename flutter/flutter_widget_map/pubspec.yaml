@@ -1,6 +1,13 @@
 name: flutter_widget_map
 description: Visualize widget dependency trees.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-widget-map
+  - mobile
+  - pub
 publish_to: none
 
 environment:

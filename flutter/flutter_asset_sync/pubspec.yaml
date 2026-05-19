@@ -1,6 +1,13 @@
 name: flutter_asset_sync
 description: Sync Figma/exported assets directly into Flutter projects.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-asset-sync
+  - mobile
+  - pub
 publish_to: none
 
 environment:

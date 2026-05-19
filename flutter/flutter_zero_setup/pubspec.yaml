@@ -1,6 +1,15 @@
 name: flutter_zero_setup
 description: Initialize a production-grade Flutter app in one command.
 version: 0.1.0
+
+topics:
+  - cli
+  - dart
+  - flutter
+  - flutter-zero-setup
+  - mobile
+  - pub
+  - scaffolding
 publish_to: none
 
 environment:

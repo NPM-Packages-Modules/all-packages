@@ -1,6 +1,13 @@
 name: flutter_clean_arch_bot
 description: Generate full clean architecture instantly.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-clean-arch-bot
+  - mobile
+  - pub
 publish_to: none
 
 environment:

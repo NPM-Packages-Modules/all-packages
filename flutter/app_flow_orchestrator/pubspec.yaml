@@ -1,6 +1,15 @@
 name: app_flow_orchestrator
 description: Visual screen flow/state orchestration engine.
 version: 0.1.0
+
+topics:
+  - app-flow-orchestrator
+  - dart
+  - flutter
+  - mobile
+  - navigation
+  - pub
+  - routing
 publish_to: none
 
 environment:

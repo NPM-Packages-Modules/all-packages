@@ -1,6 +1,13 @@
 name: flutter_ui_cloner
 description: Convert screenshots into Flutter UI code.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-ui-cloner
+  - mobile
+  - pub
 publish_to: none
 
 environment:

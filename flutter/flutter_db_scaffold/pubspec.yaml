@@ -1,6 +1,16 @@
 name: flutter_db_scaffold
 description: Generate local database layers automatically.
 version: 0.1.0
+
+topics:
+  - dart
+  - database
+  - drift
+  - flutter
+  - flutter-db-scaffold
+  - mobile
+  - pub
+  - sqlite
 publish_to: none
 
 environment:

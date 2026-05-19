@@ -1,6 +1,13 @@
 name: flutter_perf_doctor
 description: Detect Flutter performance issues automatically.
 version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-perf-doctor
+  - mobile
+  - pub
 publish_to: none
 
 environment:
