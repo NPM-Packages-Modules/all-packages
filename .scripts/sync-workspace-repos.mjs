@@ -95,7 +95,7 @@ async function main() {
     }
     const desc = String(pkg.description || w).slice(0, 350);
     const httpsUrl = `https://github.com/${slug}.git`;
-    const tmp = mkdtempSync(join(tmpdir(), `npm-split-${w}-`));
+    const tmp = mkdtempSync(join(tmpdir(), `npm-split-${w.replace(/\//g, "-")}-`));
     const r = join(tmp, "r");
 
     try {
