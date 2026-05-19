@@ -27,14 +27,20 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "merndev",
+    "nodejs",
+    "typescript",
+    "observability",
+    "mern-packages",
+    "npm-pm",
     "react-native",
     "react",
     "mobile",
-    "typescript",
-    "servbridge",
     "microservices",
-    "discovery",
-    "typescript"
+    "service-discovery",
+    "routing",
+    "events",
+    "servbridge"
   ],
   "devDependencies": {
     "@types/react": "^18.2.0",

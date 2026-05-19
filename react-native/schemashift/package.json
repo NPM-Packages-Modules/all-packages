@@ -31,16 +31,20 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "merndev",
+    "nodejs",
+    "typescript",
+    "observability",
+    "mern-packages",
+    "npm-pm",
     "react-native",
     "react",
     "mobile",
-    "typescript",
-    "schemashift",
-    "migration",
     "schema",
-    "typescript",
+    "migration",
+    "mongodb",
     "cli",
-    "observability"
+    "schemashift"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

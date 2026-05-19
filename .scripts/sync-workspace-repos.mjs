@@ -139,6 +139,14 @@ async function main() {
       }
 
       console.log(`OK [${i + 1}/${workspaces.length}] ${w} -> ${slug}`);
+
+      try {
+        execFileSync("node", [join(ROOT, ".scripts/set-repo-topics.mjs"), w], {
+          stdio: "pipe",
+        });
+      } catch {
+        console.warn("topics", w, "(set-repo-topics failed — run manually)");
+      }
     } catch (err) {
       const msg = err instanceof Error ? err.message : String(err);
       console.error(`FAIL ${w}:`, msg);

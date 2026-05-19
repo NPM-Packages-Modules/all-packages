@@ -27,15 +27,20 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "merndev",
+    "nodejs",
+    "typescript",
+    "observability",
+    "mern-packages",
+    "npm-pm",
     "react-native",
     "react",
     "mobile",
-    "typescript",
-    "datamorph",
     "transform",
-    "dto",
+    "mapping",
     "api",
-    "typescript"
+    "sanitization",
+    "datamorph"
   ],
   "devDependencies": {
     "@types/react": "^18.2.0",

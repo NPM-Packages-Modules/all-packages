@@ -27,12 +27,18 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "merndev",
+    "nodejs",
+    "typescript",
+    "observability",
+    "mern-packages",
+    "npm-pm",
     "react-native",
     "react",
     "mobile",
-    "typescript",
-    "mongoforge",
-    "typescript",
+    "mongodb",
+    "index",
+    "performance",
     "mongoforge"
   ],
   "dependencies": {},
