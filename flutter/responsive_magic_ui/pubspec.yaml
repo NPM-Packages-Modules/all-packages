@@ -11,8 +11,6 @@ topics:
   - responsive
   - responsive-magic-ui
   - ui
-publish_to: none
-
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.10.0"
@@ -26,4 +24,6 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^3.0.0
 
-repository: https://github.com/NPM-Packages-Modules/responsive_magic_ui
+repository: https://github.com/NPM-Packages-Modules/flutter
+homepage: https://github.com/NPM-Packages-Modules/flutter/tree/main/responsive_magic_ui
+issue_tracker: https://github.com/NPM-Packages-Modules/flutter/issues

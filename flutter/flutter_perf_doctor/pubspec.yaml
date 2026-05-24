@@ -8,8 +8,6 @@ topics:
   - flutter-perf-doctor
   - mobile
   - pub
-publish_to: none
-
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.10.0"
@@ -23,4 +21,6 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^3.0.0
 
-repository: https://github.com/NPM-Packages-Modules/flutter_perf_doctor
+repository: https://github.com/NPM-Packages-Modules/flutter
+homepage: https://github.com/NPM-Packages-Modules/flutter/tree/main/flutter_perf_doctor
+issue_tracker: https://github.com/NPM-Packages-Modules/flutter/issues

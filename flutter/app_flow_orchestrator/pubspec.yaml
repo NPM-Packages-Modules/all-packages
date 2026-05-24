@@ -10,8 +10,6 @@ topics:
   - navigation
   - pub
   - routing
-publish_to: none
-
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.10.0"
@@ -25,4 +23,6 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^3.0.0
 
-repository: https://github.com/NPM-Packages-Modules/app_flow_orchestrator
+repository: https://github.com/NPM-Packages-Modules/flutter
+homepage: https://github.com/NPM-Packages-Modules/flutter/tree/main/app_flow_orchestrator
+issue_tracker: https://github.com/NPM-Packages-Modules/flutter/issues

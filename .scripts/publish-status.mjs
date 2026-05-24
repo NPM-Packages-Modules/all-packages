@@ -7,9 +7,10 @@ import { readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
+import { loadWorkspacePaths } from "./expand-workspaces.mjs";
 
 const root = fileURLToPath(new URL("..", import.meta.url));
-const workspaces = JSON.parse(readFileSync(join(root, "package.json"), "utf8")).workspaces;
+const workspaces = loadWorkspacePaths(root);
 
 function latest(name) {
   const r = spawnSync("npm", ["view", name, "version"], { encoding: "utf8" });

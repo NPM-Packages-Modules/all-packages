@@ -25,7 +25,22 @@
   "scripts": {
     "build": "npm run build --workspaces --if-present",
     "test": "npm run test --workspaces --if-present",
-    "typecheck": "npm run typecheck --workspaces --if-present"
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "publish:status": "node .scripts/publish-status.mjs",
+    "publish:unpublished": "node .scripts/publish-unpublished.mjs",
+    "publish:daily": "node .scripts/publish-daily-batch.mjs",
+    "publish:daily:local": "bash .scripts/publish-daily.sh",
+    "publish:schedule:install": "bash .scripts/install-publish-schedule.sh",
+    "publish:check-auth": "node -e \"import('./.scripts/npm-publish-env.mjs').then(m=>m.assertNpmAuth())\"",
+    "publish:flutter:status": "node .scripts/publish-flutter-status.mjs",
+    "publish:flutter:patch": "node .scripts/patch-flutter-pubspecs.mjs",
+    "publish:flutter:daily": "node .scripts/publish-flutter-daily-batch.mjs",
+    "publish:flutter:daily:local": "bash .scripts/publish-flutter-daily.sh",
+    "publish:flutter:install-sdk": "bash .scripts/install-flutter-sdk.sh",
+    "publish:flutter:check-auth": "node -e \"import('./.scripts/dart-publish-env.mjs').then(m=>m.assertDartAuth())\"",
+    "topics:patch": "node .scripts/patch-package-topics.mjs",
+    "topics:index": "node .scripts/generate-packages-index.mjs",
+    "topics:about": "node .scripts/update-org-repo-descriptions.mjs"
   },
   "repository": {
     "type": "git",

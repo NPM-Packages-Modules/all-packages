@@ -1,0 +1,157 @@
+Keep: mern, react-native, flutter, mern-packages, all-packages
+Packages in monorepos: 115
+Legacy repos to delete: 113
+
+Unknown JSON field: "scopes"
+Available fields:
+  hosts
+node:internal/errors:998
+  const err = new Error(message);
+              ^
+
+Error: Command failed: gh auth status --json scopes
+Unknown JSON field: "scopes"
+Available fields:
+  hosts
+
+    at genericNodeError (node:internal/errors:998:15)
+    at wrappedFn (node:internal/errors:543:14)
+    at checkExecSyncError (node:child_process:925:11)
+    at execFileSync (node:child_process:961:15)
+    at ensureDeleteScope (file:///Users/aftabahmadkhan/Github/Personal/NPM/.scripts/delete-legacy-repos.mjs:33:5)
+    at file:///Users/aftabahmadkhan/Github/Personal/NPM/.scripts/delete-legacy-repos.mjs:79:10
+    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5) {
+  status: 1,
+  signal: null,
+  output: [
+    null,
+    '',
+    'Unknown JSON field: "scopes"\nAvailable fields:\n  hosts\n'
+  ],
+  pid: 59020,
+  stdout: '',
+  stderr: 'Unknown JSON field: "scopes"\nAvailable fields:\n  hosts\n'
+}
+
+Node.js v25.2.0
+Keep: mern, react-native, flutter, mern-packages, all-packages
+Packages in monorepos: 115
+Legacy repos to delete: 113
+
+[1/113] deleted NPM-Packages-Modules/adminforge
+[2/113] deleted NPM-Packages-Modules/aggra
+[3/113] deleted NPM-Packages-Modules/apiblocks
+[4/113] deleted NPM-Packages-Modules/apidocsmith
+[5/113] deleted NPM-Packages-Modules/apiflowx
+[6/113] deleted NPM-Packages-Modules/apilifecycle
+[7/113] deleted NPM-Packages-Modules/archsense
+[8/113] deleted NPM-Packages-Modules/authmesh
+[9/113] deleted NPM-Packages-Modules/backendforge
+[10/113] deleted NPM-Packages-Modules/cacheflow
+[11/113] deleted NPM-Packages-Modules/cacheforge
+[12/113] deleted NPM-Packages-Modules/cachemesh
+[13/113] deleted NPM-Packages-Modules/cachepilot
+[14/113] deleted NPM-Packages-Modules/chainsentry
+[15/113] deleted NPM-Packages-Modules/codemorph
+[16/113] deleted NPM-Packages-Modules/configforge
+[17/113] deleted NPM-Packages-Modules/cost-limiter
+[18/113] deleted NPM-Packages-Modules/cronmesh
+[19/113] deleted NPM-Packages-Modules/cronpilot
+[20/113] deleted NPM-Packages-Modules/ctrlflow
+[21/113] deleted NPM-Packages-Modules/datamorph
+[22/113] deleted NPM-Packages-Modules/dbflow
+[23/113] deleted NPM-Packages-Modules/dbmesh
+[24/113] deleted NPM-Packages-Modules/deployguard
+[25/113] deleted NPM-Packages-Modules/deploysense
+[26/113] deleted NPM-Packages-Modules/docstack
+[27/113] deleted NPM-Packages-Modules/duoapi
+[28/113] deleted NPM-Packages-Modules/envguard
+[29/113] deleted NPM-Packages-Modules/envrunes
+[30/113] deleted NPM-Packages-Modules/envsyncer
+[31/113] deleted NPM-Packages-Modules/eventbridgex
+[32/113] deleted NPM-Packages-Modules/eventforge
+[33/113] deleted NPM-Packages-Modules/eventmesh
+[34/113] deleted NPM-Packages-Modules/fileflux
+[35/113] deleted NPM-Packages-Modules/flagmesh
+[36/113] deleted NPM-Packages-Modules/formbridge
+[37/113] deleted NPM-Packages-Modules/fusionstack
+[38/113] deleted NPM-Packages-Modules/graphstack
+[39/113] deleted NPM-Packages-Modules/guardpress
+[40/113] deleted NPM-Packages-Modules/heapguard
+[41/113] deleted NPM-Packages-Modules/hookmesh
+[42/113] deleted NPM-Packages-Modules/hookretry
+[43/113] deleted NPM-Packages-Modules/injectflow
+[44/113] deleted NPM-Packages-Modules/jobforge
+[45/113] deleted NPM-Packages-Modules/lesscode
+[46/113] deleted NPM-Packages-Modules/llmtoken
+[47/113] deleted NPM-Packages-Modules/lockmesh
+[48/113] deleted NPM-Packages-Modules/logicforge
+[49/113] deleted NPM-Packages-Modules/logmesh
+[50/113] deleted NPM-Packages-Modules/mcp-bootstrap
+[51/113] deleted NPM-Packages-Modules/metricpress
+[52/113] deleted NPM-Packages-Modules/midflow
+[53/113] deleted NPM-Packages-Modules/mockpress
+[54/113] deleted NPM-Packages-Modules/modstack
+[55/113] deleted NPM-Packages-Modules/modulify
+[56/113] deleted NPM-Packages-Modules/mongoforge
+[57/113] deleted NPM-Packages-Modules/mongoose-advanced-plugin
+[58/113] deleted NPM-Packages-Modules/monguard
+[59/113] deleted NPM-Packages-Modules/monodrift
+[60/113] deleted NPM-Packages-Modules/pageforge
+[61/113] deleted NPM-Packages-Modules/perfstack
+[62/113] deleted NPM-Packages-Modules/picsmith
+[63/113] deleted NPM-Packages-Modules/pipeguard
+[64/113] deleted NPM-Packages-Modules/plugstack
+[65/113] deleted NPM-Packages-Modules/policyflow
+[66/113] deleted NPM-Packages-Modules/promptmesh
+[67/113] deleted NPM-Packages-Modules/promptver
+[68/113] deleted NPM-Packages-Modules/queryforge
+[69/113] deleted NPM-Packages-Modules/querygenie
+[70/113] deleted NPM-Packages-Modules/queueflow
+[71/113] deleted NPM-Packages-Modules/ratemesh
+[72/113] deleted NPM-Packages-Modules/reconnecting-stream
+[73/113] deleted NPM-Packages-Modules/recoverpress
+[74/113] deleted NPM-Packages-Modules/relaforge
+[75/113] deleted NPM-Packages-Modules/relatik
+[76/113] deleted NPM-Packages-Modules/renderguard
+[77/113] deleted NPM-Packages-Modules/replaystack
+[78/113] deleted NPM-Packages-Modules/responsa
+[79/113] deleted NPM-Packages-Modules/retryflow
+[80/113] deleted NPM-Packages-Modules/retrystack
+[81/113] deleted NPM-Packages-Modules/routeblocks
+[82/113] deleted NPM-Packages-Modules/routeboost
+[83/113] deleted NPM-Packages-Modules/routecheck
+[84/113] deleted NPM-Packages-Modules/routeforge
+[85/113] deleted NPM-Packages-Modules/rulemesh
+[86/113] deleted NPM-Packages-Modules/schemagen
+[87/113] deleted NPM-Packages-Modules/schemashift
+[88/113] deleted NPM-Packages-Modules/schemaui
+[89/113] deleted NPM-Packages-Modules/sdkforge
+[90/113] deleted NPM-Packages-Modules/sdkpress
+[91/113] deleted NPM-Packages-Modules/searchforge
+[92/113] deleted NPM-Packages-Modules/secureflow
+[93/113] deleted NPM-Packages-Modules/seedforge
+[94/113] deleted NPM-Packages-Modules/servbridge
+[95/113] deleted NPM-Packages-Modules/serviceforge
+[96/113] deleted NPM-Packages-Modules/servqueue
+[97/113] deleted NPM-Packages-Modules/shieldpress
+[98/113] deleted NPM-Packages-Modules/socketmesh
+[99/113] deleted NPM-Packages-Modules/stacksense
+[100/113] deleted NPM-Packages-Modules/stacktracex
+[101/113] deleted NPM-Packages-Modules/statemesh
+[102/113] deleted NPM-Packages-Modules/syncora
+[103/113] deleted NPM-Packages-Modules/tenantforge
+[104/113] deleted NPM-Packages-Modules/testforge
+[105/113] deleted NPM-Packages-Modules/transactly
+[106/113] deleted NPM-Packages-Modules/typepress
+[107/113] deleted NPM-Packages-Modules/uploadflow
+[108/113] deleted NPM-Packages-Modules/uploadmesh
+[109/113] deleted NPM-Packages-Modules/validora
+[110/113] deleted NPM-Packages-Modules/versionpress
+[111/113] deleted NPM-Packages-Modules/workerforge
+[112/113] deleted NPM-Packages-Modules/workflowmesh
+[113/113] deleted NPM-Packages-Modules/wsmesh
+
+Done. Org should show ~4 repos (+ any non-duplicate leftovers).

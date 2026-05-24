@@ -196,3 +196,12 @@ for (const eco of runList) {
 }
 
 if (failures.length) process.exit(1);
+
+try {
+  execFileSync("node", [join(ROOT, ".scripts/update-org-repo-descriptions.mjs")], {
+    stdio: "inherit",
+    cwd: ROOT,
+  });
+} catch {
+  console.warn("WARN: update-org-repo-descriptions failed — run manually");
+}

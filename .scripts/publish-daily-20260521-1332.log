@@ -1,0 +1,507 @@
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 54 · This run: 20 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 733ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+
+> @mr-aftab-ahmad-khan/metricpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/metricpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     574.00 B
+ESM dist/index.js.map 1.01 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.64 KB
+CJS dist/index.cjs.map 1.06 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 625ms
+DTS dist/index.d.ts  372.00 B
+DTS dist/index.d.cts 372.00 B
+
+> @mr-aftab-ahmad-khan/midflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/midflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     346.00 B
+ESM dist/index.js.map 777.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.31 KB
+CJS dist/index.cjs.map 821.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 598ms
+DTS dist/index.d.ts  130.00 B
+DTS dist/index.d.cts 130.00 B
+
+> @mr-aftab-ahmad-khan/modelsync@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modelsync/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     143.00 B
+ESM dist/index.js.map 407.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.12 KB
+CJS dist/index.cjs.map 451.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 571ms
+DTS dist/index.d.ts  234.00 B
+DTS dist/index.d.cts 234.00 B
+
+> @mr-aftab-ahmad-khan/modstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.28 KB
+CJS dist/index.cjs.map 1.21 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     624.00 B
+ESM dist/index.js.map 1.16 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 581ms
+DTS dist/index.d.ts  178.00 B
+DTS dist/index.d.cts 178.00 B
+
+> @mr-aftab-ahmad-khan/modulify@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modulify/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.97 KB
+CJS dist/index.cjs.map 2.87 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     1.22 KB
+ESM dist/index.js.map 2.80 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 611ms
+DTS dist/index.d.ts  884.00 B
+DTS dist/index.d.cts 884.00 B
+
+> @mr-aftab-ahmad-khan/pageforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/pageforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.60 KB
+CJS dist/index.cjs.map 991.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     517.00 B
+ESM dist/index.js.map 937.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 595ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> @mr-aftab-ahmad-khan/pipeguard@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/pipeguard/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     312.00 B
+ESM dist/index.js.map 669.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.29 KB
+CJS dist/index.cjs.map 713.00 B
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 618ms
+DTS dist/index.d.ts  168.00 B
+DTS dist/index.d.cts 168.00 B
+
+> @mr-aftab-ahmad-khan/plugstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/plugstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.30 KB
+CJS dist/index.cjs.map 685.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     297.00 B
+ESM dist/index.js.map 636.00 B
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 603ms
+DTS dist/index.d.ts  287.00 B
+DTS dist/index.d.cts 287.00 B
+
+> @mr-aftab-ahmad-khan/policyflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/policyflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.42 KB
+ESM dist/index.js.map 2.81 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     2.43 KB
+CJS dist/index.cjs.map 2.86 KB
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 586ms
+DTS dist/index.d.ts  737.00 B
+DTS dist/index.d.cts 737.00 B
+
+> @mr-aftab-ahmad-khan/queryforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/queryforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     3.00 KB
+CJS dist/index.cjs.map 4.73 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     1.98 KB
+ESM dist/index.js.map 4.69 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 723ms
+DTS dist/index.d.ts  1005.00 B
+DTS dist/index.d.cts 1005.00 B
+
+> @mr-aftab-ahmad-khan/queueflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/queueflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.60 KB
+CJS dist/index.cjs.map 1.08 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     603.00 B
+ESM dist/index.js.map 1.03 KB
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 582ms
+DTS dist/index.d.ts  261.00 B
+DTS dist/index.d.cts 261.00 B
+
+> @mr-aftab-ahmad-khan/reactstatex@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/reactstatex/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.13 KB
+CJS dist/index.cjs.map 419.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     149.00 B
+ESM dist/index.js.map 375.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 587ms
+DTS dist/index.d.ts  200.00 B
+DTS dist/index.d.cts 200.00 B
+
+> @mr-aftab-ahmad-khan/recoverpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/recoverpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.07 KB
+ESM dist/index.js.map 2.76 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.82 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 610ms
+DTS dist/index.d.ts  988.00 B
+DTS dist/index.d.cts 988.00 B
+
+> @mr-aftab-ahmad-khan/relaforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/relaforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.58 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     565.00 B
+ESM dist/index.js.map 1001.00 B
+ESM ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 589ms
+DTS dist/index.d.ts  185.00 B
+DTS dist/index.d.cts 185.00 B
+
+> @mr-aftab-ahmad-khan/relatik@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/relatik/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     5.94 KB
+ESM dist/index.js.map 13.96 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     7.01 KB
+CJS dist/index.cjs.map 14.00 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 686ms
+DTS dist/index.d.ts  2.32 KB
+DTS dist/index.d.cts 2.32 KB
+
+> @mr-aftab-ahmad-khan/replaystack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/replaystack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js              174.00 B
+ESM dist/chunk-VY75VS5K.js     1.64 KB
+ESM dist/cli.js                978.00 B
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.78 KB
+ESM dist/chunk-VY75VS5K.js.map 3.55 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     2.68 KB
+CJS dist/cli.cjs       3.77 KB
+CJS dist/cli.cjs.map   5.31 KB
+CJS dist/index.cjs.map 3.60 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 1051ms
+DTS dist/cli.d.ts    13.00 B
+DTS dist/index.d.ts  584.00 B
+DTS dist/cli.d.cts   13.00 B
+DTS dist/index.d.cts 584.00 B
+
+> @mr-aftab-ahmad-khan/retrystack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/retrystack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.62 KB
+CJS dist/index.cjs.map 1.25 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     652.00 B
+ESM dist/index.js.map 1.20 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 604ms
+DTS dist/index.d.ts  250.00 B
+DTS dist/index.d.cts 250.00 B
+
+> @mr-aftab-ahmad-khan/routeblocks@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/routeblocks/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     372.00 B
+ESM dist/index.js.map 764.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.41 KB
+CJS dist/index.cjs.map 814.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 574ms
+DTS dist/index.d.ts  265.00 B
+DTS dist/index.d.cts 265.00 B
+
+> @mr-aftab-ahmad-khan/routeboost@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/routeboost/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.45 KB
+CJS dist/index.cjs.map 1.19 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     480.00 B
+ESM dist/index.js.map 1.14 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 581ms
+DTS dist/index.d.ts  405.00 B
+DTS dist/index.d.cts 405.00 B
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 611ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/logicforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: 364e515e78ed165947a4ac2af0366d9f0a0221ab
+npm notice integrity: sha512-yzsg1fkTCUYLR[...]Ui7wjnB5hafLA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E429
+npm error 429 Too Many Requests - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2flogicforge - Could not publish, as user undefined: rate limited exceeded
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-05-21T08_33_34_928Z-debug-0.log

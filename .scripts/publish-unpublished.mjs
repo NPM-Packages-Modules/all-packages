@@ -13,6 +13,12 @@
  *   NPM_PUBLISH_SKIP_COOLDOWN=1
  *   NPM_PUBLISH_SKIP_BUILD=1
  *   NPM_PUBLISH_IGNORE_SCRIPTS=1      pass --ignore-scripts to npm publish
+ *   NPM_OTP=123456                   if npm account uses 2FA for publish
+ *
+ * Common failures:
+ *   E429 — npm publish rate limit (wait hours; publish slowly, ~1 pkg / 5–10 min)
+ *   Build OK + E429 — not a build bug; registry rejected the upload
+ *   Build OK + E404 — usually expired/missing npm login (not a build bug)
  */
 
 import { readFileSync, existsSync, appendFileSync } from "node:fs";
@@ -20,11 +26,25 @@ import { join } from "node:path";
 import { spawnSync } from "node:child_process";
 import { setTimeout as sleep } from "node:timers/promises";
 import { fileURLToPath } from "node:url";
+import { loadWorkspacePaths } from "./expand-workspaces.mjs";
+import { npmEnv, assertNpmAuth, isAuthError, is2faRequired } from "./npm-publish-env.mjs";
+
+assertNpmAuth();
+const npmRunEnv = npmEnv();
 
 const root = fileURLToPath(new URL("..", import.meta.url));
 const logPath = join(root, ".scripts", "publish-unpublished.log");
-const workspaces = JSON.parse(readFileSync(join(root, "package.json"), "utf8")).workspaces;
-const filter = new Set(process.argv.slice(2).filter((a) => !a.startsWith("-")));
+const allWorkspaces = loadWorkspacePaths(root);
+const filterArg = process.argv.slice(2).filter((a) => !a.startsWith("-"));
+const filter = new Set(filterArg);
+const workspaces = filter.size
+  ? allWorkspaces.filter(
+      (w) =>
+        filter.has(w) ||
+        filter.has(w.split("/").pop()) ||
+        filterArg.some((f) => f.endsWith("/*") && w.startsWith(f.slice(0, -1)))
+    )
+  : allWorkspaces;
 
 function log(msg) {
   const line = `[${new Date().toISOString()}] ${msg}`;
@@ -44,21 +64,29 @@ function isVersionOnRegistry(name, ver) {
   const r = spawnSync("npm", ["view", `${name}@${ver}`, "version"], {
     encoding: "utf8",
     cwd: root,
+    env: npmRunEnv,
   });
   return r.status === 0 && r.stdout.trim() === ver;
 }
 
 function buildWorkspace(w) {
-  return spawnSync("npm", ["run", "build", "-w", w], {
+  return spawnSync("npm", ["run", "build"], {
     stdio: "inherit",
-    cwd: root,
+    cwd: join(root, w),
+    env: npmRunEnv,
   }).status;
 }
 
 function publishOnce(w) {
-  const args = ["publish", "-w", w, "--access", "public"];
+  const args = ["publish", "--access", "public"];
   if (process.env.NPM_PUBLISH_IGNORE_SCRIPTS === "1") args.push("--ignore-scripts");
-  const r = spawnSync("npm", args, { stdio: "pipe", cwd: root, encoding: "utf8" });
+  if (process.env.NPM_OTP) args.push("--otp", process.env.NPM_OTP);
+  const r = spawnSync("npm", args, {
+    stdio: "pipe",
+    cwd: join(root, w),
+    encoding: "utf8",
+    env: npmRunEnv,
+  });
   if (r.status !== 0) {
     process.stderr.write(r.stdout ?? "");
     process.stderr.write(r.stderr ?? "");
@@ -68,13 +96,15 @@ function publishOnce(w) {
 
 const todo = [];
 for (const w of workspaces) {
-  if (filter.size && !filter.has(w)) continue;
   const pj = join(root, w, "package.json");
   if (!existsSync(pj)) continue;
   const pkg = readPkg(w);
   const { name, version: ver } = pkg;
   if (!name) continue;
-  if (isVersionOnRegistry(name, ver)) continue;
+  if (isVersionOnRegistry(name, ver)) {
+    log(`skip ${name}@${ver} (already on registry)`);
+    continue;
+  }
   todo.push({ w, name, ver });
 }
 
@@ -105,9 +135,12 @@ if (process.env.NPM_PUBLISH_SKIP_BUILD !== "1") {
 const failed = [];
 const maxAttempts = Number(process.env.NPM_PUBLISH_MAX_ATTEMPTS ?? "6");
 const e429WaitSec = Number(process.env.NPM_PUBLISH_E429_WAIT_SEC ?? "1800");
-const gapSec = Number(process.env.NPM_PUBLISH_GAP_SEC ?? "120");
+const gapSec = Number(process.env.NPM_PUBLISH_GAP_SEC ?? "300");
+const stopOn429 = process.env.NPM_PUBLISH_STOP_ON_429 !== "0";
 
-for (let i = 0; i < todo.length; i++) {
+let stopBatch = false;
+
+for (let i = 0; i < todo.length && !stopBatch; i++) {
   const { w, name, ver } = todo[i];
   log(`[${i + 1}/${todo.length}] publish ${name}@${ver} (${w})`);
 
@@ -123,13 +156,50 @@ for (let i = 0; i < todo.length; i++) {
     }
 
     const { status, out } = publishOnce(w);
-    if (status === 0 || isVersionOnRegistry(name, ver)) {
-      log(`  ✓ published ${name}@${ver}`);
+    const alreadyThere =
+      /cannot publish over the previously published|version already exists/i.test(out);
+    if (status === 0 || alreadyThere || isVersionOnRegistry(name, ver)) {
+      log(`  ✓ published ${name}@${ver}${alreadyThere ? " (already on registry)" : ""}`);
       ok = true;
       break;
     }
 
+    if (is2faRequired(out)) {
+      log(
+        `  ✗ npm 2FA required (E403). Browser login is not enough for publish.\n` +
+          `      Option A — Granular token (best for batch):\n` +
+          `        https://www.npmjs.com/settings/tokens → Generate → Publish + Bypass 2FA\n` +
+          `        npm logout && npm login   (paste token as password)\n` +
+          `      Option B — one-time password per publish:\n` +
+          `        NPM_OTP=123456 npm run publish:daily:local`
+      );
+      failed.push(w, ...todo.slice(i + 1).map((t) => t.w));
+      stopBatch = true;
+      break;
+    }
+
+    if (isAuthError(out)) {
+      log(
+        `  ✗ npm auth/permission error (E401/E404). Stop batch.\n` +
+          `        npm logout && npm login && npm whoami\n` +
+          `      Then: cd ${w} && npm publish --access public`
+      );
+      failed.push(w, ...todo.slice(i + 1).map((t) => t.w));
+      stopBatch = true;
+      break;
+    }
+
     const is429 = /E429|429 Too Many Requests|rate limit/i.test(out);
+    if (is429 && stopOn429) {
+      log(
+        `  ✗ npm rate limit (E429). Stop batch — wait several hours, then publish slowly:\n` +
+          `      NPM_PUBLISH_GAP_SEC=600 NPM_PUBLISH_STOP_ON_429=0 npm run publish:unpublished\n` +
+          `      Or one package: cd ${w} && npm publish --access public`
+      );
+      failed.push(w, ...todo.slice(i + 1).map((t) => t.w));
+      stopBatch = true;
+      break;
+    }
     if (attempt < maxAttempts) {
       const waitSec = is429 ? e429WaitSec : Math.min(900, 90 * attempt);
       log(`  ✗ attempt ${attempt} failed${is429 ? " (E429)" : ""}; waiting ${waitSec}s…`);
@@ -137,9 +207,9 @@ for (let i = 0; i < todo.length; i++) {
     }
   }
 
-  if (!ok) failed.push(w);
+  if (!ok && !failed.includes(w)) failed.push(w);
 
-  if (i < todo.length - 1) {
+  if (i < todo.length - 1 && !stopBatch) {
     log(`  gap ${gapSec}s before next package…`);
     await sleep(gapSec * 1000);
   }

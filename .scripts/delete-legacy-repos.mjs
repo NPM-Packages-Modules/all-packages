@@ -1,8 +1,8 @@
 /**
  * Delete individual package repos superseded by ecosystem monorepos.
  *
- * Keeps: mern, react-native, flutter, mern-packages
- * Deletes: any other public repo whose name matches a package folder in mern/ or react-native/
+ * Keeps: mern, react-native, flutter (+ optional dev umbrella all-packages / mern-packages)
+ * Deletes: any other repo whose name matches a package folder in mern/ or react-native/
  *
  * Usage:
  *   node .scripts/delete-legacy-repos.mjs --dry-run
@@ -17,7 +17,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = fileURLToPath(new URL("..", import.meta.url));
 const ORG = "NPM-Packages-Modules";
-const KEEP = new Set(["mern", "react-native", "flutter", "mern-packages"]);
+const KEEP = new Set(["mern", "react-native", "flutter", "mern-packages", "all-packages"]);
 
 const dryRun = process.argv.includes("--dry-run");
 const yes = process.argv.includes("--yes");
@@ -29,10 +29,10 @@ if (!dryRun && !yes && !archive) {
 }
 
 function ensureDeleteScope() {
-  const scopes = JSON.parse(
-    execFileSync("gh", ["auth", "status", "--json", "scopes"], { encoding: "utf8" })
-  ).scopes;
-  if (!scopes.includes("delete_repo")) {
+  const out = execFileSync("gh", ["auth", "status", "-h", "github.com"], {
+    encoding: "utf8",
+  });
+  if (!/delete_repo/.test(out)) {
     console.error(
       "GitHub CLI needs delete_repo scope. Run:\n\n  gh auth refresh -h github.com -s delete_repo\n"
     );

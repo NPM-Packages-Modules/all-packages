@@ -1,0 +1,1583 @@
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 65 · This run: 20 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> @mr-aftab-ahmad-khan/duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 969ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> @mr-aftab-ahmad-khan/eventforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 867.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     395.00 B
+ESM dist/index.js.map 818.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 671ms
+DTS dist/index.d.ts  289.00 B
+DTS dist/index.d.cts 289.00 B
+
+> @mr-aftab-ahmad-khan/eventmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.62 KB
+CJS dist/index.cjs.map 1.28 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     604.00 B
+ESM dist/index.js.map 1.24 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 721ms
+DTS dist/index.d.ts  416.00 B
+DTS dist/index.d.cts 416.00 B
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 1439ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+
+> @mr-aftab-ahmad-khan/fusionstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/fusionstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.07 KB
+CJS ⚡️ Build success in 37ms
+ESM dist/index.js     441.00 B
+ESM dist/index.js.map 1.02 KB
+ESM ⚡️ Build success in 37ms
+DTS Build start
+DTS ⚡️ Build success in 1499ms
+DTS dist/index.d.ts  453.00 B
+DTS dist/index.d.cts 453.00 B
+
+> @mr-aftab-ahmad-khan/graphstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/graphstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       2.15 KB
+CJS dist/index.cjs     1.09 KB
+CJS dist/cli.cjs.map   1.73 KB
+CJS dist/index.cjs.map 226.00 B
+CJS ⚡️ Build success in 18ms
+ESM dist/index.js     113.00 B
+ESM dist/cli.js       865.00 B
+ESM dist/index.js.map 182.00 B
+ESM dist/cli.js.map   1.70 KB
+ESM ⚡️ Build success in 19ms
+DTS Build start
+DTS ⚡️ Build success in 939ms
+DTS dist/index.d.ts  77.00 B
+DTS dist/index.d.cts 77.00 B
+
+> @mr-aftab-ahmad-khan/guardpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/guardpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 871.00 B
+ESM ⚡️ Build success in 15ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 920.00 B
+CJS ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 1435ms
+DTS dist/index.d.ts  302.00 B
+DTS dist/index.d.cts 302.00 B
+
+> @mr-aftab-ahmad-khan/hookretry@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/hookretry/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.41 KB
+CJS dist/index.cjs.map 897.00 B
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     411.00 B
+ESM dist/index.js.map 848.00 B
+ESM ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 989ms
+DTS dist/index.d.ts  320.00 B
+DTS dist/index.d.cts 320.00 B
+
+> @mr-aftab-ahmad-khan/injectflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/injectflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.91 KB
+CJS dist/index.cjs.map 1.80 KB
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     897.00 B
+ESM dist/index.js.map 1.75 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 812ms
+DTS dist/index.d.ts  518.00 B
+DTS dist/index.d.cts 518.00 B
+
+> @mr-aftab-ahmad-khan/lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js     109.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 19ms
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs.map 224.00 B
+CJS dist/cli.cjs.map   2.03 KB
+CJS ⚡️ Build success in 20ms
+DTS Build start
+DTS ⚡️ Build success in 684ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+
+> @mr-aftab-ahmad-khan/lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 662ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 13ms
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 662ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+
+> @mr-aftab-ahmad-khan/metricpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/metricpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.64 KB
+CJS dist/index.cjs.map 1.06 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     574.00 B
+ESM dist/index.js.map 1.01 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 704ms
+DTS dist/index.d.ts  372.00 B
+DTS dist/index.d.cts 372.00 B
+
+> @mr-aftab-ahmad-khan/midflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/midflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.31 KB
+CJS dist/index.cjs.map 821.00 B
+CJS ⚡️ Build success in 13ms
+ESM dist/index.js     346.00 B
+ESM dist/index.js.map 777.00 B
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 699ms
+DTS dist/index.d.ts  130.00 B
+DTS dist/index.d.cts 130.00 B
+
+> @mr-aftab-ahmad-khan/modelsync@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modelsync/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     143.00 B
+ESM dist/index.js.map 407.00 B
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.12 KB
+CJS dist/index.cjs.map 451.00 B
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 745ms
+DTS dist/index.d.ts  234.00 B
+DTS dist/index.d.cts 234.00 B
+
+> @mr-aftab-ahmad-khan/modstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.28 KB
+CJS dist/index.cjs.map 1.21 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     624.00 B
+ESM dist/index.js.map 1.16 KB
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 762ms
+DTS dist/index.d.ts  178.00 B
+DTS dist/index.d.cts 178.00 B
+
+> @mr-aftab-ahmad-khan/modulify@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modulify/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.22 KB
+ESM dist/index.js.map 2.80 KB
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     2.97 KB
+CJS dist/index.cjs.map 2.87 KB
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 835ms
+DTS dist/index.d.ts  884.00 B
+DTS dist/index.d.cts 884.00 B
+
+> @mr-aftab-ahmad-khan/pageforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/pageforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.60 KB
+CJS dist/index.cjs.map 991.00 B
+CJS ⚡️ Build success in 41ms
+ESM dist/index.js     517.00 B
+ESM dist/index.js.map 937.00 B
+ESM ⚡️ Build success in 41ms
+DTS Build start
+DTS ⚡️ Build success in 757ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> @mr-aftab-ahmad-khan/pipeguard@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/pipeguard/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.29 KB
+CJS dist/index.cjs.map 713.00 B
+CJS ⚡️ Build success in 18ms
+ESM dist/index.js     312.00 B
+ESM dist/index.js.map 669.00 B
+ESM ⚡️ Build success in 18ms
+DTS Build start
+DTS ⚡️ Build success in 996ms
+DTS dist/index.d.ts  168.00 B
+DTS dist/index.d.cts 168.00 B
+
+> @mr-aftab-ahmad-khan/plugstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/plugstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.30 KB
+CJS dist/index.cjs.map 685.00 B
+CJS ⚡️ Build success in 30ms
+ESM dist/index.js     297.00 B
+ESM dist/index.js.map 636.00 B
+ESM ⚡️ Build success in 31ms
+DTS Build start
+DTS ⚡️ Build success in 2073ms
+DTS dist/index.d.ts  287.00 B
+DTS dist/index.d.cts 287.00 B
+
+> @mr-aftab-ahmad-khan/duoapi@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 2030ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/duoapi@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 296B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 360B dist/index.d.cts
+npm notice 360B dist/index.d.ts
+npm notice 431B dist/index.js
+npm notice 1.0kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/duoapi
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-duoapi-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: fd51ff7c53a2049a4efda909660cf8db1d714f6f
+npm notice integrity: sha512-SL4RtsehaPZhJ[...]No/l+NteIEphQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fduoapi - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T09_50_01_708Z-debug-0.log
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 62 · This run: 20 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 889ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+
+> @mr-aftab-ahmad-khan/fusionstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/fusionstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.07 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     441.00 B
+ESM dist/index.js.map 1.02 KB
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 836ms
+DTS dist/index.d.ts  453.00 B
+DTS dist/index.d.cts 453.00 B
+
+> @mr-aftab-ahmad-khan/graphstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/graphstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/cli.js       865.00 B
+ESM dist/index.js     113.00 B
+ESM dist/cli.js.map   1.70 KB
+ESM dist/index.js.map 182.00 B
+ESM ⚡️ Build success in 14ms
+CJS dist/cli.cjs       2.15 KB
+CJS dist/index.cjs     1.09 KB
+CJS dist/index.cjs.map 226.00 B
+CJS dist/cli.cjs.map   1.73 KB
+CJS ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 786ms
+DTS dist/index.d.ts  77.00 B
+DTS dist/index.d.cts 77.00 B
+
+> @mr-aftab-ahmad-khan/guardpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/guardpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 871.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 920.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 620ms
+DTS dist/index.d.ts  302.00 B
+DTS dist/index.d.cts 302.00 B
+
+> @mr-aftab-ahmad-khan/hookretry@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/hookretry/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     411.00 B
+ESM dist/index.js.map 848.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.41 KB
+CJS dist/index.cjs.map 897.00 B
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 695ms
+DTS dist/index.d.ts  320.00 B
+DTS dist/index.d.cts 320.00 B
+
+> @mr-aftab-ahmad-khan/injectflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/injectflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.91 KB
+CJS dist/index.cjs.map 1.80 KB
+CJS ⚡️ Build success in 13ms
+ESM dist/index.js     897.00 B
+ESM dist/index.js.map 1.75 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 2031ms
+DTS dist/index.d.ts  518.00 B
+DTS dist/index.d.cts 518.00 B
+
+> @mr-aftab-ahmad-khan/lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js     109.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs.map 224.00 B
+CJS dist/cli.cjs.map   2.03 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 670ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+
+> @mr-aftab-ahmad-khan/lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 666ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 723ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+
+> @mr-aftab-ahmad-khan/metricpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/metricpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     574.00 B
+ESM dist/index.js.map 1.01 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.64 KB
+CJS dist/index.cjs.map 1.06 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 743ms
+DTS dist/index.d.ts  372.00 B
+DTS dist/index.d.cts 372.00 B
+
+> @mr-aftab-ahmad-khan/midflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/midflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.31 KB
+CJS dist/index.cjs.map 821.00 B
+CJS ⚡️ Build success in 11ms
+ESM dist/index.js     346.00 B
+ESM dist/index.js.map 777.00 B
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 674ms
+DTS dist/index.d.ts  130.00 B
+DTS dist/index.d.cts 130.00 B
+
+> @mr-aftab-ahmad-khan/modelsync@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modelsync/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.12 KB
+CJS dist/index.cjs.map 451.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     143.00 B
+ESM dist/index.js.map 407.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 717ms
+DTS dist/index.d.ts  234.00 B
+DTS dist/index.d.cts 234.00 B
+
+> @mr-aftab-ahmad-khan/modstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.28 KB
+CJS dist/index.cjs.map 1.21 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     624.00 B
+ESM dist/index.js.map 1.16 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 628ms
+DTS dist/index.d.ts  178.00 B
+DTS dist/index.d.cts 178.00 B
+
+> @mr-aftab-ahmad-khan/modulify@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/modulify/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.22 KB
+ESM dist/index.js.map 2.80 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     2.97 KB
+CJS dist/index.cjs.map 2.87 KB
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 728ms
+DTS dist/index.d.ts  884.00 B
+DTS dist/index.d.cts 884.00 B
+
+> @mr-aftab-ahmad-khan/pageforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/pageforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     517.00 B
+ESM dist/index.js.map 937.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.60 KB
+CJS dist/index.cjs.map 991.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 645ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> @mr-aftab-ahmad-khan/pipeguard@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/pipeguard/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.29 KB
+CJS dist/index.cjs.map 713.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     312.00 B
+ESM dist/index.js.map 669.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 632ms
+DTS dist/index.d.ts  168.00 B
+DTS dist/index.d.cts 168.00 B
+
+> @mr-aftab-ahmad-khan/plugstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/plugstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     297.00 B
+ESM dist/index.js.map 636.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.30 KB
+CJS dist/index.cjs.map 685.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 613ms
+DTS dist/index.d.ts  287.00 B
+DTS dist/index.d.cts 287.00 B
+
+> @mr-aftab-ahmad-khan/policyflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/policyflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.42 KB
+ESM dist/index.js.map 2.81 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.43 KB
+CJS dist/index.cjs.map 2.86 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 642ms
+DTS dist/index.d.ts  737.00 B
+DTS dist/index.d.cts 737.00 B
+
+> @mr-aftab-ahmad-khan/queryforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/queryforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.98 KB
+ESM dist/index.js.map 4.69 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     3.00 KB
+CJS dist/index.cjs.map 4.73 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 642ms
+DTS dist/index.d.ts  1005.00 B
+DTS dist/index.d.cts 1005.00 B
+
+> @mr-aftab-ahmad-khan/queueflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/queueflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     603.00 B
+ESM dist/index.js.map 1.03 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.60 KB
+CJS dist/index.cjs.map 1.08 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 659ms
+DTS dist/index.d.ts  261.00 B
+DTS dist/index.d.cts 261.00 B
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 24ms
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 24ms
+DTS Build start
+DTS ⚡️ Build success in 1477ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/formbridge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 975B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.7kB dist/index.cjs.map
+npm notice 712B dist/index.d.cts
+npm notice 712B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.7kB dist/index.js.map
+npm notice 1.6kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/formbridge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-formbridge-0.1.0.tgz
+npm notice package size: 3.9 kB
+npm notice unpacked size: 13.8 kB
+npm notice shasum: cb8d8515a8025040d84fb551a616af3be2c7f581
+npm notice integrity: sha512-V7R7r0TEjXCcR[...]aOVBIBnMP1CAw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fformbridge - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T09_53_23_689Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/fusionstack@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/fusionstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/fusionstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.07 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     441.00 B
+ESM dist/index.js.map 1.02 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 779ms
+DTS dist/index.d.ts  453.00 B
+DTS dist/index.d.cts 453.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/fusionstack@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 325B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 453B dist/index.d.cts
+npm notice 453B dist/index.d.ts
+npm notice 441B dist/index.js
+npm notice 1.0kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/fusionstack
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-fusionstack-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.9 kB
+npm notice shasum: bc3e6e17462982421aa6aa433ce5328d13f97696
+npm notice integrity: sha512-U+1TMBDWXpliZ[...]BWvDIByfqS/dQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2ffusionstack - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T09_55_28_106Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 847ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/formbridge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 975B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.7kB dist/index.cjs.map
+npm notice 712B dist/index.d.cts
+npm notice 712B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.7kB dist/index.js.map
+npm notice 1.6kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/formbridge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-formbridge-0.1.0.tgz
+npm notice package size: 3.9 kB
+npm notice unpacked size: 13.8 kB
+npm notice shasum: cb8d8515a8025040d84fb551a616af3be2c7f581
+npm notice integrity: sha512-V7R7r0TEjXCcR[...]aOVBIBnMP1CAw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fformbridge - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T09_56_09_591Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/guardpress@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/guardpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/guardpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 871.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 920.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 709ms
+DTS dist/index.d.ts  302.00 B
+DTS dist/index.d.cts 302.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/guardpress@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 294B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 920B dist/index.cjs.map
+npm notice 302B dist/index.d.cts
+npm notice 302B dist/index.d.ts
+npm notice 399B dist/index.js
+npm notice 871B dist/index.js.map
+npm notice 1.7kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/guardpress
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-guardpress-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.3 kB
+npm notice shasum: 8782b6667bdd20f69141b781d91e0520605a5b84
+npm notice integrity: sha512-UxPHUuDse1gdc[...]9wDV5vHLnDSmg==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fguardpress - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T09_59_33_278Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/hookretry@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/hookretry@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/hookretry/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.41 KB
+CJS dist/index.cjs.map 897.00 B
+CJS ⚡️ Build success in 13ms
+ESM dist/index.js     411.00 B
+ESM dist/index.js.map 848.00 B
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 1016ms
+DTS dist/index.d.ts  320.00 B
+DTS dist/index.d.cts 320.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/hookretry@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 278B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 897B dist/index.cjs.map
+npm notice 320B dist/index.d.cts
+npm notice 320B dist/index.d.ts
+npm notice 411B dist/index.js
+npm notice 848B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/hookretry
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-hookretry-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: 32ddba8043f1f3bf65abbb247c067694cdce43aa
+npm notice integrity: sha512-Cf1D3U/HnuKWz[...]Uxz5Pot9giwqQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fhookretry - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T10_01_36_837Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/guardpress@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/guardpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/guardpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 871.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 920.00 B
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 904ms
+DTS dist/index.d.ts  302.00 B
+DTS dist/index.d.cts 302.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/guardpress@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 294B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 920B dist/index.cjs.map
+npm notice 302B dist/index.d.cts
+npm notice 302B dist/index.d.ts
+npm notice 399B dist/index.js
+npm notice 871B dist/index.js.map
+npm notice 1.7kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/guardpress
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-guardpress-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.3 kB
+npm notice shasum: 8782b6667bdd20f69141b781d91e0520605a5b84
+npm notice integrity: sha512-UxPHUuDse1gdc[...]9wDV5vHLnDSmg==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fguardpress - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T10_02_19_597Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/hookretry@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/hookretry@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/hookretry/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     411.00 B
+ESM dist/index.js.map 848.00 B
+ESM ⚡️ Build success in 77ms
+CJS dist/index.cjs     1.41 KB
+CJS dist/index.cjs.map 897.00 B
+CJS ⚡️ Build success in 77ms
+DTS Build start
+DTS ⚡️ Build success in 2023ms
+DTS dist/index.d.ts  320.00 B
+DTS dist/index.d.cts 320.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/hookretry@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 278B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 897B dist/index.cjs.map
+npm notice 320B dist/index.d.cts
+npm notice 320B dist/index.d.ts
+npm notice 411B dist/index.js
+npm notice 848B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/hookretry
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-hookretry-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: 32ddba8043f1f3bf65abbb247c067694cdce43aa
+npm notice integrity: sha512-Cf1D3U/HnuKWz[...]Uxz5Pot9giwqQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fhookretry - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T10_04_25_897Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/injectflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/injectflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/injectflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     897.00 B
+ESM dist/index.js.map 1.75 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.91 KB
+CJS dist/index.cjs.map 1.80 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 695ms
+DTS dist/index.d.ts  518.00 B
+DTS dist/index.d.cts 518.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/injectflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 920B README.md
+npm notice 2.0kB dist/index.cjs
+npm notice 1.8kB dist/index.cjs.map
+npm notice 520B dist/index.d.cts
+npm notice 520B dist/index.d.ts
+npm notice 897B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/injectflow
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-injectflow-0.1.0.tgz
+npm notice package size: 3.4 kB
+npm notice unpacked size: 11.1 kB
+npm notice shasum: 2ebba0d76ad18d01747b8b7375a4ae1e36ef9ded
+npm notice integrity: sha512-DNh3ShQPeVUp0[...]UsyETrdN5FcPQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2finjectflow - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T10_06_34_156Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/lesscode@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs.map   2.03 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 33ms
+ESM dist/index.js     109.00 B
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js.map 180.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM ⚡️ Build success in 34ms
+DTS Build start
+DTS ⚡️ Build success in 1372ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/lesscode@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 261B README.md
+npm notice 2.5kB dist/cli.cjs
+npm notice 2.1kB dist/cli.cjs.map
+npm notice 1.1kB dist/cli.js
+npm notice 2.0kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 224B dist/index.cjs.map
+npm notice 73B dist/index.d.cts
+npm notice 73B dist/index.d.ts
+npm notice 109B dist/index.js
+npm notice 180B dist/index.js.map
+npm notice 47B lesscode.cjs
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/lesscode
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-lesscode-0.1.0.tgz
+npm notice package size: 4.1 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: fc7b5a29ee5c4c1493cd6ce4c7850e3138a29c22
+npm notice integrity: sha512-mj5p7gdNlwz4G[...]jKnYYsqeo4IwQ==
+npm notice total files: 15
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2flesscode - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T10_08_43_424Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 19ms
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 20ms
+DTS Build start
+DTS ⚡️ Build success in 932ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/logicforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: 364e515e78ed165947a4ac2af0366d9f0a0221ab
+npm notice integrity: sha512-yzsg1fkTCUYLR[...]Ui7wjnB5hafLA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E429
+npm error 429 Too Many Requests - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2flogicforge - Could not publish, as user undefined: rate limited exceeded
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T10_10_02_012Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 1611ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/logicforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: 364e515e78ed165947a4ac2af0366d9f0a0221ab
+npm notice integrity: sha512-yzsg1fkTCUYLR[...]Ui7wjnB5hafLA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E429
+npm error 429 Too Many Requests - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2flogicforge - Could not publish, as user undefined: rate limited exceeded
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T10_12_57_404Z-debug-0.log

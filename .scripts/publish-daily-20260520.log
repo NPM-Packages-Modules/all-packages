@@ -1,0 +1,2405 @@
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> publish:daily
+> node .scripts/publish-daily-batch.mjs
+
+Pending: 79 · This run: 20 (limit 20)
+
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 845ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/aggra@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/aggra/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.24 KB
+ESM dist/index.js.map 2.92 KB
+ESM ⚡️ Build success in 14ms
+CJS dist/index.cjs     2.28 KB
+CJS dist/index.cjs.map 2.97 KB
+CJS ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 636ms
+DTS dist/index.d.ts  963.00 B
+DTS dist/index.d.cts 963.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/apiblocks@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/apiblocks/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.70 KB
+ESM dist/index.js.map 3.96 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     2.86 KB
+CJS dist/index.cjs.map 4.02 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 638ms
+DTS dist/index.d.ts  1.29 KB
+DTS dist/index.d.cts 1.29 KB
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/apilifecycle@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/apilifecycle/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.57 KB
+CJS dist/index.cjs.map 1.00 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     519.00 B
+ESM dist/index.js.map 980.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 612ms
+DTS dist/index.d.ts  366.00 B
+DTS dist/index.d.cts 366.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/backendforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/backendforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       3.08 KB
+CJS dist/index.cjs     2.92 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS dist/index.cjs.map 2.47 KB
+CJS ⚡️ Build success in 13ms
+ESM dist/index.js              118.00 B
+ESM dist/chunk-CGYPKMSG.js     1.22 KB
+ESM dist/cli.js                594.00 B
+ESM dist/index.js.map          71.00 B
+ESM dist/chunk-CGYPKMSG.js.map 2.41 KB
+ESM dist/cli.js.map            1.08 KB
+ESM ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 1501ms
+DTS dist/index.d.ts  305.00 B
+DTS dist/index.d.cts 305.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 752ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/cacheforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.55 KB
+CJS dist/index.cjs.map 1.18 KB
+CJS ⚡️ Build success in 19ms
+ESM dist/index.js     549.00 B
+ESM dist/index.js.map 1.13 KB
+ESM ⚡️ Build success in 19ms
+DTS Build start
+DTS ⚡️ Build success in 1282ms
+DTS dist/index.d.ts  363.00 B
+DTS dist/index.d.cts 363.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/codemorph@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/codemorph/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js              178.00 B
+ESM dist/cli.js                808.00 B
+ESM dist/chunk-DTLYNWDV.js     1.46 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.48 KB
+ESM dist/chunk-DTLYNWDV.js.map 3.20 KB
+ESM ⚡️ Build success in 52ms
+CJS dist/cli.cjs       3.53 KB
+CJS dist/index.cjs     3.22 KB
+CJS dist/index.cjs.map 3.26 KB
+CJS dist/cli.cjs.map   4.70 KB
+CJS ⚡️ Build success in 52ms
+DTS Build start
+DTS ⚡️ Build success in 892ms
+DTS dist/index.d.ts  562.00 B
+DTS dist/index.d.cts 562.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/configforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/configforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.27 KB
+CJS dist/index.cjs.map 573.00 B
+CJS ⚡️ Build success in 17ms
+ESM dist/index.js     248.00 B
+ESM dist/index.js.map 528.00 B
+ESM ⚡️ Build success in 17ms
+DTS Build start
+DTS ⚡️ Build success in 777ms
+DTS dist/index.d.ts  190.00 B
+DTS dist/index.d.cts 190.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/cronmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cronmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 927.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.39 KB
+CJS dist/index.cjs.map 976.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 658ms
+DTS dist/index.d.ts  433.00 B
+DTS dist/index.d.cts 433.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/ctrlflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/ctrlflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.45 KB
+CJS dist/index.cjs.map 928.00 B
+CJS ⚡️ Build success in 15ms
+ESM dist/index.js     425.00 B
+ESM dist/index.js.map 878.00 B
+ESM ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 867ms
+DTS dist/index.d.ts  319.00 B
+DTS dist/index.d.cts 319.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 14ms
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 616ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/dbmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.44 KB
+CJS ⚡️ Build success in 19ms
+ESM dist/index.js     496.00 B
+ESM dist/index.js.map 1.39 KB
+ESM ⚡️ Build success in 19ms
+DTS Build start
+DTS ⚡️ Build success in 1272ms
+DTS dist/index.d.ts  564.00 B
+DTS dist/index.d.cts 564.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/docstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/docstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/cli.js       702.00 B
+ESM dist/index.js     109.00 B
+ESM dist/index.js.map 180.00 B
+ESM dist/cli.js.map   1.25 KB
+ESM ⚡️ Build success in 16ms
+CJS dist/cli.cjs       2.00 KB
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs.map   1.28 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 706ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 823ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/eventforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     395.00 B
+ESM dist/index.js.map 818.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 867.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 634ms
+DTS dist/index.d.ts  289.00 B
+DTS dist/index.d.cts 289.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/eventmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     604.00 B
+ESM dist/index.js.map 1.24 KB
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.62 KB
+CJS dist/index.cjs.map 1.28 KB
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 658ms
+DTS dist/index.d.ts  416.00 B
+DTS dist/index.d.cts 416.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 664ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/fusionstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/fusionstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     441.00 B
+ESM dist/index.js.map 1.02 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.07 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 673ms
+DTS dist/index.d.ts  453.00 B
+DTS dist/index.d.cts 453.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+
+> @mr-aftab-ahmad-khan/graphstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/graphstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.09 KB
+CJS dist/cli.cjs       2.15 KB
+CJS dist/cli.cjs.map   1.73 KB
+CJS dist/index.cjs.map 226.00 B
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     113.00 B
+ESM dist/cli.js       865.00 B
+ESM dist/index.js.map 182.00 B
+ESM dist/cli.js.map   1.70 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 617ms
+DTS dist/index.d.ts  77.00 B
+DTS dist/index.d.cts 77.00 B
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 17ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 17ms
+DTS Build start
+DTS ⚡️ Build success in 642ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/adminforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 960B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 1.3kB dist/index.cjs.map
+npm notice 1.0kB dist/index.d.cts
+npm notice 1.0kB dist/index.d.ts
+npm notice 350B dist/index.js
+npm notice 1.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/adminforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-adminforge-0.1.0.tgz
+npm notice package size: 3.3 kB
+npm notice unpacked size: 9.9 kB
+npm notice shasum: 0427cc098f19a290bb545c538d46315317229a64
+npm notice integrity: sha512-8p6r3ehaR/Cii[...]l6QXubEZKwyJw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E404
+npm error 404 Not Found - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fadminforge - Not found
+npm error 404
+npm error 404  The requested resource '@mr-aftab-ahmad-khan/adminforge@0.1.0' could not be found or you do not have permission to access it.
+npm error 404
+npm error 404 Note that you can also install from a
+npm error 404 tarball, folder, http url, or git url.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T08_17_25_969Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 815ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/adminforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 960B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 1.3kB dist/index.cjs.map
+npm notice 1.0kB dist/index.d.cts
+npm notice 1.0kB dist/index.d.ts
+npm notice 350B dist/index.js
+npm notice 1.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/adminforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-adminforge-0.1.0.tgz
+npm notice package size: 3.3 kB
+npm notice unpacked size: 9.9 kB
+npm notice shasum: 0427cc098f19a290bb545c538d46315317229a64
+npm notice integrity: sha512-8p6r3ehaR/Cii[...]l6QXubEZKwyJw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E404
+npm error 404 Not Found - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fadminforge - Not found
+npm error 404
+npm error 404  The requested resource '@mr-aftab-ahmad-khan/adminforge@0.1.0' could not be found or you do not have permission to access it.
+npm error 404
+npm error 404 Note that you can also install from a
+npm error 404 tarball, folder, http url, or git url.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T08_18_59_701Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 654ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/adminforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 960B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 1.3kB dist/index.cjs.map
+npm notice 1.0kB dist/index.d.cts
+npm notice 1.0kB dist/index.d.ts
+npm notice 350B dist/index.js
+npm notice 1.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/adminforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-adminforge-0.1.0.tgz
+npm notice package size: 3.3 kB
+npm notice unpacked size: 9.9 kB
+npm notice shasum: 0427cc098f19a290bb545c538d46315317229a64
+npm notice integrity: sha512-8p6r3ehaR/Cii[...]l6QXubEZKwyJw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E404
+npm error 404 Not Found - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fadminforge - Not found
+npm error 404
+npm error 404  The requested resource '@mr-aftab-ahmad-khan/adminforge@0.1.0' could not be found or you do not have permission to access it.
+npm error 404
+npm error 404 Note that you can also install from a
+npm error 404 tarball, folder, http url, or git url.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T08_22_03_848Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 699ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/adminforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 960B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 1.3kB dist/index.cjs.map
+npm notice 1.0kB dist/index.d.cts
+npm notice 1.0kB dist/index.d.ts
+npm notice 350B dist/index.js
+npm notice 1.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/adminforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-adminforge-0.1.0.tgz
+npm notice package size: 3.3 kB
+npm notice unpacked size: 9.9 kB
+npm notice shasum: 0427cc098f19a290bb545c538d46315317229a64
+npm notice integrity: sha512-8p6r3ehaR/Cii[...]l6QXubEZKwyJw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E404
+npm error 404 Not Found - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fadminforge - Not found
+npm error 404
+npm error 404  The requested resource '@mr-aftab-ahmad-khan/adminforge@0.1.0' could not be found or you do not have permission to access it.
+npm error 404
+npm error 404 Note that you can also install from a
+npm error 404 tarball, folder, http url, or git url.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T08_26_37_178Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 747ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm warn Unknown env config "devdir". This will stop working in the next major version of npm.
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/adminforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 960B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 1.3kB dist/index.cjs.map
+npm notice 1.0kB dist/index.d.cts
+npm notice 1.0kB dist/index.d.ts
+npm notice 350B dist/index.js
+npm notice 1.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/adminforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-adminforge-0.1.0.tgz
+npm notice package size: 3.3 kB
+npm notice unpacked size: 9.9 kB
+npm notice shasum: 0427cc098f19a290bb545c538d46315317229a64
+npm notice integrity: sha512-8p6r3ehaR/Cii[...]l6QXubEZKwyJw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fadminforge - Two-factor authentication or granular access token with bypass 2fa enabled is required to publish packages.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T08_32_40_948Z-debug-0.log
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 79 · This run: 20 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 950ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+
+> @mr-aftab-ahmad-khan/aggra@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/aggra/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.28 KB
+CJS dist/index.cjs.map 2.97 KB
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     1.24 KB
+ESM dist/index.js.map 2.92 KB
+ESM ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 1050ms
+DTS dist/index.d.ts  963.00 B
+DTS dist/index.d.cts 963.00 B
+
+> @mr-aftab-ahmad-khan/apiblocks@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/apiblocks/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.70 KB
+ESM dist/index.js.map 3.96 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.86 KB
+CJS dist/index.cjs.map 4.02 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 656ms
+DTS dist/index.d.ts  1.29 KB
+DTS dist/index.d.cts 1.29 KB
+
+> @mr-aftab-ahmad-khan/apilifecycle@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/apilifecycle/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     519.00 B
+ESM dist/index.js.map 980.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.57 KB
+CJS dist/index.cjs.map 1.00 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 633ms
+DTS dist/index.d.ts  366.00 B
+DTS dist/index.d.cts 366.00 B
+
+> @mr-aftab-ahmad-khan/backendforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/backendforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.92 KB
+CJS dist/cli.cjs       3.08 KB
+CJS dist/index.cjs.map 2.47 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS ⚡️ Build success in 13ms
+ESM dist/cli.js                594.00 B
+ESM dist/index.js              118.00 B
+ESM dist/chunk-CGYPKMSG.js     1.22 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.08 KB
+ESM dist/chunk-CGYPKMSG.js.map 2.41 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 644ms
+DTS dist/index.d.ts  305.00 B
+DTS dist/index.d.cts 305.00 B
+
+> @mr-aftab-ahmad-khan/cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 630ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+
+> @mr-aftab-ahmad-khan/cacheforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     549.00 B
+ESM dist/index.js.map 1.13 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.55 KB
+CJS dist/index.cjs.map 1.18 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 746ms
+DTS dist/index.d.ts  363.00 B
+DTS dist/index.d.cts 363.00 B
+
+> @mr-aftab-ahmad-khan/codemorph@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/codemorph/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/chunk-DTLYNWDV.js     1.46 KB
+ESM dist/cli.js                808.00 B
+ESM dist/index.js              178.00 B
+ESM dist/chunk-DTLYNWDV.js.map 3.20 KB
+ESM dist/cli.js.map            1.48 KB
+ESM dist/index.js.map          71.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     3.22 KB
+CJS dist/cli.cjs       3.53 KB
+CJS dist/index.cjs.map 3.26 KB
+CJS dist/cli.cjs.map   4.70 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 787ms
+DTS dist/index.d.ts  562.00 B
+DTS dist/index.d.cts 562.00 B
+
+> @mr-aftab-ahmad-khan/configforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/configforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.27 KB
+CJS dist/index.cjs.map 573.00 B
+CJS ⚡️ Build success in 15ms
+ESM dist/index.js     248.00 B
+ESM dist/index.js.map 528.00 B
+ESM ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 635ms
+DTS dist/index.d.ts  190.00 B
+DTS dist/index.d.cts 190.00 B
+
+> @mr-aftab-ahmad-khan/cronmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cronmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.39 KB
+CJS dist/index.cjs.map 976.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 927.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 730ms
+DTS dist/index.d.ts  433.00 B
+DTS dist/index.d.cts 433.00 B
+
+> @mr-aftab-ahmad-khan/ctrlflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/ctrlflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.45 KB
+CJS dist/index.cjs.map 928.00 B
+CJS ⚡️ Build success in 47ms
+ESM dist/index.js     425.00 B
+ESM dist/index.js.map 878.00 B
+ESM ⚡️ Build success in 47ms
+DTS Build start
+DTS ⚡️ Build success in 906ms
+DTS dist/index.d.ts  319.00 B
+DTS dist/index.d.cts 319.00 B
+
+> @mr-aftab-ahmad-khan/dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 1491ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+
+> @mr-aftab-ahmad-khan/dbmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     496.00 B
+ESM dist/index.js.map 1.39 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.44 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 809ms
+DTS dist/index.d.ts  564.00 B
+DTS dist/index.d.cts 564.00 B
+
+> @mr-aftab-ahmad-khan/docstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/docstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     109.00 B
+ESM dist/cli.js       702.00 B
+ESM dist/index.js.map 180.00 B
+ESM dist/cli.js.map   1.25 KB
+ESM ⚡️ Build success in 16ms
+CJS dist/cli.cjs       2.00 KB
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs.map   1.28 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 734ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+
+> @mr-aftab-ahmad-khan/duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 18ms
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 19ms
+DTS Build start
+DTS ⚡️ Build success in 975ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> @mr-aftab-ahmad-khan/eventforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 867.00 B
+CJS ⚡️ Build success in 15ms
+ESM dist/index.js     395.00 B
+ESM dist/index.js.map 818.00 B
+ESM ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 814ms
+DTS dist/index.d.ts  289.00 B
+DTS dist/index.d.cts 289.00 B
+
+> @mr-aftab-ahmad-khan/eventmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.62 KB
+CJS dist/index.cjs.map 1.28 KB
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     604.00 B
+ESM dist/index.js.map 1.24 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 2763ms
+DTS dist/index.d.ts  416.00 B
+DTS dist/index.d.cts 416.00 B
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 764ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+
+> @mr-aftab-ahmad-khan/fusionstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/fusionstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     441.00 B
+ESM dist/index.js.map 1.02 KB
+ESM ⚡️ Build success in 15ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.07 KB
+CJS ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 847ms
+DTS dist/index.d.ts  453.00 B
+DTS dist/index.d.cts 453.00 B
+
+> @mr-aftab-ahmad-khan/graphstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/graphstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     113.00 B
+ESM dist/cli.js       865.00 B
+ESM dist/cli.js.map   1.70 KB
+ESM dist/index.js.map 182.00 B
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     1.09 KB
+CJS dist/cli.cjs       2.15 KB
+CJS dist/index.cjs.map 226.00 B
+CJS dist/cli.cjs.map   1.73 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 686ms
+DTS dist/index.d.ts  77.00 B
+DTS dist/index.d.cts 77.00 B
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 754ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/adminforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 960B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 1.3kB dist/index.cjs.map
+npm notice 1.0kB dist/index.d.cts
+npm notice 1.0kB dist/index.d.ts
+npm notice 350B dist/index.js
+npm notice 1.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/adminforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-adminforge-0.1.0.tgz
+npm notice package size: 3.3 kB
+npm notice unpacked size: 9.9 kB
+npm notice shasum: 0427cc098f19a290bb545c538d46315317229a64
+npm notice integrity: sha512-8p6r3ehaR/Cii[...]l6QXubEZKwyJw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fadminforge - Two-factor authentication or granular access token with bypass 2fa enabled is required to publish packages.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T08_35_15_764Z-debug-0.log
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 79 · This run: 20 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 73ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 125ms
+DTS Build start
+DTS ⚡️ Build success in 1009ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+
+> @mr-aftab-ahmad-khan/aggra@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/aggra/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.24 KB
+ESM dist/index.js.map 2.92 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     2.28 KB
+CJS dist/index.cjs.map 2.97 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 679ms
+DTS dist/index.d.ts  963.00 B
+DTS dist/index.d.cts 963.00 B
+
+> @mr-aftab-ahmad-khan/apiblocks@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/apiblocks/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.70 KB
+ESM dist/index.js.map 3.96 KB
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     2.86 KB
+CJS dist/index.cjs.map 4.02 KB
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 698ms
+DTS dist/index.d.ts  1.29 KB
+DTS dist/index.d.cts 1.29 KB
+
+> @mr-aftab-ahmad-khan/apilifecycle@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/apilifecycle/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     519.00 B
+ESM dist/index.js.map 980.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.57 KB
+CJS dist/index.cjs.map 1.00 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 687ms
+DTS dist/index.d.ts  366.00 B
+DTS dist/index.d.cts 366.00 B
+
+> @mr-aftab-ahmad-khan/backendforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/backendforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js              118.00 B
+ESM dist/cli.js                594.00 B
+ESM dist/chunk-CGYPKMSG.js     1.22 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.08 KB
+ESM dist/chunk-CGYPKMSG.js.map 2.41 KB
+ESM ⚡️ Build success in 13ms
+CJS dist/cli.cjs       3.08 KB
+CJS dist/index.cjs     2.92 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS dist/index.cjs.map 2.47 KB
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 717ms
+DTS dist/index.d.ts  305.00 B
+DTS dist/index.d.cts 305.00 B
+
+> @mr-aftab-ahmad-khan/cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 755ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+
+> @mr-aftab-ahmad-khan/cacheforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.55 KB
+CJS dist/index.cjs.map 1.18 KB
+CJS ⚡️ Build success in 13ms
+ESM dist/index.js     549.00 B
+ESM dist/index.js.map 1.13 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 1418ms
+DTS dist/index.d.ts  363.00 B
+DTS dist/index.d.cts 363.00 B
+
+> @mr-aftab-ahmad-khan/codemorph@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/codemorph/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       3.53 KB
+CJS dist/index.cjs     3.22 KB
+CJS dist/index.cjs.map 3.26 KB
+CJS dist/cli.cjs.map   4.70 KB
+CJS ⚡️ Build success in 20ms
+ESM dist/index.js              178.00 B
+ESM dist/cli.js                808.00 B
+ESM dist/chunk-DTLYNWDV.js     1.46 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.48 KB
+ESM dist/chunk-DTLYNWDV.js.map 3.20 KB
+ESM ⚡️ Build success in 20ms
+DTS Build start
+DTS ⚡️ Build success in 1200ms
+DTS dist/index.d.ts  562.00 B
+DTS dist/index.d.cts 562.00 B
+
+> @mr-aftab-ahmad-khan/configforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/configforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.27 KB
+CJS dist/index.cjs.map 573.00 B
+CJS ⚡️ Build success in 15ms
+ESM dist/index.js     248.00 B
+ESM dist/index.js.map 528.00 B
+ESM ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 844ms
+DTS dist/index.d.ts  190.00 B
+DTS dist/index.d.cts 190.00 B
+
+> @mr-aftab-ahmad-khan/cronmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cronmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 927.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.39 KB
+CJS dist/index.cjs.map 976.00 B
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 664ms
+DTS dist/index.d.ts  433.00 B
+DTS dist/index.d.cts 433.00 B
+
+> @mr-aftab-ahmad-khan/ctrlflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/ctrlflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     425.00 B
+ESM dist/index.js.map 878.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.45 KB
+CJS dist/index.cjs.map 928.00 B
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 693ms
+DTS dist/index.d.ts  319.00 B
+DTS dist/index.d.cts 319.00 B
+
+> @mr-aftab-ahmad-khan/dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 1545ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+
+> @mr-aftab-ahmad-khan/dbmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.44 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     496.00 B
+ESM dist/index.js.map 1.39 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 658ms
+DTS dist/index.d.ts  564.00 B
+DTS dist/index.d.cts 564.00 B
+
+> @mr-aftab-ahmad-khan/docstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/docstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs       2.00 KB
+CJS dist/index.cjs.map 224.00 B
+CJS dist/cli.cjs.map   1.28 KB
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     109.00 B
+ESM dist/cli.js       702.00 B
+ESM dist/index.js.map 180.00 B
+ESM dist/cli.js.map   1.25 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 650ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+
+> @mr-aftab-ahmad-khan/duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 778ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> @mr-aftab-ahmad-khan/eventforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 867.00 B
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     395.00 B
+ESM dist/index.js.map 818.00 B
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 673ms
+DTS dist/index.d.ts  289.00 B
+DTS dist/index.d.cts 289.00 B
+
+> @mr-aftab-ahmad-khan/eventmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     604.00 B
+ESM dist/index.js.map 1.24 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     1.62 KB
+CJS dist/index.cjs.map 1.28 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 917ms
+DTS dist/index.d.ts  416.00 B
+DTS dist/index.d.cts 416.00 B
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 1070ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+
+> @mr-aftab-ahmad-khan/fusionstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/fusionstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     441.00 B
+ESM dist/index.js.map 1.02 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.07 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 728ms
+DTS dist/index.d.ts  453.00 B
+DTS dist/index.d.cts 453.00 B
+
+> @mr-aftab-ahmad-khan/graphstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/graphstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     113.00 B
+ESM dist/cli.js       865.00 B
+ESM dist/index.js.map 182.00 B
+ESM dist/cli.js.map   1.70 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.09 KB
+CJS dist/cli.cjs       2.15 KB
+CJS dist/index.cjs.map 226.00 B
+CJS dist/cli.cjs.map   1.73 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 691ms
+DTS dist/index.d.ts  77.00 B
+DTS dist/index.d.cts 77.00 B
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 615ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/adminforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 960B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 1.3kB dist/index.cjs.map
+npm notice 1.0kB dist/index.d.cts
+npm notice 1.0kB dist/index.d.ts
+npm notice 350B dist/index.js
+npm notice 1.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/adminforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-adminforge-0.1.0.tgz
+npm notice package size: 3.3 kB
+npm notice unpacked size: 9.9 kB
+npm notice shasum: 0427cc098f19a290bb545c538d46315317229a64
+npm notice integrity: sha512-8p6r3ehaR/Cii[...]l6QXubEZKwyJw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fadminforge - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T09_03_58_377Z-debug-0.log
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 79 · This run: 20 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 742ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+
+> @mr-aftab-ahmad-khan/aggra@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/aggra/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.24 KB
+ESM dist/index.js.map 2.92 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.28 KB
+CJS dist/index.cjs.map 2.97 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 608ms
+DTS dist/index.d.ts  963.00 B
+DTS dist/index.d.cts 963.00 B
+
+> @mr-aftab-ahmad-khan/apiblocks@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/apiblocks/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.70 KB
+ESM dist/index.js.map 3.96 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.86 KB
+CJS dist/index.cjs.map 4.02 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 1069ms
+DTS dist/index.d.ts  1.29 KB
+DTS dist/index.d.cts 1.29 KB
+
+> @mr-aftab-ahmad-khan/apilifecycle@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/apilifecycle/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.57 KB
+CJS dist/index.cjs.map 1.00 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     519.00 B
+ESM dist/index.js.map 980.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 589ms
+DTS dist/index.d.ts  366.00 B
+DTS dist/index.d.cts 366.00 B
+
+> @mr-aftab-ahmad-khan/backendforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/backendforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/chunk-CGYPKMSG.js     1.22 KB
+ESM dist/index.js              118.00 B
+ESM dist/cli.js                594.00 B
+ESM dist/chunk-CGYPKMSG.js.map 2.41 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.08 KB
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     2.92 KB
+CJS dist/cli.cjs       3.08 KB
+CJS dist/index.cjs.map 2.47 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 628ms
+DTS dist/index.d.ts  305.00 B
+DTS dist/index.d.cts 305.00 B
+
+> @mr-aftab-ahmad-khan/cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 1010ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+
+> @mr-aftab-ahmad-khan/cacheforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.55 KB
+CJS dist/index.cjs.map 1.18 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     549.00 B
+ESM dist/index.js.map 1.13 KB
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 1454ms
+DTS dist/index.d.ts  363.00 B
+DTS dist/index.d.cts 363.00 B
+
+> @mr-aftab-ahmad-khan/codemorph@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/codemorph/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/chunk-DTLYNWDV.js     1.46 KB
+ESM dist/cli.js                808.00 B
+ESM dist/index.js              178.00 B
+ESM dist/chunk-DTLYNWDV.js.map 3.20 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.48 KB
+ESM ⚡️ Build success in 27ms
+CJS dist/index.cjs     3.22 KB
+CJS dist/cli.cjs       3.53 KB
+CJS dist/cli.cjs.map   4.70 KB
+CJS dist/index.cjs.map 3.26 KB
+CJS ⚡️ Build success in 27ms
+DTS Build start
+DTS ⚡️ Build success in 1021ms
+DTS dist/index.d.ts  562.00 B
+DTS dist/index.d.cts 562.00 B
+
+> @mr-aftab-ahmad-khan/configforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/configforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.27 KB
+CJS dist/index.cjs.map 573.00 B
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     248.00 B
+ESM dist/index.js.map 528.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 617ms
+DTS dist/index.d.ts  190.00 B
+DTS dist/index.d.cts 190.00 B
+
+> @mr-aftab-ahmad-khan/cronmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cronmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 927.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.39 KB
+CJS dist/index.cjs.map 976.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 586ms
+DTS dist/index.d.ts  433.00 B
+DTS dist/index.d.cts 433.00 B
+
+> @mr-aftab-ahmad-khan/ctrlflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/ctrlflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     425.00 B
+ESM dist/index.js.map 878.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.45 KB
+CJS dist/index.cjs.map 928.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 787ms
+DTS dist/index.d.ts  319.00 B
+DTS dist/index.d.cts 319.00 B
+
+> @mr-aftab-ahmad-khan/dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 597ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+
+> @mr-aftab-ahmad-khan/dbmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     496.00 B
+ESM dist/index.js.map 1.39 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.44 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 745ms
+DTS dist/index.d.ts  564.00 B
+DTS dist/index.d.cts 564.00 B
+
+> @mr-aftab-ahmad-khan/docstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/docstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs       2.00 KB
+CJS dist/index.cjs.map 224.00 B
+CJS dist/cli.cjs.map   1.28 KB
+CJS ⚡️ Build success in 16ms
+ESM dist/index.js     109.00 B
+ESM dist/cli.js       702.00 B
+ESM dist/index.js.map 180.00 B
+ESM dist/cli.js.map   1.25 KB
+ESM ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 1053ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+
+> @mr-aftab-ahmad-khan/duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 27ms
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 27ms
+DTS Build start
+DTS ⚡️ Build success in 1214ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> @mr-aftab-ahmad-khan/eventforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     395.00 B
+ESM dist/index.js.map 818.00 B
+ESM ⚡️ Build success in 15ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 867.00 B
+CJS ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 906ms
+DTS dist/index.d.ts  289.00 B
+DTS dist/index.d.cts 289.00 B
+
+> @mr-aftab-ahmad-khan/eventmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     604.00 B
+ESM dist/index.js.map 1.24 KB
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     1.62 KB
+CJS dist/index.cjs.map 1.28 KB
+CJS ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 604ms
+DTS dist/index.d.ts  416.00 B
+DTS dist/index.d.cts 416.00 B
+
+> @mr-aftab-ahmad-khan/formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 721ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+
+> @mr-aftab-ahmad-khan/fusionstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/fusionstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     441.00 B
+ESM dist/index.js.map 1.02 KB
+ESM ⚡️ Build success in 17ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.07 KB
+CJS ⚡️ Build success in 17ms
+DTS Build start
+DTS ⚡️ Build success in 729ms
+DTS dist/index.d.ts  453.00 B
+DTS dist/index.d.cts 453.00 B
+
+> @mr-aftab-ahmad-khan/graphstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/graphstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.09 KB
+CJS dist/cli.cjs       2.15 KB
+CJS dist/cli.cjs.map   1.73 KB
+CJS dist/index.cjs.map 226.00 B
+CJS ⚡️ Build success in 13ms
+ESM dist/cli.js       865.00 B
+ESM dist/index.js     113.00 B
+ESM dist/index.js.map 182.00 B
+ESM dist/cli.js.map   1.70 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 611ms
+DTS dist/index.d.ts  77.00 B
+DTS dist/index.d.cts 77.00 B
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/adminforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/adminforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     350.00 B
+ESM dist/index.js.map 1.17 KB
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 1.23 KB
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 584ms
+DTS dist/index.d.ts  1020.00 B
+DTS dist/index.d.cts 1020.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/adminforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 960B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 1.3kB dist/index.cjs.map
+npm notice 1.0kB dist/index.d.cts
+npm notice 1.0kB dist/index.d.ts
+npm notice 350B dist/index.js
+npm notice 1.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/adminforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-adminforge-0.1.0.tgz
+npm notice package size: 3.3 kB
+npm notice unpacked size: 9.9 kB
+npm notice shasum: 0427cc098f19a290bb545c538d46315317229a64
+npm notice integrity: sha512-8p6r3ehaR/Cii[...]l6QXubEZKwyJw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fadminforge - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T09_05_51_857Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/cacheflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 1450ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+npm notice
+npm notice 📦  @mr-aftab-ahmad-khan/cacheflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 945B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.3kB dist/index.cjs.map
+npm notice 559B dist/index.d.cts
+npm notice 559B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/cacheflow
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-cacheflow-0.1.0.tgz
+npm notice package size: 3.6 kB
+npm notice unpacked size: 12.5 kB
+npm notice shasum: 380e4d4edc68ec460e0631b2733ce2f045d2931e
+npm notice integrity: sha512-Xh8aT0yDUJge7[...]1QGkhnS1tewzw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fcacheflow - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/794c9f7a49af8b3be9b8413b34817a61/npm/_logs/2026-05-20T09_31_12_770Z-debug-0.log
