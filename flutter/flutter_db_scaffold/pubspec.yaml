@@ -8,9 +8,6 @@ topics:
   - drift
   - flutter
   - flutter-db-scaffold
-  - mobile
-  - pub
-  - sqlite
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.10.0"

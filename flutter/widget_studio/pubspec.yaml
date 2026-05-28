@@ -8,8 +8,6 @@ topics:
   - json
   - mobile
   - pub
-  - server-driven-ui
-  - widget-studio
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.10.0"

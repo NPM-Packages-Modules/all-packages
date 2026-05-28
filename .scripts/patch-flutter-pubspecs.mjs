@@ -11,6 +11,16 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = join(fileURLToPath(new URL("..", import.meta.url)), "flutter");
 const MONO = "https://github.com/NPM-Packages-Modules/flutter";
+const MAX_TOPICS = 5; // pub.dev limit
+
+function capTopics(y) {
+  const match = y.match(/^topics:\n((?:  - .+\n)+)/m);
+  if (!match) return y;
+  const lines = match[1].split("\n").filter((l) => l.trim());
+  if (lines.length <= MAX_TOPICS) return y;
+  const kept = lines.slice(0, MAX_TOPICS).join("\n") + "\n";
+  return y.replace(match[0], `topics:\n${kept}`);
+}
 
 let n = 0;
 for (const dir of readdirSync(ROOT)) {
@@ -32,6 +42,8 @@ issue_tracker: ${MONO}/issues
   } else {
     y = y.trimEnd() + `\n\n${repoBlock}`;
   }
+
+  y = capTopics(y);
 
   writeFileSync(pubspec, y.endsWith("\n") ? y : `${y}\n`);
   n++;

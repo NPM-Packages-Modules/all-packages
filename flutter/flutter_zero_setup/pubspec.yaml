@@ -8,8 +8,6 @@ topics:
   - flutter
   - flutter-zero-setup
   - mobile
-  - pub
-  - scaffolding
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.10.0"

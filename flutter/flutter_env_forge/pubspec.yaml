@@ -8,9 +8,6 @@ topics:
   - dart
   - env
   - flutter
-  - flutter-env-forge
-  - mobile
-  - pub
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.10.0"

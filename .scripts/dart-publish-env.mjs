@@ -63,31 +63,32 @@ export function assertDartSdk() {
   console.log(`dart sdk OK${line ? ` (${line})` : ""}`);
 }
 
+function pubCredentialsPaths() {
+  return [
+    join(homedir(), ".config", "dart", "pub-credentials.json"),
+    join(homedir(), "Library", "Application Support", "dart", "pub-credentials.json"),
+  ];
+}
+
 function hasPubToken() {
-  const credPath = join(homedir(), ".config", "dart", "pub-credentials.json");
-  if (!existsSync(credPath)) return false;
-  try {
-    const raw = readFileSync(credPath, "utf8");
-    return /pub\.dev|pub-dev/i.test(raw);
-  } catch {
-    return false;
+  for (const credPath of pubCredentialsPaths()) {
+    if (!existsSync(credPath)) continue;
+    try {
+      const raw = readFileSync(credPath, "utf8");
+      if (/pub\.dev|pub-dev/i.test(raw)) return true;
+    } catch {
+      /* try next path */
+    }
   }
+  return false;
 }
 
 export function assertDartAuth() {
   assertDartSdk();
 
-  if (!hasPubToken()) {
-    console.error(
-      "No pub.dev upload token found (~/.config/dart/pub-credentials.json).\n\n" +
-        "Create one: https://pub.dev → Account → Uploaders → Create token\n\n" +
-        "Then run once:\n" +
-        "  dart pub token add https://pub.dev\n" +
-        "  (paste token when prompted)\n\n" +
-        "Or non-interactive:\n" +
-        "  printf '%s' \"$PUB_DEV_PUBLISH_TOKEN\" | dart pub token add https://pub.dev\n"
-    );
-    process.exit(1);
+  if (hasPubToken()) {
+    console.log("pub.dev auth OK (credentials file)");
+    return;
   }
 
   const r = spawnSync(dartBin(), ["pub", "token", "list"], {
@@ -96,11 +97,24 @@ export function assertDartAuth() {
     stdio: ["ignore", "pipe", "pipe"],
   });
   const out = `${r.stdout || ""}${r.stderr || ""}`;
-  if (!/pub\.dev/i.test(out) && r.status !== 0) {
-    console.error("pub.dev token missing or invalid. Run: dart pub token add https://pub.dev\n");
-    process.exit(1);
+  if (/pub\.dev/i.test(out)) {
+    console.log("pub.dev auth OK (token)");
+    return;
   }
-  console.log("pub.dev auth OK");
+
+  // OAuth from `dart pub login` — no entry in `pub token list`, but publish works
+  if (pubCredentialsPaths().some((p) => existsSync(p))) {
+    console.log("pub.dev auth OK (dart pub login)");
+    return;
+  }
+
+  console.error(
+    "No pub.dev credentials found. Run: dart pub login\n\n" +
+      "  export FLUTTER_ROOT=\"$HOME/.flutter-sdk\"\n" +
+      "  export PATH=\"$FLUTTER_ROOT/bin:$PATH\"\n" +
+      "  dart pub login\n"
+  );
+  process.exit(1);
 }
 
 export function isPubAuthError(out) {
