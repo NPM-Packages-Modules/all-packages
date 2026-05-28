@@ -1,0 +1,92 @@
+[2026-05-28T15:51:06.806Z] 15 package version(s) to publish.
+[2026-05-28T15:51:06.808Z] Running flutter pub get…
+[2026-05-28T15:51:06.809Z]   pub get app_flow_orchestrator
+[2026-05-28T15:53:30.048Z]   pub get auto_localization_kit
+[2026-05-28T15:53:32.329Z]   pub get auto_state_sync
+[2026-05-28T15:53:34.431Z]   pub get flutter_api_weaver
+[2026-05-28T15:53:36.765Z]   pub get flutter_asset_sync
+[2026-05-28T15:53:40.419Z]   pub get flutter_build_shrinker
+[2026-05-28T15:53:42.982Z]   pub get flutter_clean_arch_bot
+[2026-05-28T15:53:52.909Z]   pub get flutter_db_scaffold
+[2026-05-28T15:53:55.241Z]   pub get flutter_device_lab
+[2026-05-28T15:53:57.641Z]   pub get flutter_env_forge
+[2026-05-28T15:53:59.855Z]   pub get flutter_firelink
+[2026-05-28T15:54:02.203Z]   pub get flutter_icon_smith
+[2026-05-28T15:54:05.173Z]   pub get flutter_monorepo_chief
+[2026-05-28T15:54:07.956Z]   pub get flutter_perf_doctor
+[2026-05-28T15:54:11.514Z]   pub get flutter_pub_cleaner
+[2026-05-28T15:54:14.794Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-05-28T15:54:26.847Z]   ✗ failed app_flow_orchestrator@0.1.0
+[2026-05-28T15:54:26.848Z]   gap 120s before next package…
+[2026-05-28T15:56:26.848Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-05-28T15:57:23.405Z] 30 package version(s) to publish.
+[2026-05-28T15:57:23.415Z] Running flutter pub get…
+[2026-05-28T15:57:23.415Z]   pub get app_flow_orchestrator
+[2026-05-28T15:57:24.204Z]   pub get auto_localization_kit
+[2026-05-28T15:57:24.841Z]   pub get auto_state_sync
+[2026-05-28T15:57:25.464Z]   pub get flutter_api_weaver
+[2026-05-28T15:57:26.061Z]   pub get flutter_asset_sync
+[2026-05-28T15:57:26.666Z]   pub get flutter_build_shrinker
+[2026-05-28T15:57:27.271Z]   pub get flutter_clean_arch_bot
+[2026-05-28T15:57:27.890Z]   pub get flutter_db_scaffold
+[2026-05-28T15:57:28.505Z]   pub get flutter_device_lab
+[2026-05-28T15:57:29.111Z]   pub get flutter_env_forge
+[2026-05-28T15:57:29.737Z]   pub get flutter_firelink
+[2026-05-28T15:57:30.343Z]   pub get flutter_icon_smith
+[2026-05-28T15:57:30.949Z]   pub get flutter_monorepo_chief
+[2026-05-28T15:57:31.569Z]   pub get flutter_perf_doctor
+[2026-05-28T15:57:32.178Z]   pub get flutter_pub_cleaner
+[2026-05-28T15:57:32.806Z]   pub get flutter_release_pilot
+[2026-05-28T15:57:37.869Z]   pub get flutter_route_genius
+[2026-05-28T15:57:47.534Z]   pub get flutter_screen_forge
+[2026-05-28T15:58:01.136Z]   pub get flutter_state_smith
+[2026-05-28T15:58:04.321Z]   pub get flutter_super_table
+[2026-05-28T15:58:06.507Z]   pub get flutter_test_factory
+[2026-05-28T15:58:08.674Z]   pub get flutter_ui_cloner
+[2026-05-28T15:58:20.631Z]   pub get flutter_widget_map
+[2026-05-28T15:58:27.894Z]   pub get flutter_zero_setup
+[2026-05-28T15:58:30.624Z]   pub get motion_builder
+[2026-05-28T15:58:33.567Z]   pub get responsive_magic_ui
+[2026-05-28T15:58:37.050Z]   pub get secure_vault_lite
+[2026-05-28T15:58:42.269Z]   pub get smart_form_x
+[2026-05-28T15:58:49.820Z]   pub get smart_theme_engine
+[2026-05-28T15:58:56.807Z]   pub get widget_studio
+[2026-05-28T15:59:12.576Z] [1/30] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-05-28T15:59:34.672Z]   ✓ published app_flow_orchestrator@0.1.0
+[2026-05-28T15:59:34.673Z]   gap 120s before next package…
+[2026-05-28T16:01:34.673Z] [2/30] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-05-28T16:01:43.465Z]   ✓ published auto_localization_kit@0.1.0
+[2026-05-28T16:01:43.466Z]   gap 120s before next package…
+[2026-05-28T16:03:43.313Z] [3/30] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-05-28T16:03:50.248Z]   ✓ published auto_state_sync@0.1.0
+[2026-05-28T16:03:50.248Z]   gap 120s before next package…
+[2026-05-28T16:05:50.243Z] [4/30] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-05-28T16:05:58.664Z]   ✓ published flutter_api_weaver@0.1.0
+[2026-05-28T16:05:58.665Z]   gap 120s before next package…
+[2026-05-28T16:07:58.660Z] [5/30] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-05-28T16:08:17.622Z]   ✓ published flutter_asset_sync@0.1.0
+[2026-05-28T16:08:17.623Z]   gap 120s before next package…
+[2026-05-28T16:10:17.623Z] [6/30] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-05-28T16:10:24.272Z]   ✓ published flutter_build_shrinker@0.1.0
+[2026-05-28T16:10:24.272Z]   gap 120s before next package…
+[2026-05-28T16:12:24.268Z] [7/30] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-05-28T16:12:51.900Z]   ✓ published flutter_clean_arch_bot@0.1.0
+[2026-05-28T16:12:51.901Z]   gap 120s before next package…
+[2026-05-28T16:14:51.898Z] [8/30] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-05-28T16:14:59.971Z]   ✓ published flutter_db_scaffold@0.1.0
+[2026-05-28T16:14:59.972Z]   gap 120s before next package…
+[2026-05-28T16:16:59.969Z] [9/30] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-05-28T16:19:26.821Z]   ✓ published flutter_device_lab@0.1.0
+[2026-05-28T16:19:26.829Z]   gap 120s before next package…
+[2026-05-28T16:23:11.404Z] [10/30] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-05-28T16:23:49.876Z]   ✓ published flutter_env_forge@0.1.0
+[2026-05-28T16:23:49.881Z]   gap 120s before next package…
+[2026-05-28T16:25:49.876Z] [11/30] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-05-28T16:25:55.515Z]   ✓ published flutter_firelink@0.1.0
+[2026-05-28T16:25:55.516Z]   gap 120s before next package…
+[2026-05-28T16:27:55.511Z] [12/30] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-05-28T16:28:05.769Z]   ✓ published flutter_icon_smith@0.1.0
+[2026-05-28T16:28:05.770Z]   gap 120s before next package…
+[2026-05-28T16:30:05.765Z] [13/30] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-05-28T16:31:46.230Z]   ✗ pub.dev rate limit. Stop batch — retry tomorrow.
+[2026-05-28T16:31:46.231Z] FAILED (18): flutter_monorepo_chief, flutter_perf_doctor, flutter_pub_cleaner, flutter_release_pilot, flutter_route_genius, flutter_screen_forge, flutter_state_smith, flutter_super_table, flutter_test_factory, flutter_ui_cloner, flutter_widget_map, flutter_zero_setup, motion_builder, responsive_magic_ui, secure_vault_lite, smart_form_x, smart_theme_engine, widget_studio

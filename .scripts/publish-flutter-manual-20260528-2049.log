@@ -1,0 +1,48 @@
+Using Flutter: /Users/aftabahmadkhan/.flutter-sdk/bin/flutter
+Flutter 3.44.0 • channel stable • https://github.com/flutter/flutter.git
+  patched app_flow_orchestrator
+  patched auto_localization_kit
+  patched auto_state_sync
+  patched flutter_api_weaver
+  patched flutter_asset_sync
+  patched flutter_build_shrinker
+  patched flutter_clean_arch_bot
+  patched flutter_db_scaffold
+  patched flutter_device_lab
+  patched flutter_env_forge
+  patched flutter_firelink
+  patched flutter_icon_smith
+  patched flutter_monorepo_chief
+  patched flutter_perf_doctor
+  patched flutter_pub_cleaner
+  patched flutter_release_pilot
+  patched flutter_route_genius
+  patched flutter_screen_forge
+  patched flutter_state_smith
+  patched flutter_super_table
+  patched flutter_test_factory
+  patched flutter_ui_cloner
+  patched flutter_widget_map
+  patched flutter_zero_setup
+  patched motion_builder
+  patched responsive_magic_ui
+  patched secure_vault_lite
+  patched smart_form_x
+  patched smart_theme_engine
+  patched widget_studio
+
+30 pubspec.yaml file(s) ready for pub.dev.
+Pending: 30 · This run: 15 (limit 15)
+
+dart sdk OK (Flutter 3.44.0 • channel stable • https://github.com/flutter/flutter.git)
+No pub.dev credentials found. Run: dart pub login
+
+Create one: https://pub.dev → Account → Uploaders → Create token
+
+Then run once:
+  dart pub token add https://pub.dev
+  (paste token when prompted)
+
+Or non-interactive:
+  printf '%s' "$PUB_DEV_PUBLISH_TOKEN" | dart pub token add https://pub.dev
+
