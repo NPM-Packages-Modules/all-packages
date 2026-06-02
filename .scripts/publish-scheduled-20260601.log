@@ -1,0 +1,1371 @@
+=== npm publish scheduled run 2026-06-01T22:00:55+05:00 ===
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 28 · This run: 20 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/seedforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/chunk-PKE2UJMR.js     850.00 B
+ESM dist/index.js              172.00 B
+ESM dist/cli.js                858.00 B
+ESM dist/index.js.map          71.00 B
+ESM dist/chunk-PKE2UJMR.js.map 1.96 KB
+ESM dist/cli.js.map            1.55 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/cli.cjs       2.78 KB
+CJS dist/index.cjs     1.87 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS dist/index.cjs.map 2.01 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 828ms
+DTS dist/index.d.ts  587.00 B
+DTS dist/index.d.cts 587.00 B
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/serviceforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.38 KB
+CJS dist/index.cjs.map 803.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     369.00 B
+ESM dist/index.js.map 754.00 B
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 1545ms
+DTS dist/index.d.ts  392.00 B
+DTS dist/index.d.cts 392.00 B
+
+> @mr-aftab-ahmad-khan/statemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/statemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.44 KB
+CJS dist/index.cjs.map 1006.00 B
+CJS ⚡️ Build success in 11ms
+ESM dist/index.js     442.00 B
+ESM dist/index.js.map 957.00 B
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 953ms
+DTS dist/index.d.ts  458.00 B
+DTS dist/index.d.cts 458.00 B
+
+> @mr-aftab-ahmad-khan/testforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/testforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.09 KB
+CJS dist/cli.cjs       1.91 KB
+CJS dist/cli.cjs.map   1.11 KB
+CJS dist/index.cjs.map 225.00 B
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     111.00 B
+ESM dist/cli.js       649.00 B
+ESM dist/index.js.map 181.00 B
+ESM dist/cli.js.map   1.08 KB
+ESM ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 795ms
+DTS dist/index.d.ts  75.00 B
+DTS dist/index.d.cts 75.00 B
+
+> @mr-aftab-ahmad-khan/transactly@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/transactly/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     460.00 B
+ESM dist/index.js.map 873.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 917.00 B
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 978ms
+DTS dist/index.d.ts  188.00 B
+DTS dist/index.d.cts 188.00 B
+
+> @mr-aftab-ahmad-khan/uploadflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/uploadflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     286.00 B
+ESM dist/index.js.map 581.00 B
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.29 KB
+CJS dist/index.cjs.map 630.00 B
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 1054ms
+DTS dist/index.d.ts  255.00 B
+DTS dist/index.d.cts 255.00 B
+
+> @mr-aftab-ahmad-khan/validora@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/validora/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.71 KB
+CJS dist/index.cjs.map 1.48 KB
+CJS ⚡️ Build success in 12ms
+ESM dist/index.js     671.00 B
+ESM dist/index.js.map 1.43 KB
+ESM ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 982ms
+DTS dist/index.d.ts  304.00 B
+DTS dist/index.d.cts 304.00 B
+
+> @mr-aftab-ahmad-khan/versionpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/versionpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     738.00 B
+ESM dist/index.js.map 2.03 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.75 KB
+CJS dist/index.cjs.map 2.08 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 938ms
+DTS dist/index.d.ts  887.00 B
+DTS dist/index.d.cts 887.00 B
+
+> @mr-aftab-ahmad-khan/workerforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/workerforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     388.00 B
+ESM dist/index.js.map 805.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 854.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 928ms
+DTS dist/index.d.ts  305.00 B
+DTS dist/index.d.cts 305.00 B
+
+> @mr-aftab-ahmad-khan/workflowmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/workflowmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.10 KB
+ESM dist/index.js.map 2.57 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.62 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 893ms
+DTS dist/index.d.ts  788.00 B
+DTS dist/index.d.cts 788.00 B
+
+> @mr-aftab-ahmad-khan/wsmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/wsmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.67 KB
+ESM dist/index.js.map 3.31 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.67 KB
+CJS dist/index.cjs.map 3.35 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 59980ms
+DTS dist/index.d.ts  896.00 B
+DTS dist/index.d.cts 896.00 B
+
+> @mr-aftab-ahmad-khan/apidocsmith@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/apidocsmith/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     144.00 B
+ESM dist/index.js.map 343.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.12 KB
+CJS dist/index.cjs.map 387.00 B
+CJS ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 837ms
+DTS dist/index.d.ts  180.00 B
+DTS dist/index.d.cts 180.00 B
+
+> @mr-aftab-ahmad-khan/apiflowx@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/apiflowx/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     162.00 B
+ESM dist/index.js.map 394.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.14 KB
+CJS dist/index.cjs.map 438.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 791ms
+DTS dist/index.d.ts  225.00 B
+DTS dist/index.d.cts 225.00 B
+
+> @mr-aftab-ahmad-khan/cachepilot@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/cachepilot/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     115.00 B
+ESM dist/index.js.map 228.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     1.09 KB
+CJS dist/index.cjs.map 272.00 B
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 651ms
+DTS dist/index.d.ts  106.00 B
+DTS dist/index.d.cts 106.00 B
+
+> @mr-aftab-ahmad-khan/cronpilot@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/cronpilot/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     167.00 B
+ESM dist/index.js.map 339.00 B
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.14 KB
+CJS dist/index.cjs.map 383.00 B
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 60774ms
+DTS dist/index.d.ts  213.00 B
+DTS dist/index.d.cts 213.00 B
+
+> @mr-aftab-ahmad-khan/datamorph@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/datamorph/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     978.00 B
+ESM dist/index.js.map 2.27 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.96 KB
+CJS dist/index.cjs.map 2.32 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 724ms
+DTS dist/index.d.ts  335.00 B
+DTS dist/index.d.cts 335.00 B
+
+> @mr-aftab-ahmad-khan/deploysense@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/deploysense/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.14 KB
+CJS dist/index.cjs.map 360.00 B
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     158.00 B
+ESM dist/index.js.map 316.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 798ms
+DTS dist/index.d.ts  130.00 B
+DTS dist/index.d.cts 130.00 B
+
+> @mr-aftab-ahmad-khan/envsyncer@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/envsyncer/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     162.00 B
+ESM dist/index.js.map 277.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.17 KB
+CJS dist/index.cjs.map 326.00 B
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 1735ms
+DTS dist/index.d.ts  142.00 B
+DTS dist/index.d.cts 142.00 B
+
+> @mr-aftab-ahmad-khan/eventbridgex@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/eventbridgex/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     183.00 B
+ESM dist/index.js.map 376.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     1.16 KB
+CJS dist/index.cjs.map 420.00 B
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 60899ms
+DTS dist/index.d.ts  170.00 B
+DTS dist/index.d.cts 170.00 B
+
+> @mr-aftab-ahmad-khan/mongoforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/mongoforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.12 KB
+CJS dist/index.cjs.map 324.00 B
+CJS ⚡️ Build success in 11ms
+ESM dist/index.js     146.00 B
+ESM dist/index.js.map 280.00 B
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 904ms
+DTS dist/index.d.ts  107.00 B
+DTS dist/index.d.cts 107.00 B
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/seedforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/chunk-PKE2UJMR.js     850.00 B
+ESM dist/cli.js                858.00 B
+ESM dist/index.js              172.00 B
+ESM dist/chunk-PKE2UJMR.js.map 1.96 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.55 KB
+ESM ⚡️ Build success in 15ms
+CJS dist/cli.cjs       2.78 KB
+CJS dist/index.cjs     1.87 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS dist/index.cjs.map 2.01 KB
+CJS ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 967ms
+DTS dist/index.d.ts  587.00 B
+DTS dist/index.d.cts 587.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/seedforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 933B README.md
+npm notice 850B dist/chunk-PKE2UJMR.js
+npm notice 2.0kB dist/chunk-PKE2UJMR.js.map
+npm notice 2.9kB dist/cli.cjs
+npm notice 3.6kB dist/cli.cjs.map
+npm notice 858B dist/cli.js
+npm notice 1.6kB dist/cli.js.map
+npm notice 1.9kB dist/index.cjs
+npm notice 2.1kB dist/index.cjs.map
+npm notice 589B dist/index.d.cts
+npm notice 589B dist/index.d.ts
+npm notice 172B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 1.7kB package.json
+npm notice 47B seedforge.cjs
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/seedforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-seedforge-0.1.0.tgz
+npm notice package size: 5.1 kB
+npm notice unpacked size: 20.9 kB
+npm notice shasum: a7b1faa0ca162f48eee997a5fa89ebf27cd89738
+npm notice integrity: sha512-6+IWoDS9UCSkP[...]63q86Dic82VAg==
+npm notice total files: 17
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fseedforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T02_05_27_687Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/seedforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       2.78 KB
+CJS dist/index.cjs     1.87 KB
+CJS dist/index.cjs.map 2.01 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS ⚡️ Build success in 11ms
+ESM dist/chunk-PKE2UJMR.js     850.00 B
+ESM dist/cli.js                858.00 B
+ESM dist/index.js              172.00 B
+ESM dist/cli.js.map            1.55 KB
+ESM dist/chunk-PKE2UJMR.js.map 1.96 KB
+ESM dist/index.js.map          71.00 B
+ESM ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 809ms
+DTS dist/index.d.ts  587.00 B
+DTS dist/index.d.cts 587.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/seedforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 933B README.md
+npm notice 850B dist/chunk-PKE2UJMR.js
+npm notice 2.0kB dist/chunk-PKE2UJMR.js.map
+npm notice 2.9kB dist/cli.cjs
+npm notice 3.6kB dist/cli.cjs.map
+npm notice 858B dist/cli.js
+npm notice 1.6kB dist/cli.js.map
+npm notice 1.9kB dist/index.cjs
+npm notice 2.1kB dist/index.cjs.map
+npm notice 589B dist/index.d.cts
+npm notice 589B dist/index.d.ts
+npm notice 172B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 1.7kB package.json
+npm notice 47B seedforge.cjs
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/seedforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-seedforge-0.1.0.tgz
+npm notice package size: 5.1 kB
+npm notice unpacked size: 20.9 kB
+npm notice shasum: a7b1faa0ca162f48eee997a5fa89ebf27cd89738
+npm notice integrity: sha512-6+IWoDS9UCSkP[...]63q86Dic82VAg==
+npm notice total files: 17
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fseedforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T02_48_55_520Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/seedforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.87 KB
+CJS dist/cli.cjs       2.78 KB
+CJS dist/index.cjs.map 2.01 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS ⚡️ Build success in 11ms
+ESM dist/cli.js                858.00 B
+ESM dist/index.js              172.00 B
+ESM dist/chunk-PKE2UJMR.js     850.00 B
+ESM dist/cli.js.map            1.55 KB
+ESM dist/chunk-PKE2UJMR.js.map 1.96 KB
+ESM dist/index.js.map          71.00 B
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 949ms
+DTS dist/index.d.ts  587.00 B
+DTS dist/index.d.cts 587.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/seedforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 933B README.md
+npm notice 850B dist/chunk-PKE2UJMR.js
+npm notice 2.0kB dist/chunk-PKE2UJMR.js.map
+npm notice 2.9kB dist/cli.cjs
+npm notice 3.6kB dist/cli.cjs.map
+npm notice 858B dist/cli.js
+npm notice 1.6kB dist/cli.js.map
+npm notice 1.9kB dist/index.cjs
+npm notice 2.1kB dist/index.cjs.map
+npm notice 589B dist/index.d.cts
+npm notice 589B dist/index.d.ts
+npm notice 172B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 1.7kB package.json
+npm notice 47B seedforge.cjs
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/seedforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-seedforge-0.1.0.tgz
+npm notice package size: 5.1 kB
+npm notice unpacked size: 20.9 kB
+npm notice shasum: a7b1faa0ca162f48eee997a5fa89ebf27cd89738
+npm notice integrity: sha512-6+IWoDS9UCSkP[...]63q86Dic82VAg==
+npm notice total files: 17
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fseedforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T03_02_38_669Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/seedforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js              172.00 B
+ESM dist/chunk-PKE2UJMR.js     850.00 B
+ESM dist/cli.js                858.00 B
+ESM dist/index.js.map          71.00 B
+ESM dist/chunk-PKE2UJMR.js.map 1.96 KB
+ESM dist/cli.js.map            1.55 KB
+ESM ⚡️ Build success in 12ms
+CJS dist/cli.cjs       2.78 KB
+CJS dist/index.cjs     1.87 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS dist/index.cjs.map 2.01 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 918ms
+DTS dist/index.d.ts  587.00 B
+DTS dist/index.d.cts 587.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/seedforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 933B README.md
+npm notice 850B dist/chunk-PKE2UJMR.js
+npm notice 2.0kB dist/chunk-PKE2UJMR.js.map
+npm notice 2.9kB dist/cli.cjs
+npm notice 3.6kB dist/cli.cjs.map
+npm notice 858B dist/cli.js
+npm notice 1.6kB dist/cli.js.map
+npm notice 1.9kB dist/index.cjs
+npm notice 2.1kB dist/index.cjs.map
+npm notice 589B dist/index.d.cts
+npm notice 589B dist/index.d.ts
+npm notice 172B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 1.7kB package.json
+npm notice 47B seedforge.cjs
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/seedforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-seedforge-0.1.0.tgz
+npm notice package size: 5.1 kB
+npm notice unpacked size: 20.9 kB
+npm notice shasum: a7b1faa0ca162f48eee997a5fa89ebf27cd89738
+npm notice integrity: sha512-6+IWoDS9UCSkP[...]63q86Dic82VAg==
+npm notice total files: 17
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fseedforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T03_23_54_750Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/seedforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/chunk-PKE2UJMR.js     850.00 B
+ESM dist/cli.js                858.00 B
+ESM dist/index.js              172.00 B
+ESM dist/index.js.map          71.00 B
+ESM dist/chunk-PKE2UJMR.js.map 1.96 KB
+ESM dist/cli.js.map            1.55 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     1.87 KB
+CJS dist/cli.cjs       2.78 KB
+CJS dist/index.cjs.map 2.01 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 1074ms
+DTS dist/index.d.ts  587.00 B
+DTS dist/index.d.cts 587.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/seedforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 933B README.md
+npm notice 850B dist/chunk-PKE2UJMR.js
+npm notice 2.0kB dist/chunk-PKE2UJMR.js.map
+npm notice 2.9kB dist/cli.cjs
+npm notice 3.6kB dist/cli.cjs.map
+npm notice 858B dist/cli.js
+npm notice 1.6kB dist/cli.js.map
+npm notice 1.9kB dist/index.cjs
+npm notice 2.1kB dist/index.cjs.map
+npm notice 589B dist/index.d.cts
+npm notice 589B dist/index.d.ts
+npm notice 172B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 1.7kB package.json
+npm notice 47B seedforge.cjs
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/seedforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-seedforge-0.1.0.tgz
+npm notice package size: 5.1 kB
+npm notice unpacked size: 20.9 kB
+npm notice shasum: a7b1faa0ca162f48eee997a5fa89ebf27cd89738
+npm notice integrity: sha512-6+IWoDS9UCSkP[...]63q86Dic82VAg==
+npm notice total files: 17
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fseedforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T03_40_20_457Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/seedforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/seedforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       2.78 KB
+CJS dist/index.cjs     1.87 KB
+CJS dist/cli.cjs.map   3.48 KB
+CJS dist/index.cjs.map 2.01 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/chunk-PKE2UJMR.js     850.00 B
+ESM dist/index.js              172.00 B
+ESM dist/cli.js                858.00 B
+ESM dist/cli.js.map            1.55 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/chunk-PKE2UJMR.js.map 1.96 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 831ms
+DTS dist/index.d.ts  587.00 B
+DTS dist/index.d.cts 587.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/seedforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 933B README.md
+npm notice 850B dist/chunk-PKE2UJMR.js
+npm notice 2.0kB dist/chunk-PKE2UJMR.js.map
+npm notice 2.9kB dist/cli.cjs
+npm notice 3.6kB dist/cli.cjs.map
+npm notice 858B dist/cli.js
+npm notice 1.6kB dist/cli.js.map
+npm notice 1.9kB dist/index.cjs
+npm notice 2.1kB dist/index.cjs.map
+npm notice 589B dist/index.d.cts
+npm notice 589B dist/index.d.ts
+npm notice 172B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 1.7kB package.json
+npm notice 47B seedforge.cjs
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/seedforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-seedforge-0.1.0.tgz
+npm notice package size: 5.1 kB
+npm notice unpacked size: 20.9 kB
+npm notice shasum: a7b1faa0ca162f48eee997a5fa89ebf27cd89738
+npm notice integrity: sha512-6+IWoDS9UCSkP[...]63q86Dic82VAg==
+npm notice total files: 17
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fseedforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T04_02_27_261Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/serviceforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     369.00 B
+ESM dist/index.js.map 754.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.38 KB
+CJS dist/index.cjs.map 803.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 731ms
+DTS dist/index.d.ts  392.00 B
+DTS dist/index.d.cts 392.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/serviceforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 297B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 803B dist/index.cjs.map
+npm notice 392B dist/index.d.cts
+npm notice 392B dist/index.d.ts
+npm notice 369B dist/index.js
+npm notice 754B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/serviceforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-serviceforge-0.1.0.tgz
+npm notice package size: 2.7 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: ffb7a17226fc1d4715c16487da039ea3b9430716
+npm notice integrity: sha512-fSJFAFHsXR+nU[...]wv33rvdr5Nmng==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fserviceforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T04_56_39_145Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/serviceforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.38 KB
+CJS dist/index.cjs.map 803.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     369.00 B
+ESM dist/index.js.map 754.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 807ms
+DTS dist/index.d.ts  392.00 B
+DTS dist/index.d.cts 392.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/serviceforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 297B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 803B dist/index.cjs.map
+npm notice 392B dist/index.d.cts
+npm notice 392B dist/index.d.ts
+npm notice 369B dist/index.js
+npm notice 754B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/serviceforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-serviceforge-0.1.0.tgz
+npm notice package size: 2.7 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: ffb7a17226fc1d4715c16487da039ea3b9430716
+npm notice integrity: sha512-fSJFAFHsXR+nU[...]wv33rvdr5Nmng==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fserviceforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T05_08_20_466Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/serviceforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     369.00 B
+ESM dist/index.js.map 754.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.38 KB
+CJS dist/index.cjs.map 803.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 770ms
+DTS dist/index.d.ts  392.00 B
+DTS dist/index.d.cts 392.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/serviceforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 297B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 803B dist/index.cjs.map
+npm notice 392B dist/index.d.cts
+npm notice 392B dist/index.d.ts
+npm notice 369B dist/index.js
+npm notice 754B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/serviceforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-serviceforge-0.1.0.tgz
+npm notice package size: 2.7 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: ffb7a17226fc1d4715c16487da039ea3b9430716
+npm notice integrity: sha512-fSJFAFHsXR+nU[...]wv33rvdr5Nmng==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fserviceforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T05_36_49_947Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/serviceforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.38 KB
+CJS dist/index.cjs.map 803.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     369.00 B
+ESM dist/index.js.map 754.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 885ms
+DTS dist/index.d.ts  392.00 B
+DTS dist/index.d.cts 392.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/serviceforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 297B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 803B dist/index.cjs.map
+npm notice 392B dist/index.d.cts
+npm notice 392B dist/index.d.ts
+npm notice 369B dist/index.js
+npm notice 754B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/serviceforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-serviceforge-0.1.0.tgz
+npm notice package size: 2.7 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: ffb7a17226fc1d4715c16487da039ea3b9430716
+npm notice integrity: sha512-fSJFAFHsXR+nU[...]wv33rvdr5Nmng==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fserviceforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T05_52_01_477Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/serviceforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     369.00 B
+ESM dist/index.js.map 754.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.38 KB
+CJS dist/index.cjs.map 803.00 B
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 883ms
+DTS dist/index.d.ts  392.00 B
+DTS dist/index.d.cts 392.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/serviceforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 297B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 803B dist/index.cjs.map
+npm notice 392B dist/index.d.cts
+npm notice 392B dist/index.d.ts
+npm notice 369B dist/index.js
+npm notice 754B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/serviceforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-serviceforge-0.1.0.tgz
+npm notice package size: 2.7 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: ffb7a17226fc1d4715c16487da039ea3b9430716
+npm notice integrity: sha512-fSJFAFHsXR+nU[...]wv33rvdr5Nmng==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fserviceforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T06_10_35_419Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/serviceforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/serviceforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.38 KB
+CJS dist/index.cjs.map 803.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     369.00 B
+ESM dist/index.js.map 754.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 789ms
+DTS dist/index.d.ts  392.00 B
+DTS dist/index.d.cts 392.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/serviceforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 297B README.md
+npm notice 1.4kB dist/index.cjs
+npm notice 803B dist/index.cjs.map
+npm notice 392B dist/index.d.cts
+npm notice 392B dist/index.d.ts
+npm notice 369B dist/index.js
+npm notice 754B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/serviceforge
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-serviceforge-0.1.0.tgz
+npm notice package size: 2.7 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: ffb7a17226fc1d4715c16487da039ea3b9430716
+npm notice integrity: sha512-fSJFAFHsXR+nU[...]wv33rvdr5Nmng==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fserviceforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T06_31_23_006Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/statemesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/statemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/statemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     442.00 B
+ESM dist/index.js.map 957.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     1.44 KB
+CJS dist/index.cjs.map 1006.00 B
+CJS ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 886ms
+DTS dist/index.d.ts  458.00 B
+DTS dist/index.d.cts 458.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/statemesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 277B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.0kB dist/index.cjs.map
+npm notice 458B dist/index.d.cts
+npm notice 458B dist/index.d.ts
+npm notice 442B dist/index.js
+npm notice 957B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/statemesh
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-statemesh-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: d0c2ba129f7dec7015f3dbd9cea759b1c345d2ac
+npm notice integrity: sha512-und/veDLunxFu[...]hfT+kmV8OcbAQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fstatemesh failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T06_45_37_829Z-debug-0.log
+
+> @mr-aftab-ahmad-khan/statemesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> @mr-aftab-ahmad-khan/statemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/statemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     442.00 B
+ESM dist/index.js.map 957.00 B
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     1.44 KB
+CJS dist/index.cjs.map 1006.00 B
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 1552ms
+DTS dist/index.d.ts  458.00 B
+DTS dist/index.d.cts 458.00 B
+npm notice
+npm notice package: @mr-aftab-ahmad-khan/statemesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 277B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.0kB dist/index.cjs.map
+npm notice 458B dist/index.d.cts
+npm notice 458B dist/index.d.ts
+npm notice 442B dist/index.js
+npm notice 957B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: @mr-aftab-ahmad-khan/statemesh
+npm notice version: 0.1.0
+npm notice filename: mr-aftab-ahmad-khan-statemesh-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: d0c2ba129f7dec7015f3dbd9cea759b1c345d2ac
+npm notice integrity: sha512-und/veDLunxFu[...]hfT+kmV8OcbAQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/@mr-aftab-ahmad-khan%2fstatemesh - You cannot publish over the previously published versions: 0.1.0.
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-02T07_19_38_167Z-debug-0.log

@@ -1,0 +1,19 @@
+=== npm publish scheduled run 2026-05-30T22:00:20+05:00 ===
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 28 · This run: 20 (limit 20)
+
+npm is not logged in (token missing or expired).
+
+  npm error code E401
+npm error 401 Unauthorized - GET https://registry.npmjs.org/-/whoami
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-05-30T17_56_29_985Z-debug-0.log
+
+Fix:
+  npm logout
+  npm login
+  npm whoami          # must print: mr-aftab-ahmad-khan
+
+Or create a Granular Access Token (Publish) at https://www.npmjs.com/settings/tokens
+Then: npm login
+
