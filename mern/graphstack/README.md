@@ -1,8 +1,8 @@
-# graphstack
+# graphstackx
 
-**Topics:** `cli` · `dependencies` · `graph` · `graphstack` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `typescript`
+**Topics:** `cli` · `dependencies` · `graph` · `graphstackx` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `typescript`
 
-graphstack — CLI to list sorted npm dependencies from package.json (npx graphstack analyze). See `src/index.ts` for the public API surface.
+graphstackx — CLI to list sorted npm dependencies from package.json (npx graphstackx analyze). See `src/index.ts` for the public API surface.
 
 ## License
 

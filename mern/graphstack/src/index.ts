@@ -1,1 +1,1 @@
-export const graphstack = { version: "0.1.0" as const };
+export const graphstackx = { version: "0.1.0" as const };

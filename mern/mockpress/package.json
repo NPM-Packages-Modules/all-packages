@@ -1,5 +1,5 @@
 {
-  "name": "mockpress",
+  "name": "mockpressx",
   "version": "0.1.0",
   "description": "Spin up mock Express servers from an existing app’s route table — latency and fake JSON for frontend DX.",
   "license": "MIT",
@@ -32,7 +32,7 @@
     "mern-packages",
     "merndev",
     "mock",
-    "mockpress",
+    "mockpressx",
     "nodejs",
     "npm-pm",
     "observability",
@@ -40,7 +40,7 @@
     "typescript"
   ],
   "dependencies": {
-    "routecheck": "^0.1.0"
+    "routecheckx": "^0.1.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",
@@ -67,12 +67,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "mockpress"
+    "directory": "mockpressx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/mockpress",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/mockpressx",
   "publishConfig": {
     "access": "public"
   }

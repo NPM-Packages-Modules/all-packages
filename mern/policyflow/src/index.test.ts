@@ -1,9 +1,9 @@
 import { describe, expect, it } from "vitest";
-import { policyflow } from "./index.js";
+import { policyflowx } from "./index.js";
 
-describe("policyflow", () => {
+describe("policyflowx", () => {
   it("honors inheritance and wildcards", () => {
-    const p = policyflow()
+    const p = policyflowx()
       .inherits("editor", "viewer")
       .allowAction("viewer", "posts.read")
       .allowAction("editor", "posts.update")

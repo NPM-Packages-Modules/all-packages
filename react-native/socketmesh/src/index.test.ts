@@ -1,8 +1,8 @@
 import { describe, it, expect } from "vitest";
-import { socketmesh } from "./index.js";
+import { socketmeshx } from "./index.js";
 
-describe("socketmesh", () => {
+describe("socketmeshx", () => {
   it("exports scaffold API", () => {
-    expect(socketmesh()).toEqual({ ok: true, package: "socketmesh" });
+    expect(socketmeshx()).toEqual({ ok: true, package: "socketmeshx" });
   });
 });

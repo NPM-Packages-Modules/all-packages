@@ -1,5 +1,5 @@
 {
-  "name": "socketmesh",
+  "name": "socketmeshx",
   "version": "0.1.0",
   "description": "Simplify scalable real-time communication infrastructure.",
   "license": "MIT",
@@ -37,7 +37,7 @@
     "react-native",
     "realtime",
     "socket",
-    "socketmesh",
+    "socketmeshx",
     "typescript",
     "websocket"
   ],
@@ -71,12 +71,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "socketmesh"
+    "directory": "socketmeshx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/socketmesh",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/socketmeshx",
   "publishConfig": {
     "access": "public"
   }

@@ -1,6 +1,6 @@
-# socketmesh
+# socketmeshx
 
-**Topics:** `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `realtime` · `socket` · `socketmesh` · `typescript` · `websocket`
+**Topics:** `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `realtime` · `socket` · `socketmeshx` · `typescript` · `websocket`
 
 **React Native** library.
 
@@ -18,9 +18,9 @@ Simplify scalable real-time communication infrastructure.
 ## Example
 
 ```ts
-import { socketmesh } from "socketmesh";
+import { socketmeshx } from "socketmeshx";
 
-const orders = socketmesh.channel("orders");
+const orders = socketmeshx.channel("orders");
 ```
 
 ## Why it matters

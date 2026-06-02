@@ -1,7 +1,7 @@
 {
-  "name": "modstack",
+  "name": "modstackx",
   "version": "0.1.0",
-  "description": "modstack — Load `*.plugin.js` modules from a directory via dynamic import.",
+  "description": "modstackx — Load `*.plugin.js` modules from a directory via dynamic import.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -30,7 +30,7 @@
     "dynamic-import",
     "mern-packages",
     "merndev",
-    "modstack",
+    "modstackx",
     "nodejs",
     "npm-pm",
     "observability",
@@ -50,12 +50,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "modstack"
+    "directory": "modstackx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/modstack",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/modstackx",
   "publishConfig": {
     "access": "public"
   }

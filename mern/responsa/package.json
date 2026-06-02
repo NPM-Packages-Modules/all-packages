@@ -1,5 +1,5 @@
 {
-  "name": "responsa",
+  "name": "responsax",
   "version": "0.1.3",
   "description": "API response standardization middleware for Express — typed envelopes, paginated lists, structured errors, and per-request trace IDs.",
   "license": "MIT",
@@ -38,7 +38,7 @@
     "npm-pm",
     "observability",
     "pagination",
-    "responsa",
+    "responsax",
     "response",
     "standard",
     "trace",
@@ -70,12 +70,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "responsa"
+    "directory": "responsax"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/responsa",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/responsax",
   "publishConfig": {
     "access": "public"
   }

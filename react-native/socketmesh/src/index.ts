@@ -1,4 +1,4 @@
-export const socketmesh = {
+export const socketmeshx = {
   channel(name: string) {
     return {
       name,

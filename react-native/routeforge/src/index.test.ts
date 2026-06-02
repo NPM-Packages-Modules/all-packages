@@ -1,9 +1,9 @@
 import { describe, it, expect } from "vitest";
-import { routeforge } from "./index.js";
+import { routeforgex } from "./index.js";
 
-describe("routeforge", () => {
+describe("routeforgex", () => {
   it("creates a resource scaffold", async () => {
-    await expect(routeforge.create("products")).resolves.toEqual({
+    await expect(routeforgex.create("products")).resolves.toEqual({
       resource: "products",
       ok: true,
     });

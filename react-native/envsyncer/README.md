@@ -1,6 +1,6 @@
-# envsyncer
+# envsyncerx
 
-**Topics:** `config` · `env` · `envsyncer` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `typescript` · `validation`
+**Topics:** `config` · `env` · `envsyncerx` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `typescript` · `validation`
 
 **React Native** library.
 
@@ -18,9 +18,9 @@ Synchronize and validate environment variables across services.
 ## Example
 
 ```ts
-import { envsyncer } from "envsyncer";
+import { envsyncerx } from "envsyncerx";
 
-envsyncer.validate();
+envsyncerx.validate();
 ```
 
 ## Why it matters

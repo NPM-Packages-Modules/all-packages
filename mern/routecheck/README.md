@@ -1,9 +1,9 @@
-# routecheck
+# routecheckx
 
-**Topics:** `cli` · `express` · `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openapi` · `routecheck` · `testing` · `typescript`
+**Topics:** `cli` · `express` · `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openapi` · `routecheckx` · `testing` · `typescript`
 
 ```bash
-npx routecheck generate ./dist/server.js
+npx routecheckx generate ./dist/server.js
 ```
 
 Exports an Express **`app`** (default or `app`) and emits a **Vitest** file full of `it.todo` placeholders—your AI agent or team can fill in assertions.
@@ -11,7 +11,7 @@ Exports an Express **`app`** (default or `app`) and emits a **Vitest** file full
 ## API
 
 ```ts
-import { listExpressRoutes, generateVitestStub } from "routecheck";
+import { listExpressRoutes, generateVitestStub } from "routecheckx";
 ```
 
 ## License

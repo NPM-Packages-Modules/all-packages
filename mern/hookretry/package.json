@@ -1,7 +1,7 @@
 {
-  "name": "hookretry",
+  "name": "hookretryx",
   "version": "0.1.0",
-  "description": "hookretry — Webhook delivery attempt log + backoff helper.",
+  "description": "hookretryx — Webhook delivery attempt log + backoff helper.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -27,7 +27,7 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "hookretry",
+    "hookretryx",
     "mern-packages",
     "merndev",
     "nodejs",
@@ -50,12 +50,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "hookretry"
+    "directory": "hookretryx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/hookretry",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/hookretryx",
   "publishConfig": {
     "access": "public"
   }

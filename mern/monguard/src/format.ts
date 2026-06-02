@@ -9,7 +9,7 @@ const SEVERITY_COLOR: Record<Warning["severity"], (s: string) => string> = {
 
 export function formatWarning(w: Warning): string {
   const sev = SEVERITY_COLOR[w.severity](w.severity.toUpperCase());
-  const head = `[monguard ${sev}] ${w.message}`;
+  const head = `[monguardx ${sev}] ${w.message}`;
   const detail = w.suggestion ? `\n  ${pc.dim("→")} ${w.suggestion}` : "";
   const meta = `\n  ${pc.dim(`op=${w.query.op} duration=${w.query.durationMs}ms collection=${w.query.collection}`)}`;
   return `${head}${detail}${meta}`;
@@ -17,7 +17,7 @@ export function formatWarning(w: Warning): string {
 
 export function formatStats(stats: MonguardStats): string {
   const lines = [
-    pc.bold("monguard report"),
+    pc.bold("monguardx report"),
     `  queries: ${stats.totalQueries}, slow: ${stats.slowQueries}, total time: ${stats.totalDurationMs}ms`,
     `  warnings:`,
   ];

@@ -1,7 +1,7 @@
 {
-  "name": "cacheforge",
+  "name": "cacheforgex",
   "version": "0.1.0",
-  "description": "cacheforge — Cache entry envelope with TTL + tag list for invalidation.",
+  "description": "cacheforgex — Cache entry envelope with TTL + tag list for invalidation.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -28,7 +28,7 @@
   },
   "keywords": [
     "cache",
-    "cacheforge",
+    "cacheforgex",
     "mern-packages",
     "merndev",
     "nodejs",
@@ -50,12 +50,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "cacheforge"
+    "directory": "cacheforgex"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/cacheforge",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/cacheforgex",
   "publishConfig": {
     "access": "public"
   }

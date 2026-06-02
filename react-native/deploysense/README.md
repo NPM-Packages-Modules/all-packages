@@ -1,6 +1,6 @@
-# deploysense
+# deploysensex
 
-**Topics:** `ci` · `deploy` · `deploysense` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `release` · `typescript`
+**Topics:** `ci` · `deploy` · `deploysensex` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `release` · `typescript`
 
 **React Native** library.
 
@@ -18,9 +18,9 @@ Detect risky deployments before production release.
 ## Example
 
 ```ts
-import { deploysense } from "deploysense";
+import { deploysensex } from "deploysensex";
 
-await deploysense.verify();
+await deploysensex.verify();
 ```
 
 ## Why it matters

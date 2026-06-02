@@ -45,7 +45,7 @@ export async function loadRoutersFromDir(
 }
 
 /** Scan `absoluteDir` and `app.use(mountPath, router)` for each discovered module. */
-export async function modulify(app: Express, absoluteDir: string, opts?: { pattern?: RegExp }): Promise<ModulifyMount[]> {
+export async function modulifyx(app: Express, absoluteDir: string, opts?: { pattern?: RegExp }): Promise<ModulifyMount[]> {
   const mounts = await loadRoutersFromDir(absoluteDir, opts);
   for (const m of mounts) app.use(m.mountPath, m.router);
   return mounts;

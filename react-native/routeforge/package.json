@@ -1,5 +1,5 @@
 {
-  "name": "routeforge",
+  "name": "routeforgex",
   "version": "0.1.0",
   "description": "Generate complete Express CRUD modules automatically.",
   "license": "MIT",
@@ -38,7 +38,7 @@
     "observability",
     "react",
     "react-native",
-    "routeforge",
+    "routeforgex",
     "scaffolding",
     "typescript"
   ],
@@ -72,12 +72,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "routeforge"
+    "directory": "routeforgex"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/routeforge",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/routeforgex",
   "publishConfig": {
     "access": "public"
   }

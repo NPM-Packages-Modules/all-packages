@@ -1,17 +1,17 @@
-# monguard
+# monguardx
 
-**Topics:** `index` · `mern` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `monguard` · `n+1` · `nodejs` · `npm-pm` · `observability` · `performance` · `profiler` · `query` · `typescript`
+**Topics:** `index` · `mern` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `monguardx` · `n+1` · `nodejs` · `npm-pm` · `observability` · `performance` · `profiler` · `query` · `typescript`
 
-Runtime MongoDB query intelligence for **Mongoose**. Drop in one plugin and `monguard` analyzes every query your app runs — slow queries, missing indexes, N+1 hot-paths, duplicate fetches, aggregation pipelines that sort before they match, and more — with terminal warnings and a programmatic stats API.
+Runtime MongoDB query intelligence for **Mongoose**. Drop in one plugin and `monguardx` analyzes every query your app runs — slow queries, missing indexes, N+1 hot-paths, duplicate fetches, aggregation pipelines that sort before they match, and more — with terminal warnings and a programmatic stats API.
 
 ## Why
 
-Most MERN apps ship without anyone ever looking at query plans. Existing tooling (Atlas Profiler, Datadog APM, Sentry Performance) is heavy, requires dashboards, and costs money. `monguard` is the smallest possible thing that runs in your dev (or prod) process, in-band, and tells you exactly what to fix.
+Most MERN apps ship without anyone ever looking at query plans. Existing tooling (Atlas Profiler, Datadog APM, Sentry Performance) is heavy, requires dashboards, and costs money. `monguardx` is the smallest possible thing that runs in your dev (or prod) process, in-band, and tells you exactly what to fix.
 
 ## Install
 
 ```bash
-npm install monguard
+npm install monguardx
 ```
 
 (`mongoose` is a peer dependency — works with v7 and v8.)
@@ -20,9 +20,9 @@ npm install monguard
 
 ```ts
 import mongoose from "mongoose";
-import { monguard } from "monguard";
+import { monguardx } from "monguardx";
 
-const sense = monguard({
+const sense = monguardx({
   slowQueryThreshold: 300,
   duplicateThreshold: 5,
   duplicateWindowMs: 1000,
@@ -35,12 +35,12 @@ Or attach to one schema only:
 
 ```ts
 import { Schema, model } from "mongoose";
-import { monguard } from "monguard";
+import { monguardx } from "monguardx";
 
 const userSchema = new Schema({ email: String, name: String });
 userSchema.index({ email: 1 });
 
-const sense = monguard();
+const sense = monguardx();
 userSchema.plugin(sense.plugin);
 
 export const User = model("User", userSchema);
@@ -62,7 +62,7 @@ export const User = model("User", userSchema);
 Example terminal warning:
 
 ```
-[monguard WARN] Missing index on users for fields [tenantId, status].
+[monguardx WARN] Missing index on users for fields [tenantId, status].
   → Add an index: { status: 1, tenantId: 1 }
   op=find duration=412ms collection=users
 ```
@@ -70,7 +70,7 @@ Example terminal warning:
 ## Programmatic API
 
 ```ts
-const sense = monguard({ slowQueryThreshold: 200 });
+const sense = monguardx({ slowQueryThreshold: 200 });
 
 mongoose.plugin(sense.plugin);
 
@@ -93,7 +93,7 @@ sense.reset();
 ## Options
 
 ```ts
-monguard({
+monguardx({
   slowQueryThreshold: 200,          // ms
   duplicateWindowMs: 1000,
   duplicateThreshold: 5,
@@ -119,7 +119,7 @@ import {
   suggestCompoundIndex,
   fingerprintQuery,
   Analyzer,
-} from "monguard";
+} from "monguardx";
 ```
 
 Use the `Analyzer` directly to integrate with any DB layer.

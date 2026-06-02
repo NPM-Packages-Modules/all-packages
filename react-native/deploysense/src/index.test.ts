@@ -1,8 +1,8 @@
 import { describe, it, expect } from "vitest";
-import { deploysense } from "./index.js";
+import { deploysensex } from "./index.js";
 
-describe("deploysense", () => {
+describe("deploysensex", () => {
   it("exports scaffold API", () => {
-    expect(deploysense()).toEqual({ ok: true, package: "deploysense" });
+    expect(deploysensex()).toEqual({ ok: true, package: "deploysensex" });
   });
 });

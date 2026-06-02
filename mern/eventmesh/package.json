@@ -1,5 +1,5 @@
 {
-  "name": "eventmesh",
+  "name": "eventmeshx",
   "version": "0.1.0",
   "description": "Lightweight in-process pub/sub bus with typed helpers — MERN-friendly stepping stone before Redis streams.",
   "license": "MIT",
@@ -27,7 +27,7 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "eventmesh",
+    "eventmeshx",
     "events",
     "mern-packages",
     "merndev",
@@ -51,12 +51,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "eventmesh"
+    "directory": "eventmeshx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/eventmesh",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/eventmeshx",
   "publishConfig": {
     "access": "public"
   }

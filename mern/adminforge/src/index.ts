@@ -31,4 +31,4 @@ export function buildAdminManifest(models: AdminModelDef[], generatedAt = new Da
   return { version: 1, generatedAt, models };
 }
 
-export const adminforge = { adminModel, buildAdminManifest };
+export const adminforgex = { adminModel, buildAdminManifest };

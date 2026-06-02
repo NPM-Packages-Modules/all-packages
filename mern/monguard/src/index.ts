@@ -1,4 +1,4 @@
-export { monguard, applyGlobally } from "./plugin.js";
+export { monguardx, applyGlobally } from "./plugin.js";
 export { Analyzer } from "./analyzer.js";
 export { formatWarning, formatStats } from "./format.js";
 export {

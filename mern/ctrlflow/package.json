@@ -1,7 +1,7 @@
 {
-  "name": "ctrlflow",
+  "name": "ctrlflowx",
   "version": "0.1.0",
-  "description": "ctrlflow — Express controller composer: stack middleware then mount handlers.",
+  "description": "ctrlflowx — Express controller composer: stack middleware then mount handlers.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -28,7 +28,7 @@
   },
   "keywords": [
     "controller",
-    "ctrlflow",
+    "ctrlflowx",
     "express",
     "mern-packages",
     "merndev",
@@ -54,12 +54,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "ctrlflow"
+    "directory": "ctrlflowx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/ctrlflow",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/ctrlflowx",
   "publishConfig": {
     "access": "public"
   },

@@ -1,6 +1,6 @@
-# typepress
+# typepressx
 
-**Topics:** `api` · `client` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openapi` · `router` · `schema` · `type-safe` · `typepress` · `typescript` · `validation` · `zod`
+**Topics:** `api` · `client` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openapi` · `router` · `schema` · `type-safe` · `typepressx` · `typescript` · `validation` · `zod`
 
 Type-safe API framework for Express. Define a route **once** and get:
 
@@ -9,19 +9,19 @@ Type-safe API framework for Express. Define a route **once** and get:
 - An OpenAPI 3.1 document (`toOpenApi`)
 - A typed fetch client you can ship to the frontend (`generateTypescriptClient`)
 
-No code generation step required at runtime, no zod dependency — `typepress` includes a tiny `t` builder with the operators you actually need (`string`, `number`, `boolean`, `enums`, `literal`, `array`, `object`, `optional`, `union`).
+No code generation step required at runtime, no zod dependency — `typepressx` includes a tiny `t` builder with the operators you actually need (`string`, `number`, `boolean`, `enums`, `literal`, `array`, `object`, `optional`, `union`).
 
 ## Install
 
 ```bash
-npm install typepress
+npm install typepressx
 ```
 
 ## Define routes
 
 ```ts
 import express from "express";
-import { createTypepress, t } from "typepress";
+import { createTypepress, t } from "typepressx";
 
 const api = createTypepress();
 
@@ -60,12 +60,12 @@ When validation fails:
 { "success": false, "error": { "code": "VALIDATION_ERROR", "message": "body.email: invalid email", "field": "body" } }
 ```
 
-When the handler returns an invalid response (because you mis-implemented a field), `typepress` returns a 500 with `RESPONSE_VALIDATION` — so contract drift is caught in tests instead of the wild.
+When the handler returns an invalid response (because you mis-implemented a field), `typepressx` returns a 500 with `RESPONSE_VALIDATION` — so contract drift is caught in tests instead of the wild.
 
 ## OpenAPI
 
 ```ts
-import { toOpenApi } from "typepress";
+import { toOpenApi } from "typepressx";
 
 app.get("/openapi.json", (_req, res) => res.json(toOpenApi(api, {
   title: "My API",
@@ -77,7 +77,7 @@ app.get("/openapi.json", (_req, res) => res.json(toOpenApi(api, {
 ## Typed client for the frontend
 
 ```ts
-import { generateTypescriptClient } from "typepress";
+import { generateTypescriptClient } from "typepressx";
 import { writeFileSync } from "node:fs";
 
 writeFileSync(

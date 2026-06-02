@@ -22,6 +22,6 @@ export class EventMesh extends EventEmitter {
 }
 
 /** Factory for tests / DI */
-export function eventmesh(): EventMesh {
+export function eventmeshx(): EventMesh {
   return new EventMesh();
 }

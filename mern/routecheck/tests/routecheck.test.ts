@@ -2,7 +2,7 @@ import express from "express";
 import { describe, expect, it } from "vitest";
 import { generateVitestStub, listExpressRoutes } from "../src/index.js";
 
-describe("routecheck", () => {
+describe("routecheckx", () => {
   it("lists shallow routes", () => {
     const app = express();
     app.get("/a", (_q, res) => res.send("a"));

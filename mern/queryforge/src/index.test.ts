@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { parseListQuery } from "./index.js";
 
-describe("queryforge", () => {
+describe("queryforgex", () => {
   it("parses pagination sort and operators", () => {
     const r = parseListQuery(
       {

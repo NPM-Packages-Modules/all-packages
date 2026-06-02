@@ -2,9 +2,9 @@ import type { Typepress } from "./router.js";
 import type { OpenApiOptions, RouteDescriptor } from "./types.js";
 import type { SchemaDescriptor } from "./schema.js";
 
-export function toOpenApi(typepress: Typepress, options: OpenApiOptions = {}): Record<string, unknown> {
+export function toOpenApi(typepressx: Typepress, options: OpenApiOptions = {}): Record<string, unknown> {
   const paths: Record<string, Record<string, unknown>> = {};
-  for (const route of typepress.list()) {
+  for (const route of typepressx.list()) {
     const path = expressPathToOpenApi(route.path);
     const item = paths[path] ?? {};
     item[route.method] = routeToOperation(route);

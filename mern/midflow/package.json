@@ -1,7 +1,7 @@
 {
-  "name": "midflow",
+  "name": "midflowx",
   "version": "0.1.0",
-  "description": "midflow — Compose Express middleware arrays into one handler.",
+  "description": "midflowx — Compose Express middleware arrays into one handler.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -31,7 +31,7 @@
     "mern-packages",
     "merndev",
     "middleware",
-    "midflow",
+    "midflowx",
     "nodejs",
     "npm-pm",
     "observability",
@@ -52,12 +52,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "midflow"
+    "directory": "midflowx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/midflow",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/midflowx",
   "publishConfig": {
     "access": "public"
   },

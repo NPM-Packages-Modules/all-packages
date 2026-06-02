@@ -1,7 +1,7 @@
 {
-  "name": "graphstack",
+  "name": "graphstackx",
   "version": "0.1.0",
-  "description": "graphstack — CLI to list sorted npm dependencies from package.json (npx graphstack analyze).",
+  "description": "graphstackx — CLI to list sorted npm dependencies from package.json (npx graphstackx analyze).",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -16,7 +16,7 @@
   },
   "files": [
     "dist",
-    "graphstack.cjs",
+    "graphstackx.cjs",
     "README.md",
     "LICENSE",
     "CHANGELOG.md"
@@ -31,7 +31,7 @@
     "cli",
     "dependencies",
     "graph",
-    "graphstack",
+    "graphstackx",
     "mern-packages",
     "merndev",
     "nodejs",
@@ -52,17 +52,17 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "graphstack"
+    "directory": "graphstackx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/graphstack",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/graphstackx",
   "publishConfig": {
     "access": "public"
   },
   "bin": {
-    "graphstack": "graphstack.cjs"
+    "graphstackx": "graphstackx.cjs"
   },
   "dependencies": {
     "picocolors": "^1.0.0"

@@ -1,7 +1,7 @@
 {
-  "name": "schemaui",
+  "name": "schemauix",
   "version": "0.1.0",
-  "description": "schemaui — Validation-to-UI bridge: render a minimal React form from a Zod object schema with shared error display.",
+  "description": "schemauix — Validation-to-UI bridge: render a minimal React form from a Zod object schema with shared error display.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -35,7 +35,7 @@
     "observability",
     "react",
     "schema",
-    "schemaui",
+    "schemauix",
     "typescript",
     "ui",
     "validation",
@@ -69,12 +69,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "schemaui"
+    "directory": "schemauix"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/schemaui",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/schemauix",
   "publishConfig": {
     "access": "public"
   }

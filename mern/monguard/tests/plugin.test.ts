@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { monguard } from "../src/index.js";
+import { monguardx } from "../src/index.js";
 
 interface FakeQuery {
   op: string;
@@ -76,7 +76,7 @@ function runQuery(schema: FakeSchema, query: FakeQuery, result: unknown): void {
 
 describe("mongoose plugin", () => {
   it("captures queries and emits warnings", () => {
-    const handle = monguard({ slowQueryThreshold: 1, silent: true });
+    const handle = monguardx({ slowQueryThreshold: 1, silent: true });
     const schema = makeSchema([[{ email: 1 }]]);
     handle.plugin(schema);
     const q = makeQuery("find", { username: "alice" });
@@ -87,7 +87,7 @@ describe("mongoose plugin", () => {
   });
 
   it("triggers onWarning handlers", () => {
-    const handle = monguard({ slowQueryThreshold: 1, silent: true });
+    const handle = monguardx({ slowQueryThreshold: 1, silent: true });
     const seen: string[] = [];
     handle.onWarning((w) => seen.push(w.kind));
     const schema = makeSchema();
@@ -97,7 +97,7 @@ describe("mongoose plugin", () => {
   });
 
   it("captures aggregations", () => {
-    const handle = monguard({ silent: true });
+    const handle = monguardx({ silent: true });
     const schema = makeSchema();
     handle.plugin(schema);
     const agg = {
@@ -114,7 +114,7 @@ describe("mongoose plugin", () => {
 
   it("respects silent mode (no console)", () => {
     const lines: string[] = [];
-    const handle = monguard({
+    const handle = monguardx({
       silent: false,
       logger: (l) => lines.push(l),
       slowQueryThreshold: 1,

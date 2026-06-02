@@ -1,6 +1,6 @@
-# datamorph
+# datamorphx
 
-**Topics:** `api` · `datamorph` · `mapping` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `sanitization` · `transform` · `typescript`
+**Topics:** `api` · `datamorphx` · `mapping` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `sanitization` · `transform` · `typescript`
 
 **React Native** library.
 
@@ -17,9 +17,9 @@ Transform API/database data automatically through pipelines.
 ## Example
 
 ```ts
-import { datamorph } from "datamorph";
+import { datamorphx } from "datamorphx";
 
-const out = datamorph()
+const out = datamorphx()
   .hide("password")
   .rename("full_name", "name")
   .apply(user);

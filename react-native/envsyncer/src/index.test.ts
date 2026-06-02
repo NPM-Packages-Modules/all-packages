@@ -1,8 +1,8 @@
 import { describe, it, expect } from "vitest";
-import { envsyncer } from "./index.js";
+import { envsyncerx } from "./index.js";
 
-describe("envsyncer", () => {
+describe("envsyncerx", () => {
   it("exports scaffold API", () => {
-    expect(envsyncer()).toEqual({ ok: true, package: "envsyncer" });
+    expect(envsyncerx()).toEqual({ ok: true, package: "envsyncerx" });
   });
 });

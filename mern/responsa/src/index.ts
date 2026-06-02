@@ -1,4 +1,4 @@
-export { responsa, errorHandler } from "./middleware.js";
+export { responsax, errorHandler } from "./middleware.js";
 export { buildSuccess, buildPaginated, buildError } from "./envelope.js";
 export {
   ApiError,

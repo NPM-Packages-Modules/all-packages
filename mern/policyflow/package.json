@@ -1,7 +1,7 @@
 {
-  "name": "policyflow",
+  "name": "policyflowx",
   "version": "0.1.0",
-  "description": "policyflow — Auto permission / RBAC helper: role hierarchy, route guards, and simple action strings (`users.read`) for Express APIs.",
+  "description": "policyflowx — Auto permission / RBAC helper: role hierarchy, route guards, and simple action strings (`users.read`) for Express APIs.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -35,7 +35,7 @@
     "npm-pm",
     "observability",
     "permissions",
-    "policyflow",
+    "policyflowx",
     "rbac",
     "roles",
     "typescript"
@@ -63,12 +63,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "policyflow"
+    "directory": "policyflowx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/policyflow",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/policyflowx",
   "publishConfig": {
     "access": "public"
   }

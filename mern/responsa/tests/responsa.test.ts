@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 import express from "express";
 import request from "supertest";
 import {
-  responsa,
+  responsax,
   errorHandler,
   ApiError,
   badRequest,
@@ -12,10 +12,10 @@ import {
   buildError,
 } from "../src/index.js";
 
-function makeApp(opts: Parameters<typeof responsa>[0] = {}) {
+function makeApp(opts: Parameters<typeof responsax>[0] = {}) {
   const app = express();
   app.use(express.json());
-  app.use(responsa(opts));
+  app.use(responsax(opts));
 
   app.get("/ok", (_req, res) => {
     res.success({ id: 1 });
@@ -49,7 +49,7 @@ function makeApp(opts: Parameters<typeof responsa>[0] = {}) {
   return app;
 }
 
-describe("responsa middleware", () => {
+describe("responsax middleware", () => {
   it("wraps success responses", async () => {
     const res = await request(makeApp()).get("/ok");
     expect(res.status).toBe(200);

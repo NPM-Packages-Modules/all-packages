@@ -10,7 +10,7 @@
     "profiler",
     "re-render",
     "react",
-    "renderguard",
+    "renderguardx",
     "typescript"
   ]
 }

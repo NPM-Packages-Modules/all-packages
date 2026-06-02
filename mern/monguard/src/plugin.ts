@@ -76,7 +76,7 @@ export interface MonguardHandle {
   onWarning: (handler: (w: Warning) => void) => () => void;
 }
 
-export function monguard(options: MonguardOptions = {}): MonguardHandle {
+export function monguardx(options: MonguardOptions = {}): MonguardHandle {
   const analyzer = new Analyzer(options);
   const logger = options.logger ?? ((line: string) => console.warn(line));
   const silent = options.silent ?? false;
@@ -246,7 +246,7 @@ function countResults(result: unknown): number | undefined {
 }
 
 export function applyGlobally(mongooseInstance: MongooseLike, options: MonguardOptions = {}): MonguardHandle {
-  const handle = monguard(options);
+  const handle = monguardx(options);
   const mongoose = mongooseInstance as unknown as { plugin: (fn: unknown) => void };
   if (typeof mongoose.plugin === "function") {
     mongoose.plugin(handle.plugin);

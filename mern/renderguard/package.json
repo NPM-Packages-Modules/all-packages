@@ -1,5 +1,5 @@
 {
-  "name": "renderguard",
+  "name": "renderguardx",
   "version": "0.1.0",
   "description": "React render tracking, Profiler wrappers, and hotspots for expensive subtrees.",
   "license": "MIT",
@@ -37,7 +37,7 @@
     "profiler",
     "re-render",
     "react",
-    "renderguard",
+    "renderguardx",
     "typescript"
   ],
   "dependencies": {},
@@ -66,12 +66,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "renderguard"
+    "directory": "renderguardx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/renderguard",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/renderguardx",
   "publishConfig": {
     "access": "public"
   }

@@ -1,7 +1,7 @@
 {
-  "name": "adminforge",
+  "name": "adminforgex",
   "version": "0.1.0",
-  "description": "adminforge — Admin panel generator core: JSON manifest of models, fields, and routes for CRUD UIs (React/Next adapters plug in separately).",
+  "description": "adminforgex — Admin panel generator core: JSON manifest of models, fields, and routes for CRUD UIs (React/Next adapters plug in separately).",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -28,7 +28,7 @@
   },
   "keywords": [
     "admin",
-    "adminforge",
+    "adminforgex",
     "crud",
     "dashboard",
     "mern-packages",
@@ -52,12 +52,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "adminforge"
+    "directory": "adminforgex"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/adminforge",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/adminforgex",
   "publishConfig": {
     "access": "public"
   }

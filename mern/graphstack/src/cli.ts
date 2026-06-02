@@ -13,11 +13,11 @@ async function main() {
       ...Object.keys(pj.devDependencies ?? {}),
     ]);
     const sorted = [...names].sort();
-    console.log(pc.cyan("graphstack"), "analyze —", sorted.length, "packages");
+    console.log(pc.cyan("graphstackx"), "analyze —", sorted.length, "packages");
     for (const n of sorted) console.log(" ", n);
     return;
   }
-  console.log(pc.cyan("graphstack"), "analyze [dir]");
+  console.log(pc.cyan("graphstackx"), "analyze [dir]");
   process.exit(cmd ? 1 : 0);
 }
 void main().catch((e) => {

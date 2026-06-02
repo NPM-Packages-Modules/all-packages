@@ -43,4 +43,4 @@ export class Datamorph {
   }
 }
 
-export const datamorph = () => new Datamorph();
+export const datamorphx = () => new Datamorph();

@@ -1,7 +1,7 @@
 {
-  "name": "transactly",
+  "name": "transactlyx",
   "version": "0.1.0",
-  "description": "transactly — Retry wrapper for transactional async work (Mongo session inside callback).",
+  "description": "transactlyx — Retry wrapper for transactional async work (Mongo session inside callback).",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -35,7 +35,7 @@
     "observability",
     "retry",
     "transactions",
-    "transactly",
+    "transactlyx",
     "typescript"
   ],
   "devDependencies": {
@@ -51,12 +51,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "transactly"
+    "directory": "transactlyx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/transactly",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/transactlyx",
   "publishConfig": {
     "access": "public"
   }

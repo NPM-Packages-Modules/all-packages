@@ -160,7 +160,7 @@ describe("formatters", () => {
     const a = new Analyzer();
     const w = a.observe(makeQuery({ durationMs: 500, filter: { id: 1 } }))[0]!;
     const out = formatWarning(w);
-    expect(out).toMatch(/monguard/);
+    expect(out).toMatch(/monguardx/);
     expect(out).toMatch(/op=find/);
   });
   it("formatStats includes counts", () => {

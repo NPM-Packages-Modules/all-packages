@@ -1,7 +1,7 @@
 {
-  "name": "schemagen",
+  "name": "schemagenx",
   "version": "0.1.0",
-  "description": "schemagen — Zod object → DTO interface string + field reflection for contracts.",
+  "description": "schemagenx — Zod object → DTO interface string + field reflection for contracts.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -35,7 +35,7 @@
     "npm-pm",
     "observability",
     "schema",
-    "schemagen",
+    "schemagenx",
     "typescript",
     "zod"
   ],
@@ -52,12 +52,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "schemagen"
+    "directory": "schemagenx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/schemagen",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/schemagenx",
   "publishConfig": {
     "access": "public"
   },

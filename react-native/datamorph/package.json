@@ -1,5 +1,5 @@
 {
-  "name": "datamorph",
+  "name": "datamorphx",
   "version": "0.1.0",
   "description": "Transform API/database data automatically through pipelines.",
   "license": "MIT",
@@ -28,7 +28,7 @@
   },
   "keywords": [
     "api",
-    "datamorph",
+    "datamorphx",
     "mapping",
     "mern-packages",
     "merndev",
@@ -59,12 +59,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "datamorph"
+    "directory": "datamorphx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/datamorph",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/datamorphx",
   "publishConfig": {
     "access": "public"
   },

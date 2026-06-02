@@ -1,22 +1,22 @@
-# policyflow
+# policyflowx
 
-**Topics:** `authorization` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `permissions` · `policyflow` · `rbac` · `roles` · `typescript`
+**Topics:** `authorization` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `permissions` · `policyflowx` · `rbac` · `roles` · `typescript`
 
 **Auto permission generator** — lightweight RBAC-style policies with **role inheritance**, **`allow` lists**, and Express **route guards** so `403` handling stays consistent.
 
 ## Install
 
 ```bash
-npm install policyflow express
+npm install policyflowx express
 ```
 
 ## Example
 
 ```typescript
 import express from "express";
-import { policyflow } from "policyflow";
+import { policyflowx } from "policyflowx";
 
-const policies = policyflow()
+const policies = policyflowx()
   .inherits("org-admin", "member")
   .inherits("member", "guest")
   .allowAction("guest", "billing.read")

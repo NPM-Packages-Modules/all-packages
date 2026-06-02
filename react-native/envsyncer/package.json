@@ -1,5 +1,5 @@
 {
-  "name": "envsyncer",
+  "name": "envsyncerx",
   "version": "0.1.0",
   "description": "Synchronize and validate environment variables across services.",
   "license": "MIT",
@@ -29,7 +29,7 @@
   "keywords": [
     "config",
     "env",
-    "envsyncer",
+    "envsyncerx",
     "mern-packages",
     "merndev",
     "mobile",
@@ -71,12 +71,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "envsyncer"
+    "directory": "envsyncerx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/envsyncer",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/envsyncerx",
   "publishConfig": {
     "access": "public"
   }

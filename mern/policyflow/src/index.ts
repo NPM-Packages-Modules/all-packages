@@ -51,6 +51,6 @@ export class PolicyFlow {
   }
 }
 
-export function policyflow(): PolicyFlow {
+export function policyflowx(): PolicyFlow {
   return new PolicyFlow();
 }

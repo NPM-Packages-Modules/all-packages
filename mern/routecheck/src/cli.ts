@@ -9,7 +9,7 @@ import { generateVitestStub, listExpressRoutes } from "./index.js";
 async function main() {
   const args = process.argv.slice(2);
   if (args[0] !== "generate" || !args[1]) {
-    console.log(`${pc.cyan("routecheck")} generate <path-to-app.js|cjs|mjs> [outfile]`);
+    console.log(`${pc.cyan("routecheckx")} generate <path-to-app.js|cjs|mjs> [outfile]`);
     process.exit(args[0] === "help" ? 0 : 1);
   }
   const target = resolve(args[1]!);

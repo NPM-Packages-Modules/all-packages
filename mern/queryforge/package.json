@@ -1,7 +1,7 @@
 {
-  "name": "queryforge",
+  "name": "queryforgex",
   "version": "0.1.0",
-  "description": "queryforge — Dynamic query builder: turn HTTP query strings into Mongo-style filters, sorts, and pagination for dashboard-style APIs.",
+  "description": "queryforgex — Dynamic query builder: turn HTTP query strings into Mongo-style filters, sorts, and pagination for dashboard-style APIs.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -36,7 +36,7 @@
     "npm-pm",
     "observability",
     "query",
-    "queryforge",
+    "queryforgex",
     "rest",
     "typescript"
   ],
@@ -53,12 +53,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "queryforge"
+    "directory": "queryforgex"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/queryforge",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/queryforgex",
   "publishConfig": {
     "access": "public"
   }

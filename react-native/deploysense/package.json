@@ -1,5 +1,5 @@
 {
-  "name": "deploysense",
+  "name": "deploysensex",
   "version": "0.1.0",
   "description": "Detect risky deployments before production release.",
   "license": "MIT",
@@ -29,7 +29,7 @@
   "keywords": [
     "ci",
     "deploy",
-    "deploysense",
+    "deploysensex",
     "mern-packages",
     "merndev",
     "mobile",
@@ -71,12 +71,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "deploysense"
+    "directory": "deploysensex"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/deploysense",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/deploysensex",
   "publishConfig": {
     "access": "public"
   }

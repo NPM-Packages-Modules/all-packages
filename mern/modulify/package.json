@@ -1,7 +1,7 @@
 {
-  "name": "modulify",
+  "name": "modulifyx",
   "version": "0.1.0",
-  "description": "modulify — Express modularizer: auto-load route modules from a folder, mount routers, and keep large apps structured by convention.",
+  "description": "modulifyx — Express modularizer: auto-load route modules from a folder, mount routers, and keep large apps structured by convention.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -31,7 +31,7 @@
     "mern-packages",
     "merndev",
     "modules",
-    "modulify",
+    "modulifyx",
     "nodejs",
     "npm-pm",
     "observability",
@@ -62,12 +62,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "modulify"
+    "directory": "modulifyx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/modulify",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/modulifyx",
   "publishConfig": {
     "access": "public"
   }

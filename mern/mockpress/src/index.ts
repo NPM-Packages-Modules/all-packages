@@ -1,6 +1,6 @@
 import type { Express, Request, RequestHandler, Response } from "express";
 import express from "express";
-import { listExpressRoutes } from "routecheck";
+import { listExpressRoutes } from "routecheckx";
 
 export interface MockpressOptions {
   /** Artificial delay before responding (ms). */
@@ -51,7 +51,7 @@ function makeHandler(routePath: string, method: string, opts: MockpressOptions |
  * Build a **new** Express app that mirrors routes discovered on `sourceApp`
  * and serves deterministic mock JSON for frontend / contract tests.
  */
-export function mockpress(sourceApp: Express, opts?: MockpressOptions): Express {
+export function mockpressx(sourceApp: Express, opts?: MockpressOptions): Express {
   const mock = express();
   mock.use(express.json());
   const routes = listExpressRoutes(sourceApp);

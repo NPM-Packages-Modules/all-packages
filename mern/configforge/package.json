@@ -1,7 +1,7 @@
 {
-  "name": "configforge",
+  "name": "configforgex",
   "version": "0.1.0",
-  "description": "configforge — Merge config objects then validate with Zod.",
+  "description": "configforgex — Merge config objects then validate with Zod.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -28,7 +28,7 @@
   },
   "keywords": [
     "config",
-    "configforge",
+    "configforgex",
     "mern-packages",
     "merndev",
     "nodejs",
@@ -51,12 +51,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "configforge"
+    "directory": "configforgex"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/configforge",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/configforgex",
   "publishConfig": {
     "access": "public"
   },

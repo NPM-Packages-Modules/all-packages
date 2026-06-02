@@ -1,6 +1,6 @@
-# routeforge
+# routeforgex
 
-**Topics:** `cli` · `crud` · `mern-packages` · `merndev` · `mobile` · `navigation` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `routeforge` · `scaffolding` · `typescript`
+**Topics:** `cli` · `crud` · `mern-packages` · `merndev` · `mobile` · `navigation` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `routeforgex` · `scaffolding` · `typescript`
 
 **React Native** library.
 
@@ -18,9 +18,9 @@ Generate complete Express CRUD modules automatically.
 ## Example
 
 ```ts
-import { routeforge } from "routeforge";
+import { routeforgex } from "routeforgex";
 
-await routeforge.create("products");
+await routeforgex.create("products");
 ```
 
 ## Why it matters

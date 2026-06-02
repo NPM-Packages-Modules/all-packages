@@ -27,7 +27,7 @@ type ExpressErrorMiddleware = (
   next: (err?: unknown) => void,
 ) => void;
 
-export function responsa(options: ResponsaOptions = {}): ExpressMiddleware {
+export function responsax(options: ResponsaOptions = {}): ExpressMiddleware {
   const {
     traceIdHeader = "x-trace-id",
     exposeTraceIdHeader = true,

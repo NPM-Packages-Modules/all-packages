@@ -1,5 +1,5 @@
 {
-  "name": "routecheck",
+  "name": "routecheckx",
   "version": "0.1.0",
   "description": "Express route discovery and starter API tests, CLI-first MERN workflow.",
   "license": "MIT",
@@ -8,7 +8,7 @@
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
-    "routecheck": "routecheck.cjs"
+    "routecheckx": "routecheckx.cjs"
   },
   "exports": {
     ".": {
@@ -19,7 +19,7 @@
   },
   "files": [
     "dist",
-    "routecheck.cjs",
+    "routecheckx.cjs",
     "README.md",
     "LICENSE",
     "CHANGELOG.md"
@@ -40,7 +40,7 @@
     "npm-pm",
     "observability",
     "openapi",
-    "routecheck",
+    "routecheckx",
     "testing",
     "typescript"
   ],
@@ -70,12 +70,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "routecheck"
+    "directory": "routecheckx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/routecheck",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/routecheckx",
   "publishConfig": {
     "access": "public"
   }

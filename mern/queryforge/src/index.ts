@@ -87,4 +87,4 @@ export function parseListQuery(
   return { filter, sort, skip, limit };
 }
 
-export const queryforge = { parseListQuery };
+export const queryforgex = { parseListQuery };

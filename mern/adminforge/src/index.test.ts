@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { adminModel, buildAdminManifest } from "./index.js";
 
-describe("adminforge", () => {
+describe("adminforgex", () => {
   it("buildAdminManifest", () => {
     const m = buildAdminManifest([
       adminModel({

@@ -1,4 +1,4 @@
 import { describe, expect, it } from "vitest";
-import { graphstack } from "./index.js";
+import { graphstackx } from "./index.js";
 
-it("version", () => expect(graphstack.version).toBe("0.1.0"));
+it("version", () => expect(graphstackx.version).toBe("0.1.0"));

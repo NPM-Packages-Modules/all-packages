@@ -1,9 +1,9 @@
 import { describe, expect, it } from "vitest";
-import { eventmesh } from "../src/index.js";
+import { eventmeshx } from "../src/index.js";
 
-describe("eventmesh", () => {
+describe("eventmeshx", () => {
   it("pub sub", async () => {
-    const bus = eventmesh();
+    const bus = eventmeshx();
     const p = new Promise<string>((res) => {
       bus.subscribe<string>("user.created", (x) => res(x));
     });

@@ -1,19 +1,19 @@
-# adminforge
+# adminforgex
 
-**Topics:** `admin` · `adminforge` · `crud` · `dashboard` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `schema` · `typescript`
+**Topics:** `admin` · `adminforgex` · `crud` · `dashboard` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `schema` · `typescript`
 
 **Auto admin panel generator (core)** — describe models once (`path`, `fields`, optional relations) and emit a versioned **JSON manifest** your React/Next admin shell can render as CRUD tables + forms.
 
 ## Install
 
 ```bash
-npm install adminforge
+npm install adminforgex
 ```
 
 ## Example
 
 ```typescript
-import { adminModel, buildAdminManifest } from "adminforge";
+import { adminModel, buildAdminManifest } from "adminforgex";
 
 const manifest = buildAdminManifest([
   adminModel({

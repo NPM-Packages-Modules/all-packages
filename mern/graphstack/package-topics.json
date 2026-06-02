@@ -3,7 +3,7 @@
     "cli",
     "dependencies",
     "graph",
-    "graphstack",
+    "graphstackx",
     "mern-packages",
     "merndev",
     "nodejs",

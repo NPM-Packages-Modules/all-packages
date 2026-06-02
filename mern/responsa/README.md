@@ -1,28 +1,28 @@
-# responsa
+# responsax
 
-**Topics:** `api` · `envelope` · `error` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `pagination` · `responsa` · `response` · `standard` · `trace` · `typescript`
+**Topics:** `api` · `envelope` · `error` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `pagination` · `responsax` · `response` · `standard` · `trace` · `typescript`
 
 Standardize every API response your Express app sends — typed envelopes, paginated lists, structured errors, and a per-request trace ID — in one tiny middleware.
 
 ## Why
 
-Every team reinvents `{ success, data, error, meta, pagination }`. `responsa` ships a battle-tested envelope, an `ApiError` class with HTTP helpers, and an error handler that catches everything (including native `throw`s) and emits consistent payloads.
+Every team reinvents `{ success, data, error, meta, pagination }`. `responsax` ships a battle-tested envelope, an `ApiError` class with HTTP helpers, and an error handler that catches everything (including native `throw`s) and emits consistent payloads.
 
 ## Install
 
 ```bash
-npm install responsa
+npm install responsax
 ```
 
 ## Usage
 
 ```ts
 import express from "express";
-import { responsa, errorHandler, ApiError, notFound } from "responsa";
+import { responsax, errorHandler, ApiError, notFound } from "responsax";
 
 const app = express();
 app.use(express.json());
-app.use(responsa());
+app.use(responsax());
 
 app.get("/users/:id", async (req, res, next) => {
   const user = await db.users.findById(req.params.id);
@@ -96,7 +96,7 @@ app.use(errorHandler());
 import {
   ApiError, badRequest, unauthorized, forbidden,
   notFound, conflict, unprocessable, tooManyRequests, internal,
-} from "responsa";
+} from "responsax";
 ```
 
 Each helper returns an `ApiError` with the right status, default error code, and exposure flag.
@@ -104,7 +104,7 @@ Each helper returns an `ApiError` with the right status, default error code, and
 ## Options
 
 ```ts
-responsa({
+responsax({
   traceIdHeader: "x-trace-id",
   exposeTraceIdHeader: true,
   generateTraceId: () => crypto.randomUUID(),
@@ -122,7 +122,7 @@ responsa({
 
 ## TypeScript
 
-`responsa` augments Express' `Response` with `success`, `created`, `paginated`, `error`, `fail`, and `traceId`. Import the package once anywhere in your project and the methods become typed everywhere.
+`responsax` augments Express' `Response` with `success`, `created`, `paginated`, `error`, `fail`, and `traceId`. Import the package once anywhere in your project and the methods become typed everywhere.
 
 ## License
 

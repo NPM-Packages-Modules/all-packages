@@ -1,5 +1,5 @@
 {
-  "name": "typepress",
+  "name": "typepressx",
   "version": "0.1.3",
   "description": "Type-safe API framework for Express. Define routes once, get runtime validation, OpenAPI, TypeScript types, and a generated fetch client for free.",
   "license": "MIT",
@@ -39,7 +39,7 @@
     "router",
     "schema",
     "type-safe",
-    "typepress",
+    "typepressx",
     "typescript",
     "validation",
     "zod"
@@ -70,12 +70,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "typepress"
+    "directory": "typepressx"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/typepress",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/typepressx",
   "publishConfig": {
     "access": "public"
   }

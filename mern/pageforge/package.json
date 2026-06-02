@@ -1,7 +1,7 @@
 {
-  "name": "pageforge",
+  "name": "pageforgex",
   "version": "0.1.0",
-  "description": "pageforge — Cursor + offset pagination helpers for APIs.",
+  "description": "pageforgex — Cursor + offset pagination helpers for APIs.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -34,7 +34,7 @@
     "nodejs",
     "npm-pm",
     "observability",
-    "pageforge",
+    "pageforgex",
     "pagination",
     "typescript"
   ],
@@ -51,12 +51,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "pageforge"
+    "directory": "pageforgex"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/pageforge",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/pageforgex",
   "publishConfig": {
     "access": "public"
   }

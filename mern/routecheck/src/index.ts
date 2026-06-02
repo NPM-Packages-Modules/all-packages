@@ -4,7 +4,7 @@ export type RouteInfo = { method: string; path: string };
 
 /**
  * Best-effort static extraction of routes registered on the root Express router.
- * Nested routers mounted with `app.use('/prefix', r)` require `routecheck` against that router separately.
+ * Nested routers mounted with `app.use('/prefix', r)` require `routecheckx` against that router separately.
  */
 export function listExpressRoutes(app: Express): RouteInfo[] {
   const acc: RouteInfo[] = [];
