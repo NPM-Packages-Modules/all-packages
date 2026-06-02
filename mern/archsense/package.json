@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/archsense",
+  "name": "archsense",
   "version": "0.1.3",
   "description": "Backend architecture intelligence CLI: detects circular dependencies, oversized modules, structural smells, and produces an architecture score for any Node/TypeScript codebase.",
   "license": "MIT",

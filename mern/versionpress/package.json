@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/versionpress",
+  "name": "versionpress",
   "version": "0.1.0",
   "description": "Express API version resolution from headers with deprecation helpers and optional path-prefix stripping.",
   "license": "MIT",

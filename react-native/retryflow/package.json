@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/retryflow",
+  "name": "retryflow",
   "version": "0.1.0",
   "description": "Manage retries and fault tolerance automatically.",
   "license": "MIT",

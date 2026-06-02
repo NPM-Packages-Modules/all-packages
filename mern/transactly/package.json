@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/transactly",
+  "name": "transactly",
   "version": "0.1.0",
   "description": "transactly — Retry wrapper for transactional async work (Mongo session inside callback).",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/hookretry",
+  "name": "hookretry",
   "version": "0.1.0",
   "description": "hookretry — Webhook delivery attempt log + backoff helper.",
   "license": "MIT",

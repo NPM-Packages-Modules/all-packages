@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/replaystack",
+  "name": "replaystack",
   "version": "0.1.0",
   "description": "Replay captured HTTP requests against a base URL — simple production-incident repro from JSON traces.",
   "license": "MIT",

@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/queryforge
+npm install queryforge
 ```
 
 ## Example
 
 ```typescript
-import { parseListQuery } from "@mr-aftab-ahmad-khan/queryforge";
+import { parseListQuery } from "queryforge";
 
 const { filter, sort, skip, limit } = parseListQuery(req.query as Record<string, string | undefined>, {
   allowed: ["status", "ownerId", "createdAt", "price"],

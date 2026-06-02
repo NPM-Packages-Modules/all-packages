@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/graphstack",
+  "name": "graphstack",
   "version": "0.1.0",
   "description": "graphstack — CLI to list sorted npm dependencies from package.json (npx graphstack analyze).",
   "license": "MIT",

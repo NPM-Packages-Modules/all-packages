@@ -5,7 +5,7 @@
 Express **sliding-window rate limiter** with optional **adaptive tightening** when a client triggers many **4xx** responses (lightweight bot / abuse signal).
 
 ```ts
-import { ratemesh } from "@mr-aftab-ahmad-khan/ratemesh";
+import { ratemesh } from "ratemesh";
 
 app.use(
   ratemesh({

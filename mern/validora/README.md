@@ -6,7 +6,7 @@
 
 ```ts
 import express from "express";
-import { validateBody, z } from "@mr-aftab-ahmad-khan/validora";
+import { validateBody, z } from "validora";
 
 app.post("/signup", validateBody(z.object({ email: z.string().email() })), handler);
 ```

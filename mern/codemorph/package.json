@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/codemorph",
+  "name": "codemorph",
   "version": "0.1.0",
   "description": "codemorph — Refactor assistant CLI: scan projects for byte-normalized duplicate sources to spot copy-paste drift before it rots.",
   "license": "MIT",

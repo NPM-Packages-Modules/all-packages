@@ -7,7 +7,7 @@
 ```ts
 import crypto from "crypto";
 import express from "express";
-import { webhookGuard } from "@mr-aftab-ahmad-khan/hookmesh";
+import { webhookGuard } from "hookmesh";
 
 app.post("/stripe", express.raw({ type: "*/*" }), webhookGuard({
   secret: process.env.WEBHOOK_SECRET!,

@@ -18,7 +18,7 @@ Generate beautiful API documentation automatically.
 ## Example
 
 ```ts
-import { apidocsmith } from "@mr-aftab-ahmad-khan/apidocsmith";
+import { apidocsmith } from "apidocsmith";
 
 apidocsmith.scan(app);
 ```

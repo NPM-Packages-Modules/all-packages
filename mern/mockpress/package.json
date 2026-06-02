@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/mockpress",
+  "name": "mockpress",
   "version": "0.1.0",
   "description": "Spin up mock Express servers from an existing app’s route table — latency and fake JSON for frontend DX.",
   "license": "MIT",
@@ -40,7 +40,7 @@
     "typescript"
   ],
   "dependencies": {
-    "@mr-aftab-ahmad-khan/routecheck": "^0.1.0"
+    "routecheck": "^0.1.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",

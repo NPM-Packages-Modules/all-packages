@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/queryforge",
+  "name": "queryforge",
   "version": "0.1.0",
   "description": "queryforge — Dynamic query builder: turn HTTP query strings into Mongo-style filters, sorts, and pagination for dashboard-style APIs.",
   "license": "MIT",

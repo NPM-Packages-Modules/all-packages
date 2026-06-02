@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/routeboost",
+  "name": "routeboost",
   "version": "0.1.0",
   "description": "routeboost — Express perf hints middleware (cache/surrogate headers + payload guard stub).",
   "license": "MIT",

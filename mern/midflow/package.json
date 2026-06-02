@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/midflow",
+  "name": "midflow",
   "version": "0.1.0",
   "description": "midflow — Compose Express middleware arrays into one handler.",
   "license": "MIT",

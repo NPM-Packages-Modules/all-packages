@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/injectflow
+npm install injectflow
 ```
 
 ## Example
 
 ```typescript
-import { injectflow } from "@mr-aftab-ahmad-khan/injectflow";
+import { injectflow } from "injectflow";
 
 class UserRepo {}
 class UserService {

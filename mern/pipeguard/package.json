@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/pipeguard",
+  "name": "pipeguard",
   "version": "0.1.0",
   "description": "pipeguard — Zod body validation as Express middleware.",
   "license": "MIT",

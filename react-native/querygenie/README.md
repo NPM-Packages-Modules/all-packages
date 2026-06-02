@@ -18,7 +18,7 @@ Generate advanced MongoDB queries automatically.
 ## Example
 
 ```ts
-import { querygenie } from "@mr-aftab-ahmad-khan/querygenie";
+import { querygenie } from "querygenie";
 
 const q = querygenie(Product).filter(req.query);
 ```

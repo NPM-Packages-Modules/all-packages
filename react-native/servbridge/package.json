@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/servbridge",
+  "name": "servbridge",
   "version": "0.1.0",
   "description": "Automatically connect multiple MERN services together with minimal setup.",
   "license": "MIT",

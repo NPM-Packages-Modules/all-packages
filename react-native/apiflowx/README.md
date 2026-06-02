@@ -18,7 +18,7 @@ Visualize and orchestrate complex API architectures.
 ## Example
 
 ```ts
-import { apiflowx } from "@mr-aftab-ahmad-khan/apiflowx";
+import { apiflowx } from "apiflowx";
 
 apiflowx.inspect(app);
 ```

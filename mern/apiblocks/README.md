@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/apiblocks express
+npm install apiblocks express
 ```
 
 ## Example
@@ -16,7 +16,7 @@ Register blocks **before** `router.get` / `post` so composed middleware runs fir
 
 ```typescript
 import express from "express";
-import { applyApiBlocks, paginationBlock, searchBlock, getPagination, getSearchRegex } from "@mr-aftab-ahmad-khan/apiblocks";
+import { applyApiBlocks, paginationBlock, searchBlock, getPagination, getSearchRegex } from "apiblocks";
 
 const app = express();
 const api = express.Router();

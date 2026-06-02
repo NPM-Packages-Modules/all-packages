@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/lesscode",
+  "name": "lesscode",
   "version": "0.1.0",
   "description": "lesscode — Boilerplate CLI: scan files for Express-style `.get/.use` usage.",
   "license": "MIT",

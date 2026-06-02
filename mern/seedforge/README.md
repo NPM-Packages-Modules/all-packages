@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/seedforge
+npm install seedforge
 ```
 
 ## API
 
 ```typescript
-import { seedforge } from "@mr-aftab-ahmad-khan/seedforge";
+import { seedforge } from "seedforge";
 
 const sf = seedforge();
 

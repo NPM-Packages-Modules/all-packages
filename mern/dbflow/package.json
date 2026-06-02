@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/dbflow",
+  "name": "dbflow",
   "version": "0.1.0",
   "description": "dbflow — Repository façade interface for CRUD-style data access.",
   "license": "MIT",

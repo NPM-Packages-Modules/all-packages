@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/servqueue",
+  "name": "servqueue",
   "version": "0.1.0",
   "description": "Simple distributed queue management for MERN applications.",
   "license": "MIT",

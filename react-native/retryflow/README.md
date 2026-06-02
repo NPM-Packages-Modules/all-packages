@@ -18,7 +18,7 @@ Manage retries and fault tolerance automatically.
 ## Example
 
 ```ts
-import { retryflow } from "@mr-aftab-ahmad-khan/retryflow";
+import { retryflow } from "retryflow";
 
 await retryflow.wrap(sendEmail)();
 ```

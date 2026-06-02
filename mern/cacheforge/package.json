@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/cacheforge",
+  "name": "cacheforge",
   "version": "0.1.0",
   "description": "cacheforge — Cache entry envelope with TTL + tag list for invalidation.",
   "license": "MIT",

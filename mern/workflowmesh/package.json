@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/workflowmesh",
+  "name": "workflowmesh",
   "version": "0.1.0",
   "description": "workflowmesh — Smart async workflow engine: chained steps, retries, backoff, and optional rollback for readable Node.js orchestration.",
   "license": "MIT",

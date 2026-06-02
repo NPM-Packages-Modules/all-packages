@@ -7,14 +7,14 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/recoverpress express
+npm install recoverpress express
 ```
 
 ## Example
 
 ```typescript
 import express from "express";
-import { recoverpress, withRetry } from "@mr-aftab-ahmad-khan/recoverpress";
+import { recoverpress, withRetry } from "recoverpress";
 
 const app = express();
 

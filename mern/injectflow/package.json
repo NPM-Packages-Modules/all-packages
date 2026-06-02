@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/injectflow",
+  "name": "injectflow",
   "version": "0.1.0",
   "description": "injectflow — Lightweight dependency injection for Node/Express: register factories, singleton scope, and resolve services without a framework lock-in.",
   "license": "MIT",

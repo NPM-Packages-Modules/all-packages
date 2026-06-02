@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/cacheflow",
+  "name": "cacheflow",
   "version": "0.1.0",
   "description": "cacheflow — Auto cache invalidation graph: track tag ↔ dependency edges (e.g. Mongo doc ids) and fan out invalidations when data changes.",
   "license": "MIT",

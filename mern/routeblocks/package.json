@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/routeblocks",
+  "name": "routeblocks",
   "version": "0.1.0",
   "description": "routeblocks — Fluent Express router blocks (use/mount helpers).",
   "license": "MIT",

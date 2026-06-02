@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/schemaui",
+  "name": "schemaui",
   "version": "0.1.0",
   "description": "schemaui — Validation-to-UI bridge: render a minimal React form from a Zod object schema with shared error display.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/querygenie",
+  "name": "querygenie",
   "version": "0.1.0",
   "description": "Generate advanced MongoDB queries automatically.",
   "license": "MIT",

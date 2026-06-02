@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/sdkpress",
+  "name": "sdkpress",
   "version": "0.1.0",
   "description": "sdkpress — SDK generator CLI: typed fetch stubs from OpenAPI path keys (`npx sdkpress generate`).",
   "license": "MIT",

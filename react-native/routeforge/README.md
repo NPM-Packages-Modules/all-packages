@@ -18,7 +18,7 @@ Generate complete Express CRUD modules automatically.
 ## Example
 
 ```ts
-import { routeforge } from "@mr-aftab-ahmad-khan/routeforge";
+import { routeforge } from "routeforge";
 
 await routeforge.create("products");
 ```

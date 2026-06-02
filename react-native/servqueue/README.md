@@ -18,7 +18,7 @@ Simple distributed queue management for MERN applications.
 ## Example
 
 ```ts
-import { servqueue } from "@mr-aftab-ahmad-khan/servqueue";
+import { servqueue } from "servqueue";
 
 await servqueue.add("email", payload);
 ```

@@ -7,15 +7,15 @@
 ## Install
 
 ```bash
-npm install -g @mr-aftab-ahmad-khan/codemorph
+npm install -g codemorph
 # or
-npx @mr-aftab-ahmad-khan/codemorph analyze ./src
+npx codemorph analyze ./src
 ```
 
 ## Library
 
 ```typescript
-import { findDuplicateSources } from "@mr-aftab-ahmad-khan/codemorph";
+import { findDuplicateSources } from "codemorph";
 
 const groups = await findDuplicateSources(process.cwd());
 ```

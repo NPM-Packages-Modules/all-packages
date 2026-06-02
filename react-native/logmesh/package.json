@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/logmesh",
+  "name": "logmesh",
   "version": "0.1.3",
   "description": "Centralized structured logging for MERN systems.",
   "license": "MIT",

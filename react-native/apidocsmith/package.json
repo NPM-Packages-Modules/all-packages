@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/apidocsmith",
+  "name": "apidocsmith",
   "version": "0.1.0",
   "description": "Generate beautiful API documentation automatically.",
   "license": "MIT",

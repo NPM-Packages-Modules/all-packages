@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/configforge",
+  "name": "configforge",
   "version": "0.1.0",
   "description": "configforge — Merge config objects then validate with Zod.",
   "license": "MIT",

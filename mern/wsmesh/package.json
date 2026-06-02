@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/wsmesh",
+  "name": "wsmesh",
   "version": "0.1.0",
   "description": "wsmesh — WebSocket/realtime mesh: room registry, presence counters, reconnect-safe client ids, and channel helpers for your transport (ws, Socket.IO, uWebSockets).",
   "license": "MIT",

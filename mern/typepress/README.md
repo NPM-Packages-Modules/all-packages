@@ -14,14 +14,14 @@ No code generation step required at runtime, no zod dependency — `typepress` i
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/typepress
+npm install typepress
 ```
 
 ## Define routes
 
 ```ts
 import express from "express";
-import { createTypepress, t } from "@mr-aftab-ahmad-khan/typepress";
+import { createTypepress, t } from "typepress";
 
 const api = createTypepress();
 
@@ -65,7 +65,7 @@ When the handler returns an invalid response (because you mis-implemented a fiel
 ## OpenAPI
 
 ```ts
-import { toOpenApi } from "@mr-aftab-ahmad-khan/typepress";
+import { toOpenApi } from "typepress";
 
 app.get("/openapi.json", (_req, res) => res.json(toOpenApi(api, {
   title: "My API",
@@ -77,7 +77,7 @@ app.get("/openapi.json", (_req, res) => res.json(toOpenApi(api, {
 ## Typed client for the frontend
 
 ```ts
-import { generateTypescriptClient } from "@mr-aftab-ahmad-khan/typepress";
+import { generateTypescriptClient } from "typepress";
 import { writeFileSync } from "node:fs";
 
 writeFileSync(

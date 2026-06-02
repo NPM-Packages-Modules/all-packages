@@ -8,7 +8,7 @@
 
 ```ts
 import express from "express";
-import { mockpress } from "@mr-aftab-ahmad-khan/mockpress";
+import { mockpress } from "mockpress";
 
 const app = express();
 app.get("/api/users", (_req, res) => res.json([]));

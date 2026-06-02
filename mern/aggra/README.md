@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/aggra
+npm install aggra
 ```
 
 ## Example
 
 ```typescript
-import { pipeline } from "@mr-aftab-ahmad-khan/aggra";
+import { pipeline } from "aggra";
 
 const stages = pipeline()
   .match({ orgId: "o1", deletedAt: null })

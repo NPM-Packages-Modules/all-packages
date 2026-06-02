@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/queueflow",
+  "name": "queueflow",
   "version": "0.1.0",
   "description": "queueflow — Map queue channel names to async handlers with retries.",
   "license": "MIT",

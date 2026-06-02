@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/schemaui zod react
+npm install schemaui zod react
 ```
 
 ## Example
@@ -15,7 +15,7 @@ npm install @mr-aftab-ahmad-khan/schemaui zod react
 ```tsx
 import { useState } from "react";
 import { z } from "zod";
-import { SchemauiForm } from "@mr-aftab-ahmad-khan/schemaui";
+import { SchemauiForm } from "schemaui";
 
 const userSchema = z.object({
   name: z.string().min(1),
@@ -38,7 +38,7 @@ export function UserForm() {
 }
 ```
 
-Pair with **`@mr-aftab-ahmad-khan/formbridge`** on submit to keep client/server validation aligned.
+Pair with **`formbridge`** on submit to keep client/server validation aligned.
 
 ## License
 

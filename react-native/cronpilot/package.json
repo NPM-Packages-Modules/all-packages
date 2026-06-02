@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/cronpilot",
+  "name": "cronpilot",
   "version": "0.1.0",
   "description": "Manage distributed cron jobs safely across servers.",
   "license": "MIT",

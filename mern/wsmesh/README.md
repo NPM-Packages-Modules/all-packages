@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/wsmesh
+npm install wsmesh
 ```
 
 ## Example
 
 ```typescript
-import { wsmesh } from "@mr-aftab-ahmad-khan/wsmesh";
+import { wsmesh } from "wsmesh";
 
 const mesh = wsmesh();
 

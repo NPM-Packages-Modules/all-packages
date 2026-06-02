@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/pageforge",
+  "name": "pageforge",
   "version": "0.1.0",
   "description": "pageforge — Cursor + offset pagination helpers for APIs.",
   "license": "MIT",

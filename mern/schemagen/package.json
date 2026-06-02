@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/schemagen",
+  "name": "schemagen",
   "version": "0.1.0",
   "description": "schemagen — Zod object → DTO interface string + field reflection for contracts.",
   "license": "MIT",

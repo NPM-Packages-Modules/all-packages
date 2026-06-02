@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/sdkforge",
+  "name": "sdkforge",
   "version": "0.1.0",
   "description": "Generate minimal TypeScript fetch clients from OpenAPI 3 path definitions — CI-friendly starter SDKs.",
   "license": "MIT",

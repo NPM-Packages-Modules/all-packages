@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/workerforge",
+  "name": "workerforge",
   "version": "0.1.0",
   "description": "workerforge — In-process worker registry and dispatcher by job name.",
   "license": "MIT",

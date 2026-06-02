@@ -1,7 +1,7 @@
 {
-  "name": "@mr-aftab-ahmad-khan/react-native-monorepo",
+  "name": "react-native-monorepo",
   "private": true,
-  "description": "React Native npm monorepo — mobile packages (@mr-aftab-ahmad-khan/*).",
+  "description": "React Native npm monorepo — mobile packages (*).",
   "license": "MIT",
   "engines": {
     "node": ">=18"

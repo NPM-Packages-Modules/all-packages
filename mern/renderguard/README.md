@@ -5,7 +5,7 @@
 Wrap subtrees with React **`Profiler`**, stream structured **`onRender`** metrics, optionally **warn** on slow commits, and compute a tiny **render score** from samples.
 
 ```tsx
-import { renderguard } from "@mr-aftab-ahmad-khan/renderguard";
+import { renderguard } from "renderguard";
 
 const Profiled = renderguard("Dashboard", { warnMs: 8 });
 

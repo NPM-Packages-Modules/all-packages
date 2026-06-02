@@ -18,7 +18,7 @@ Manage distributed cron jobs safely across servers.
 ## Example
 
 ```ts
-import { cronpilot } from "@mr-aftab-ahmad-khan/cronpilot";
+import { cronpilot } from "cronpilot";
 
 cronpilot.schedule("* * * * *", task);
 ```

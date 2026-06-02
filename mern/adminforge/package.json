@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/adminforge",
+  "name": "adminforge",
   "version": "0.1.0",
   "description": "adminforge — Admin panel generator core: JSON manifest of models, fields, and routes for CRUD UIs (React/Next adapters plug in separately).",
   "license": "MIT",

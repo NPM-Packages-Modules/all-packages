@@ -49,7 +49,7 @@ export default defineConfig({
 function pkgJson(p) {
   const repo = `git+https://github.com/NPM-Packages-Modules/${p.name}.git`;
   const base = {
-    name: `@mr-aftab-ahmad-khan/${p.name}`,
+    name: `${p.name}`,
     version: "0.1.0",
     description: p.desc,
     license: "MIT",

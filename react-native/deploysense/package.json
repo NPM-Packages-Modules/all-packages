@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/deploysense",
+  "name": "deploysense",
   "version": "0.1.0",
   "description": "Detect risky deployments before production release.",
   "license": "MIT",

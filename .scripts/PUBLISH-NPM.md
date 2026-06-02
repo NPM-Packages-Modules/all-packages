@@ -1,4 +1,4 @@
-# Publishing to npm (@mr-aftab-ahmad-khan/*)
+# Publishing to npm (*)
 
 ## The output you see is usually not a build failure
 
@@ -23,7 +23,7 @@ If you see **Build success** + tarball + then:
 
 ```text
 npm error code E404
-npm error 404 ... @mr-aftab-ahmad-khan/adminforge ... could not be found or you do not have permission
+npm error 404 ... adminforge ... could not be found or you do not have permission
 ```
 
 That is almost always **npm not logged in** or an **expired token** — not a missing package. npm often returns 404 instead of 401.
@@ -69,7 +69,7 @@ NPM_PUBLISH_DAILY_LIMIT=20 NPM_PUBLISH_GAP_SEC=300 npm run publish:daily
 
 Repeat **once per day** until `npm run publish:status` shows 0 need publish.
 
-5. Still E429 after 24h? Open [npmjs.com/support](https://www.npmjs.com/support) — mention scoped publishes to `@mr-aftab-ahmad-khan/*` and E429 with `user undefined`.
+5. Still E429 after 24h? Open [npmjs.com/support](https://www.npmjs.com/support) — mention scoped publishes to `*` and E429 with `user undefined`.
 
 ## Monorepo paths
 
@@ -112,7 +112,7 @@ OTP expires quickly — not ideal for 20-package batch without Option A.
 
 ```bash
 npm run publish:status
-npm view @mr-aftab-ahmad-khan/versionpress version   # 404 = not published yet
+npm view versionpress version   # 404 = not published yet
 ```
 
 ## `devdir` warning

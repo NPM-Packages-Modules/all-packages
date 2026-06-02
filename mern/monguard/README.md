@@ -11,7 +11,7 @@ Most MERN apps ship without anyone ever looking at query plans. Existing tooling
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/monguard
+npm install monguard
 ```
 
 (`mongoose` is a peer dependency — works with v7 and v8.)
@@ -20,7 +20,7 @@ npm install @mr-aftab-ahmad-khan/monguard
 
 ```ts
 import mongoose from "mongoose";
-import { monguard } from "@mr-aftab-ahmad-khan/monguard";
+import { monguard } from "monguard";
 
 const sense = monguard({
   slowQueryThreshold: 300,
@@ -35,7 +35,7 @@ Or attach to one schema only:
 
 ```ts
 import { Schema, model } from "mongoose";
-import { monguard } from "@mr-aftab-ahmad-khan/monguard";
+import { monguard } from "monguard";
 
 const userSchema = new Schema({ email: String, name: String });
 userSchema.index({ email: 1 });
@@ -119,7 +119,7 @@ import {
   suggestCompoundIndex,
   fingerprintQuery,
   Analyzer,
-} from "@mr-aftab-ahmad-khan/monguard";
+} from "monguard";
 ```
 
 Use the `Analyzer` directly to integrate with any DB layer.

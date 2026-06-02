@@ -18,7 +18,7 @@ Automate backend security middleware orchestration.
 ## Example
 
 ```ts
-import { secureflow } from "@mr-aftab-ahmad-khan/secureflow";
+import { secureflow } from "secureflow";
 
 secureflow.protect(app);
 ```

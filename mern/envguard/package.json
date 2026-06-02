@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/envguard",
+  "name": "envguard",
   "version": "0.1.3",
   "description": "Production-safe environment validation system with schema typing, CI checks, and a CLI for missing/invalid secrets.",
   "license": "MIT",

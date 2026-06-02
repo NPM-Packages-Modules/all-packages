@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/cacheflow
+npm install cacheflow
 ```
 
 ## Example
 
 ```typescript
-import { cacheflow } from "@mr-aftab-ahmad-khan/cacheflow";
+import { cacheflow } from "cacheflow";
 
 const graph = cacheflow();
 

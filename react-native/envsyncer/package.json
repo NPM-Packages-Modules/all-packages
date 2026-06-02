@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/envsyncer",
+  "name": "envsyncer",
   "version": "0.1.0",
   "description": "Synchronize and validate environment variables across services.",
   "license": "MIT",

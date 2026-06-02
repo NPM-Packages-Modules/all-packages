@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/guardpress",
+  "name": "guardpress",
   "version": "0.1.0",
   "description": "guardpress — Route guard composer for Express (role + custom predicates).",
   "license": "MIT",

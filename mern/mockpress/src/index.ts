@@ -1,6 +1,6 @@
 import type { Express, Request, RequestHandler, Response } from "express";
 import express from "express";
-import { listExpressRoutes } from "@mr-aftab-ahmad-khan/routecheck";
+import { listExpressRoutes } from "routecheck";
 
 export interface MockpressOptions {
   /** Artificial delay before responding (ms). */

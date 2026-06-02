@@ -5,7 +5,7 @@
 **eventmesh** wraps Node’s **`EventEmitter`** with **typed publish/subscribe** helpers for MERN services that are not ready for Redis yet.
 
 ```ts
-import { eventmesh } from "@mr-aftab-ahmad-khan/eventmesh";
+import { eventmesh } from "eventmesh";
 
 const bus = eventmesh();
 bus.subscribe("order.paid", (id: string) => {});

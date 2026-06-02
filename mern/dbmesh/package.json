@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/dbmesh",
+  "name": "dbmesh",
   "version": "0.1.0",
   "description": "dbmesh — Multi-database façade: register named collection adapters behind one mesh API.",
   "license": "MIT",

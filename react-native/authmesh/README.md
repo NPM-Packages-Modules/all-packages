@@ -19,7 +19,7 @@ Create centralized authentication systems across MERN services.
 
 ```ts
 import express from "express";
-import { authmesh } from "@mr-aftab-ahmad-khan/authmesh";
+import { authmesh } from "authmesh";
 
 const app = express();
 app.use(authmesh({ accessSecret: process.env.JWT_SECRET! }));

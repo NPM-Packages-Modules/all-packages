@@ -30,7 +30,7 @@ const ECOSYSTEMS = [
     id: "mern",
     dir: "mern",
     description:
-      "MERN npm monorepo — Express, MongoDB, and Node.js packages (@mr-aftab-ahmad-khan/*).",
+      "MERN npm monorepo — Express, MongoDB, and Node.js packages (*).",
     topics: ["mern", "merndev", "nodejs", "typescript", "mongodb", "express", "npm-pm", "mern-packages"],
     npmRoot: true,
   },
@@ -38,7 +38,7 @@ const ECOSYSTEMS = [
     id: "react-native",
     dir: "react-native",
     description:
-      "React Native npm monorepo — mobile packages (@mr-aftab-ahmad-khan/*).",
+      "React Native npm monorepo — mobile packages (*).",
     topics: ["react-native", "react", "mobile", "typescript", "merndev", "npm-pm", "mern-packages"],
     npmRoot: true,
   },
@@ -81,7 +81,7 @@ function ensureNpmRoot(eco) {
     (n) => n !== "node_modules" && existsSync(join(base, n, "package.json"))
   );
   const rootPkg = {
-    name: `@mr-aftab-ahmad-khan/${eco.id}-monorepo`,
+    name: `${eco.id}-monorepo`,
     private: true,
     description: eco.description,
     license: "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/testforge",
+  "name": "testforge",
   "version": "0.1.0",
   "description": "testforge — CLI to emit a starter Vitest file (`npx testforge generate`).",
   "license": "MIT",

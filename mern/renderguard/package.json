@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/renderguard",
+  "name": "renderguard",
   "version": "0.1.0",
   "description": "React render tracking, Profiler wrappers, and hotspots for expensive subtrees.",
   "license": "MIT",

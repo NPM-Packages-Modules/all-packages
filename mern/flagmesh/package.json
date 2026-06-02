@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/flagmesh",
+  "name": "flagmesh",
   "version": "0.1.0",
   "description": "In-process feature flags with env defaults, forced booleans, and percent rollouts by stable user hash.",
   "license": "MIT",

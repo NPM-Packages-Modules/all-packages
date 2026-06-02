@@ -18,7 +18,7 @@ Automatically connect multiple MERN services together with minimal setup.
 ## Example
 
 ```ts
-import { servbridge } from "@mr-aftab-ahmad-khan/servbridge";
+import { servbridge } from "servbridge";
 
 const bridge = servbridge();
 bridge.register("payments", async (payload) => {

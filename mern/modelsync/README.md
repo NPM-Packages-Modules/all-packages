@@ -15,7 +15,7 @@ Keep Mongoose models, TypeScript types, and validation schemas synchronized auto
 ## Example
 
 ```ts
-import { modelsync } from "@mr-aftab-ahmad-khan/modelsync";
+import { modelsync } from "modelsync";
 
 modelsync.sync(UserSchema);
 ```

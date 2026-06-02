@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/socketmesh",
+  "name": "socketmesh",
   "version": "0.1.0",
   "description": "Simplify scalable real-time communication infrastructure.",
   "license": "MIT",

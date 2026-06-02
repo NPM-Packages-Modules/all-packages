@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/routeforge",
+  "name": "routeforge",
   "version": "0.1.0",
   "description": "Generate complete Express CRUD modules automatically.",
   "license": "MIT",

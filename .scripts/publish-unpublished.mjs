@@ -1,6 +1,6 @@
 /**
  * Publish workspaces whose package.json version is not yet on npm.
- * Handles @mr-aftab-ahmad-khan/* and legacy unscoped names.
+ * Handles * and legacy unscoped names.
  *
  * Usage:
  *   node .scripts/publish-unpublished.mjs [workspace ...]

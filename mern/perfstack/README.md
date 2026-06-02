@@ -7,14 +7,14 @@ Lightweight fullstack performance profiler for Node.js. One package gives you HT
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/perfstack
+npm install perfstack
 ```
 
 ## One-call setup
 
 ```ts
 import express from "express";
-import { init } from "@mr-aftab-ahmad-khan/perfstack";
+import { init } from "perfstack";
 
 const app = express();
 const { profiler, mongoosePlugin } = init(app, {
@@ -67,7 +67,7 @@ import {
   mongoosePlugin,
   Histogram,
   Tracer,
-} from "@mr-aftab-ahmad-khan/perfstack";
+} from "perfstack";
 
 const profiler = new Profiler({ slowRequestThreshold: 300 });
 

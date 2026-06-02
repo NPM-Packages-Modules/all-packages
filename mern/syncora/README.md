@@ -7,7 +7,7 @@ Realtime sync engine for MERN apps. Subscribe to collections from the browser wi
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/syncora
+npm install syncora
 ```
 
 (`react` is an optional peer for the React hook.)
@@ -16,7 +16,7 @@ npm install @mr-aftab-ahmad-khan/syncora
 
 ```ts
 import { createServer } from "node:http";
-import { SyncServer } from "@mr-aftab-ahmad-khan/syncora";
+import { SyncServer } from "syncora";
 
 const http = createServer();
 const sync = new SyncServer({ server: http });
@@ -66,7 +66,7 @@ todos.watch().on("change", (event) => {
 ## Vanilla client
 
 ```ts
-import { SyncoraClient } from "@mr-aftab-ahmad-khan/syncora";
+import { SyncoraClient } from "syncora";
 
 const client = new SyncoraClient({ url: "ws://localhost:4000" });
 
@@ -83,8 +83,8 @@ Reconnects with exponential back-off, replays queued mutations and resubscribes 
 ## React hook
 
 ```tsx
-import { SyncoraClient } from "@mr-aftab-ahmad-khan/syncora";
-import { createSyncoraHooks } from "@mr-aftab-ahmad-khan/syncora/react";
+import { SyncoraClient } from "syncora";
+import { createSyncoraHooks } from "syncora/react";
 
 const client = new SyncoraClient({ url: "ws://localhost:4000" });
 export const { useSyncora } = createSyncoraHooks(client);
@@ -138,7 +138,7 @@ new SyncServer({
 Implement the `SyncStore` interface to back syncora with Postgres, Redis, or anything else:
 
 ```ts
-import { SyncServer, type SyncStore } from "@mr-aftab-ahmad-khan/syncora";
+import { SyncServer, type SyncStore } from "syncora";
 
 const myStore: SyncStore = { /* … */ };
 const sync = new SyncServer({ store: myStore });

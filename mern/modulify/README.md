@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/modulify express
+npm install modulify express
 ```
 
 ## Convention
@@ -26,7 +26,7 @@ export default r;
 
 ```typescript
 import express from "express";
-import { modulify } from "@mr-aftab-ahmad-khan/modulify";
+import { modulify } from "modulify";
 import path from "node:path";
 
 const app = express();

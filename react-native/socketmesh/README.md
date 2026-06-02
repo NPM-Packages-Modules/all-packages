@@ -18,7 +18,7 @@ Simplify scalable real-time communication infrastructure.
 ## Example
 
 ```ts
-import { socketmesh } from "@mr-aftab-ahmad-khan/socketmesh";
+import { socketmesh } from "socketmesh";
 
 const orders = socketmesh.channel("orders");
 ```

@@ -7,9 +7,9 @@
 ## Install
 
 ```bash
-npm install -g @mr-aftab-ahmad-khan/backendforge
+npm install -g backendforge
 # or
-npx @mr-aftab-ahmad-khan/backendforge create module invoices
+npx backendforge create module invoices
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ Pair with **modulify** to mount `*.router.js` files after compilation.
 ## API
 
 ```typescript
-import { scaffoldModule } from "@mr-aftab-ahmad-khan/backendforge";
+import { scaffoldModule } from "backendforge";
 
 await scaffoldModule("posts", process.cwd());
 ```

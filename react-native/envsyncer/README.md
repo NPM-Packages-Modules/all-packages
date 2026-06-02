@@ -18,7 +18,7 @@ Synchronize and validate environment variables across services.
 ## Example
 
 ```ts
-import { envsyncer } from "@mr-aftab-ahmad-khan/envsyncer";
+import { envsyncer } from "envsyncer";
 
 envsyncer.validate();
 ```

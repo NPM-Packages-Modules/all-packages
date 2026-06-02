@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/seedforge",
+  "name": "seedforge",
   "version": "0.1.0",
   "description": "seedforge — Database seeding kit: deterministic PRNG, ordered seed registrations, and `npx seedforge run` for dev/test fixtures.",
   "license": "MIT",

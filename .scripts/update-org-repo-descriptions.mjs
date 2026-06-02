@@ -40,7 +40,7 @@ const ECOS = [
       "responsa",
     ],
     label: "MERN/Node npm",
-    scope: "@mr-aftab-ahmad-khan",
+    scope: "npm",
     listPackages(dir) {
       return readdirSync(dir)
         .filter((n) => existsSync(join(dir, n, "package.json")))
@@ -72,7 +72,7 @@ const ECOS = [
       "cachepilot",
     ],
     label: "React Native npm",
-    scope: "@mr-aftab-ahmad-khan",
+    scope: "npm",
     listPackages(dir) {
       return readdirSync(dir)
         .filter((n) => existsSync(join(dir, n, "package.json")))

@@ -17,7 +17,7 @@ Transform API/database data automatically through pipelines.
 ## Example
 
 ```ts
-import { datamorph } from "@mr-aftab-ahmad-khan/datamorph";
+import { datamorph } from "datamorph";
 
 const out = datamorph()
   .hide("password")

@@ -11,13 +11,13 @@ Broken `.env` setups crash deployments. `envguard` validates required vars, type
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/envguard
+npm install envguard
 ```
 
 ## Quick start
 
 ```ts
-import { envguard, e } from "@mr-aftab-ahmad-khan/envguard";
+import { envguard, e } from "envguard";
 
 export const env = envguard({
   NODE_ENV: e.enums({ values: ["development", "production", "test"] as const }),
@@ -53,13 +53,13 @@ If any var is missing or invalid, `envguard` throws a clear, aggregated `EnvVali
 Validate before deploy:
 
 ```bash
-npx @mr-aftab-ahmad-khan/envguard check --schema ./env.schema.ts --env .env.production
+npx envguard check --schema ./env.schema.ts --env .env.production
 ```
 
 Explain a schema for docs:
 
 ```bash
-npx @mr-aftab-ahmad-khan/envguard explain --schema ./env.schema.ts
+npx envguard explain --schema ./env.schema.ts
 ```
 
 Your schema file must `export default` (or `export const schema =`) the schema object.
@@ -67,7 +67,7 @@ Your schema file must `export default` (or `export const schema =`) the schema o
 ## Non-throwing API
 
 ```ts
-import { guard, e } from "@mr-aftab-ahmad-khan/envguard";
+import { guard, e } from "envguard";
 
 const { ok, data, issues } = guard.validate(
   { PORT: e.port() },
@@ -80,7 +80,7 @@ Useful in tests or when you want to render a friendly health-check report instea
 ## Loading from `.env`
 
 ```ts
-import { loadDotEnv, mergeSources, validate, e } from "@mr-aftab-ahmad-khan/envguard";
+import { loadDotEnv, mergeSources, validate, e } from "envguard";
 
 const source = mergeSources(
   loadDotEnv(".env"),

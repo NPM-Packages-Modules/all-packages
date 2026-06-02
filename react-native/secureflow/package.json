@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/secureflow",
+  "name": "secureflow",
   "version": "0.1.0",
   "description": "Automate backend security middleware orchestration.",
   "license": "MIT",

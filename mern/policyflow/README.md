@@ -7,14 +7,14 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/policyflow express
+npm install policyflow express
 ```
 
 ## Example
 
 ```typescript
 import express from "express";
-import { policyflow } from "@mr-aftab-ahmad-khan/policyflow";
+import { policyflow } from "policyflow";
 
 const policies = policyflow()
   .inherits("org-admin", "member")

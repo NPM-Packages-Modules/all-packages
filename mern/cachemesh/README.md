@@ -6,7 +6,7 @@ Express caching middleware with **TTL**, **custom cache keys**, and **`invalidat
 
 ```ts
 import express from "express";
-import { cachemesh } from "@mr-aftab-ahmad-khan/cachemesh";
+import { cachemesh } from "cachemesh";
 
 const app = express();
 const apiCache = cachemesh({ ttlMs: 30_000 });

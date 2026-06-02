@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/searchforge",
+  "name": "searchforge",
   "version": "0.1.0",
   "description": "searchforge — Mongo $regex helpers + Atlas $text clause builder.",
   "license": "MIT",

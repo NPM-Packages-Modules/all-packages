@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/retrystack",
+  "name": "retrystack",
   "version": "0.1.0",
   "description": "retrystack — Exponential backoff retries with jitter for async calls.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/docstack",
+  "name": "docstack",
   "version": "0.1.0",
   "description": "docstack — CLI markdown stub from CWD package.json (`npx docstack generate`).",
   "license": "MIT",

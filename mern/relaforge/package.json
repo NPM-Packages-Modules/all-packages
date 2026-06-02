@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/relaforge",
+  "name": "relaforge",
   "version": "0.1.0",
   "description": "relaforge — Mongo populate path helper with cycle detection and nesting utilities.",
   "license": "MIT",

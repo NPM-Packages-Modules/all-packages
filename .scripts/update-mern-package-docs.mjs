@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = fileURLToPath(new URL("..", import.meta.url));
 const MERN = join(ROOT, "mern");
-const SCOPE = "@mr-aftab-ahmad-khan";
+const SCOPE = "";
 
 const packages = [
   {
@@ -21,7 +21,7 @@ const packages = [
       "distributed tracing",
       "shared auth",
     ],
-    example: `import { servbridge } from "${SCOPE}/servbridge";
+    example: `import { servbridge } from "${SCOPE}servbridge";
 
 const bridge = servbridge();
 bridge.register("payments", async (payload) => {
@@ -40,7 +40,7 @@ bridge.emit("order.paid", { id: "1" });`,
       "sanitization",
       "serialization",
     ],
-    example: `import { datamorph } from "${SCOPE}/datamorph";
+    example: `import { datamorph } from "${SCOPE}datamorph";
 
 const out = datamorph()
   .hide("password")
@@ -59,7 +59,7 @@ const out = datamorph()
       "middleware injection",
       "folder scaffolding",
     ],
-    example: `import { routeforge } from "${SCOPE}/routeforge";
+    example: `import { routeforge } from "${SCOPE}routeforge";
 
 await routeforge.create("products");`,
     why: "Backend teams repeatedly rebuild identical CRUD structures.",
@@ -76,7 +76,7 @@ await routeforge.create("products");`,
       "RBAC",
     ],
     example: `import express from "express";
-import { authmesh } from "${SCOPE}/authmesh";
+import { authmesh } from "${SCOPE}authmesh";
 
 const app = express();
 app.use(authmesh({ accessSecret: process.env.JWT_SECRET! }));`,
@@ -93,7 +93,7 @@ app.use(authmesh({ accessSecret: process.env.JWT_SECRET! }));`,
       "aggregation pipelines",
       "query optimization",
     ],
-    example: `import { querygenie } from "${SCOPE}/querygenie";
+    example: `import { querygenie } from "${SCOPE}querygenie";
 
 const q = querygenie(Product).filter(req.query);`,
     why: "Developers constantly rebuild repetitive query systems.",
@@ -109,7 +109,7 @@ const q = querygenie(Product).filter(req.query);`,
       "route caching",
       "memory sync",
     ],
-    example: `import { cachepilot } from "${SCOPE}/cachepilot";
+    example: `import { cachepilot } from "${SCOPE}cachepilot";
 
 export const getProducts = cachepilot.wrap(async () => fetchProducts());`,
     why: "Caching logic is complicated and duplicated everywhere.",
@@ -125,7 +125,7 @@ export const getProducts = cachepilot.wrap(async () => fetchProducts());`,
       "namespace isolation",
       "scaling support",
     ],
-    example: `import { socketmesh } from "${SCOPE}/socketmesh";
+    example: `import { socketmesh } from "${SCOPE}socketmesh";
 
 const orders = socketmesh.channel("orders");`,
     why: "WebSocket systems become extremely difficult to scale reliably.",
@@ -141,7 +141,7 @@ const orders = socketmesh.channel("orders");`,
       "secret masking",
       "deployment validation",
     ],
-    example: `import { envsyncer } from "${SCOPE}/envsyncer";
+    example: `import { envsyncer } from "${SCOPE}envsyncer";
 
 envsyncer.validate();`,
     why: "Environment mismatches are a major production failure source.",
@@ -157,7 +157,7 @@ envsyncer.validate();`,
       "error tracing",
       "request replay",
     ],
-    example: `import { stacktracex } from "${SCOPE}/stacktracex";
+    example: `import { stacktracex } from "${SCOPE}stacktracex";
 
 stacktracex.track(app);`,
     why: "Debugging distributed systems is incredibly painful.",
@@ -173,7 +173,7 @@ stacktracex.track(app);`,
       "dead-letter handling",
       "retry analytics",
     ],
-    example: `import { retryflow } from "${SCOPE}/retryflow";
+    example: `import { retryflow } from "${SCOPE}retryflow";
 
 await retryflow.wrap(sendEmail)();`,
     why: "Retry systems are difficult and often implemented poorly.",
@@ -189,7 +189,7 @@ await retryflow.wrap(sendEmail)();`,
       "performance scoring",
       "index recommendations",
     ],
-    example: `import { mongoforge } from "${SCOPE}/mongoforge";
+    example: `import { mongoforge } from "${SCOPE}mongoforge";
 
 await mongoforge.optimize();`,
     why: "Poor Mongo indexing destroys app performance silently.",
@@ -205,7 +205,7 @@ await mongoforge.optimize();`,
       "dead event handling",
       "event replay",
     ],
-    example: `import { eventbridgex } from "${SCOPE}/eventbridgex";
+    example: `import { eventbridgex } from "${SCOPE}eventbridgex";
 
 await eventbridgex.emit("order.created", { id: "42" });`,
     why: "Event architectures become chaotic without centralized tooling.",
@@ -221,7 +221,7 @@ await eventbridgex.emit("order.created", { id: "42" });`,
       "worker coordination",
       "failure recovery",
     ],
-    example: `import { cronpilot } from "${SCOPE}/cronpilot";
+    example: `import { cronpilot } from "${SCOPE}cronpilot";
 
 cronpilot.schedule("* * * * *", task);`,
     why: "Cron systems break unpredictably in scaled environments.",
@@ -237,7 +237,7 @@ cronpilot.schedule("* * * * *", task);`,
       "version history",
       "migration tracking",
     ],
-    example: `import { schemashift } from "${SCOPE}/schemashift";
+    example: `import { schemashift } from "${SCOPE}schemashift";
 
 await schemashift.generate();`,
     why: "Mongo migrations are still mostly unmanaged manually.",
@@ -253,7 +253,7 @@ await schemashift.generate();`,
       "suspicious activity detection",
       "IP throttling",
     ],
-    example: `import { secureflow } from "${SCOPE}/secureflow";
+    example: `import { secureflow } from "${SCOPE}secureflow";
 
 secureflow.protect(app);`,
     why: "Security setups are fragmented and inconsistently implemented.",
@@ -269,7 +269,7 @@ secureflow.protect(app);`,
       "real-time streams",
       "log analytics",
     ],
-    example: `import { logmesh } from "${SCOPE}/logmesh";
+    example: `import { logmesh } from "${SCOPE}logmesh";
 
 logmesh.connect(app);`,
     why: "Logs become unreadable across multiple services.",
@@ -285,7 +285,7 @@ logmesh.connect(app);`,
       "job monitoring",
       "distributed processing",
     ],
-    example: `import { servqueue } from "${SCOPE}/servqueue";
+    example: `import { servqueue } from "${SCOPE}servqueue";
 
 await servqueue.add("email", payload);`,
     why: "Queue systems are often overly complex or fragmented.",
@@ -301,7 +301,7 @@ await servqueue.add("email", payload);`,
       "memory forecasting",
       "deployment scoring",
     ],
-    example: `import { deploysense } from "${SCOPE}/deploysense";
+    example: `import { deploysense } from "${SCOPE}deploysense";
 
 await deploysense.verify();`,
     why: "Many production outages happen during deployment.",
@@ -317,7 +317,7 @@ await deploysense.verify();`,
       "route grouping",
       "API versioning",
     ],
-    example: `import { apidocsmith } from "${SCOPE}/apidocsmith";
+    example: `import { apidocsmith } from "${SCOPE}apidocsmith";
 
 apidocsmith.scan(app);`,
     why: "API documentation is usually outdated or missing completely.",
@@ -333,7 +333,7 @@ apidocsmith.scan(app);`,
       "service flow analysis",
       "endpoint discovery",
     ],
-    example: `import { apiflowx } from "${SCOPE}/apiflowx";
+    example: `import { apiflowx } from "${SCOPE}apiflowx";
 
 apiflowx.inspect(app);`,
     why: "Teams lose visibility as backend systems scale.",

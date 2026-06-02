@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/heapguard",
+  "name": "heapguard",
   "version": "0.1.0",
   "description": "Lightweight Node heap growth sampling with v8 stats and simple leak-suspect heuristics.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/eventbridgex",
+  "name": "eventbridgex",
   "version": "0.1.0",
   "description": "Unified event-driven communication layer for MERN services.",
   "license": "MIT",

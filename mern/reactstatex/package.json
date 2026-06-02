@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/reactstatex",
+  "name": "reactstatex",
   "version": "0.1.0",
   "description": "Auto-generate React state management from APIs.",
   "license": "MIT",

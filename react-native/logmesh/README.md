@@ -18,7 +18,7 @@ Centralized structured logging for MERN systems.
 ## Example
 
 ```ts
-import { logmesh } from "@mr-aftab-ahmad-khan/logmesh";
+import { logmesh } from "logmesh";
 
 logmesh.connect(app);
 ```

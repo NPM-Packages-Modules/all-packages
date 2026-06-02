@@ -18,7 +18,7 @@ Detect risky deployments before production release.
 ## Example
 
 ```ts
-import { deploysense } from "@mr-aftab-ahmad-khan/deploysense";
+import { deploysense } from "deploysense";
 
 await deploysense.verify();
 ```

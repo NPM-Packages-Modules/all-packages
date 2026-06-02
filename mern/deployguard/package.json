@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/deployguard",
+  "name": "deployguard",
   "version": "0.1.0",
   "description": "Pre-deploy validation: env templates, Docker checks, Mongo ping, dependency hints.",
   "license": "MIT",

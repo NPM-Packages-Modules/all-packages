@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/eventmesh",
+  "name": "eventmesh",
   "version": "0.1.0",
   "description": "Lightweight in-process pub/sub bus with typed helpers — MERN-friendly stepping stone before Redis streams.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/uploadflow",
+  "name": "uploadflow",
   "version": "0.1.0",
   "description": "uploadflow — Named upload pipeline steps.",
   "license": "MIT",

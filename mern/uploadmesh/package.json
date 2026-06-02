@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/uploadmesh",
+  "name": "uploadmesh",
   "version": "0.1.0",
   "description": "Upload validation, multipart checks, signed URLs for S3-style MERN file flows.",
   "license": "MIT",

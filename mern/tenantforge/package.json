@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/tenantforge",
+  "name": "tenantforge",
   "version": "0.1.0",
   "description": "Tenant resolution from headers, scoped filters for Express and Mongo-style stacks.",
   "license": "MIT",

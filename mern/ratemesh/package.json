@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/ratemesh",
+  "name": "ratemesh",
   "version": "0.1.0",
   "description": "Sliding-window rate limits, adaptive 4xx penalties, Redis-friendly client keys.",
   "license": "MIT",

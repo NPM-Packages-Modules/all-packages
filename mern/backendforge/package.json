@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/backendforge",
+  "name": "backendforge",
   "version": "0.1.0",
   "description": "backendforge — Backend automation CLI: scaffold Express modules (router + service stub) so MERN APIs stay consistent.",
   "license": "MIT",

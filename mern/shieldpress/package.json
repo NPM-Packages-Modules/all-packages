@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/shieldpress",
+  "name": "shieldpress",
   "version": "0.1.0",
   "description": "Express security static analysis: helmet gaps, injection smells, CORS and auth checks.",
   "license": "MIT",

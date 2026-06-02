@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/ctrlflow",
+  "name": "ctrlflow",
   "version": "0.1.0",
   "description": "ctrlflow — Express controller composer: stack middleware then mount handlers.",
   "license": "MIT",

@@ -11,14 +11,14 @@ Every team reinvents `{ success, data, error, meta, pagination }`. `responsa` sh
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/responsa
+npm install responsa
 ```
 
 ## Usage
 
 ```ts
 import express from "express";
-import { responsa, errorHandler, ApiError, notFound } from "@mr-aftab-ahmad-khan/responsa";
+import { responsa, errorHandler, ApiError, notFound } from "responsa";
 
 const app = express();
 app.use(express.json());
@@ -96,7 +96,7 @@ app.use(errorHandler());
 import {
   ApiError, badRequest, unauthorized, forbidden,
   notFound, conflict, unprocessable, tooManyRequests, internal,
-} from "@mr-aftab-ahmad-khan/responsa";
+} from "responsa";
 ```
 
 Each helper returns an `ApiError` with the right status, default error code, and exposure flag.

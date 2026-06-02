@@ -15,7 +15,7 @@ Auto-generate React state management from APIs.
 ## Example
 
 ```ts
-import { reactstatex } from "@mr-aftab-ahmad-khan/reactstatex";
+import { reactstatex } from "reactstatex";
 
 reactstatex.create("/products");
 ```

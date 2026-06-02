@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/relatik",
+  "name": "relatik",
   "version": "0.1.0",
   "description": "relatik — Auto CRUD relationship engine: Express routers from Mongo-style adapters with pagination, filter/search parsing, population, soft deletes, and Zod validation.",
   "license": "MIT",

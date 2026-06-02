@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/rulemesh",
+  "name": "rulemesh",
   "version": "0.1.0",
   "description": "rulemesh — Background automation rules: declarative when/event handlers with optional matchers, async actions, and central emit for onboarding and billing hooks.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/syncora",
+  "name": "syncora",
   "version": "0.1.3",
   "description": "Realtime MERN sync engine. Subscribe to MongoDB collections from React with optimistic updates, automatic websocket transport, and a pluggable backing store.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/formbridge",
+  "name": "formbridge",
   "version": "0.1.0",
   "description": "formbridge — Form-to-backend connector: share Zod schemas between UI and API, normalize field errors, and keep submit payloads aligned.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/validora",
+  "name": "validora",
   "version": "0.1.0",
   "description": "Zod-powered Express body/query validation middleware — one schema shape for APIs.",
   "license": "MIT",

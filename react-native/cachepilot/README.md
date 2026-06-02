@@ -18,7 +18,7 @@ Automatically cache APIs and database queries intelligently.
 ## Example
 
 ```ts
-import { cachepilot } from "@mr-aftab-ahmad-khan/cachepilot";
+import { cachepilot } from "cachepilot";
 
 export const getProducts = cachepilot.wrap(async () => fetchProducts());
 ```

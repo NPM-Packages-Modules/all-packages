@@ -18,7 +18,7 @@ Automatically optimize MongoDB indexing strategies.
 ## Example
 
 ```ts
-import { mongoforge } from "@mr-aftab-ahmad-khan/mongoforge";
+import { mongoforge } from "mongoforge";
 
 await mongoforge.optimize();
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/datamorph",
+  "name": "datamorph",
   "version": "0.1.0",
   "description": "Transform API/database data automatically through pipelines.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/policyflow",
+  "name": "policyflow",
   "version": "0.1.0",
   "description": "policyflow — Auto permission / RBAC helper: role hierarchy, route guards, and simple action strings (`users.read`) for Express APIs.",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/modulify",
+  "name": "modulify",
   "version": "0.1.0",
   "description": "modulify — Express modularizer: auto-load route modules from a folder, mount routers, and keep large apps structured by convention.",
   "license": "MIT",

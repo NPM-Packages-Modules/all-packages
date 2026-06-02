@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/plugstack",
+  "name": "plugstack",
   "version": "0.1.0",
   "description": "plugstack — Plugin registry with async init hooks.",
   "license": "MIT",

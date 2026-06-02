@@ -18,7 +18,7 @@ Visual distributed tracing for MERN applications.
 ## Example
 
 ```ts
-import { stacktracex } from "@mr-aftab-ahmad-khan/stacktracex";
+import { stacktracex } from "stacktracex";
 
 stacktracex.track(app);
 ```

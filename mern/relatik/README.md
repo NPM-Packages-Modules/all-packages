@@ -9,14 +9,14 @@ Generate production-oriented REST routers from a small adapter: **relationship s
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/relatik express zod
+npm install relatik express zod
 ```
 
 ## Usage
 
 ```typescript
 import express from "express";
-import { createRelatikRouter, type CrudAdapter, type ParsedListParams } from "@mr-aftab-ahmad-khan/relatik";
+import { createRelatikRouter, type CrudAdapter, type ParsedListParams } from "relatik";
 
 const adapter: CrudAdapter<{ _id: string; name: string; userId: string }> = {
   async list(params: ParsedListParams) {

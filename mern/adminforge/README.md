@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/adminforge
+npm install adminforge
 ```
 
 ## Example
 
 ```typescript
-import { adminModel, buildAdminManifest } from "@mr-aftab-ahmad-khan/adminforge";
+import { adminModel, buildAdminManifest } from "adminforge";
 
 const manifest = buildAdminManifest([
   adminModel({

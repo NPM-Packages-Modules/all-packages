@@ -7,14 +7,14 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/formbridge zod
+npm install formbridge zod
 ```
 
 ## Example
 
 ```typescript
 import { z } from "zod";
-import { formbridge } from "@mr-aftab-ahmad-khan/formbridge";
+import { formbridge } from "formbridge";
 
 const signup = z.object({
   email: z.string().email(),

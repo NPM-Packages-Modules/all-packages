@@ -18,7 +18,7 @@ Automatically generate MongoDB schema migrations.
 ## Example
 
 ```ts
-import { schemashift } from "@mr-aftab-ahmad-khan/schemashift";
+import { schemashift } from "schemashift";
 
 await schemashift.generate();
 ```

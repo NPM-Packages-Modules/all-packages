@@ -13,7 +13,7 @@ async function main() {
     sf.register("noop", () => {});
     await sf.runAll({ seed, log: () => {} });
     console.log(pc.green("seedforge"), "completed with seed", seed);
-    console.log(pc.cyan("Tip:"), "import { seedforge } from \"@mr-aftab-ahmad-khan/seedforge\" and register your own dataset seeds.");
+    console.log(pc.cyan("Tip:"), "import { seedforge } from \"seedforge\" and register your own dataset seeds.");
     return;
   }
 

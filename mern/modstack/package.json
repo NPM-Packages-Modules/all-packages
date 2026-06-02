@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/modstack",
+  "name": "modstack",
   "version": "0.1.0",
   "description": "modstack — Load `*.plugin.js` modules from a directory via dynamic import.",
   "license": "MIT",

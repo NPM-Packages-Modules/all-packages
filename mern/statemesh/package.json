@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/statemesh",
+  "name": "statemesh",
   "version": "0.1.0",
   "description": "statemesh — Minimal finite state machine with transitions.",
   "license": "MIT",

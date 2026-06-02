@@ -6,7 +6,7 @@
 
 ```ts
 import express from "express";
-import { versionpress, stripVersionPrefix } from "@mr-aftab-ahmad-khan/versionpress";
+import { versionpress, stripVersionPrefix } from "versionpress";
 
 app.use(versionpress({ defaultVersion: "2", warnIfLte: "1" }));
 app.use("/v1", stripVersionPrefix("/v1"), v1Router);

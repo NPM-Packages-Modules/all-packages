@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/rulemesh
+npm install rulemesh
 ```
 
 ## Example
 
 ```typescript
-import { ruleMesh } from "@mr-aftab-ahmad-khan/rulemesh";
+import { ruleMesh } from "rulemesh";
 
 type Ctx = { userId: string; email: string; plan: string };
 

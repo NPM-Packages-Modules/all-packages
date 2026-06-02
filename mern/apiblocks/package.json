@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/apiblocks",
+  "name": "apiblocks",
   "version": "0.1.0",
   "description": "apiblocks — Smart API composition: reusable Express blocks (pagination, search, etc.) merge into one middleware chain and router setup.",
   "license": "MIT",

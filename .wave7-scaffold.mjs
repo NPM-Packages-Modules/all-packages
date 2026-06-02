@@ -39,7 +39,7 @@ function mk(dir) {
 
 function pkg(p) {
   const j = {
-    name: `@mr-aftab-ahmad-khan/${p.n}`,
+    name: `${p.n}`,
     version: "0.1.0",
     description: p.d,
     license: "MIT",

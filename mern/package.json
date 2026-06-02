@@ -1,7 +1,7 @@
 {
-  "name": "@mr-aftab-ahmad-khan/mern-monorepo",
+  "name": "mern-monorepo",
   "private": true,
-  "description": "MERN npm monorepo — Express, MongoDB, and Node.js packages (@mr-aftab-ahmad-khan/*).",
+  "description": "MERN npm monorepo — Express, MongoDB, and Node.js packages (*).",
   "license": "MIT",
   "engines": {
     "node": ">=18"

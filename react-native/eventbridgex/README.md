@@ -18,7 +18,7 @@ Unified event-driven communication layer for MERN services.
 ## Example
 
 ```ts
-import { eventbridgex } from "@mr-aftab-ahmad-khan/eventbridgex";
+import { eventbridgex } from "eventbridgex";
 
 await eventbridgex.emit("order.created", { id: "42" });
 ```

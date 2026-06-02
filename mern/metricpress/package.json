@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/metricpress",
+  "name": "metricpress",
   "version": "0.1.0",
   "description": "metricpress — Express middleware collecting per-route timings + status counts.",
   "license": "MIT",

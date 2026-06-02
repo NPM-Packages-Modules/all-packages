@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/apilifecycle",
+  "name": "apilifecycle",
   "version": "0.1.0",
   "description": "apilifecycle — Deprecation and version gate middleware for Express.",
   "license": "MIT",

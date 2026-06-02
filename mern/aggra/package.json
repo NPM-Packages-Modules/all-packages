@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/aggra",
+  "name": "aggra",
   "version": "0.1.0",
   "description": "aggra — Mongo aggregation builder: chain $match, $lookup, $group, and friends into typed stage arrays without losing readability.",
   "license": "MIT",

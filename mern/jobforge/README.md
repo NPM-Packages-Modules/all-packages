@@ -5,7 +5,7 @@
 Small **background job** helper for Node: **retries**, **backoff**, **delay**, **fixed intervals**, and a **`monitoring()`** snapshot so you can build your own dashboard later.
 
 ```ts
-import { JobForge } from "@mr-aftab-ahmad-khan/jobforge";
+import { JobForge } from "jobforge";
 
 const jobs = new JobForge();
 jobs.schedule("emails", () => sendEmails(), {

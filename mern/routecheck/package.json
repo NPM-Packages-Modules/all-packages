@@ -1,5 +1,5 @@
 {
-  "name": "@mr-aftab-ahmad-khan/routecheck",
+  "name": "routecheck",
   "version": "0.1.0",
   "description": "Express route discovery and starter API tests, CLI-first MERN workflow.",
   "license": "MIT",

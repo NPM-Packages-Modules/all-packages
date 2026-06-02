@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install @mr-aftab-ahmad-khan/workflowmesh
+npm install workflowmesh
 ```
 
 ## Example
 
 ```typescript
-import { workflowMesh } from "@mr-aftab-ahmad-khan/workflowmesh";
+import { workflowMesh } from "workflowmesh";
 
 type Ctx = { userId: string; invoiceId?: string };
 
