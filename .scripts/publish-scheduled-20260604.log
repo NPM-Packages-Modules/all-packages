@@ -582,3 +582,168 @@ npm notice total files: 14
 npm notice
 npm error You cannot publish over the previously published versions: 0.2.0.
 npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_17_14_221Z-debug-0.log
+
+> queueflowkit@0.2.0 prepublishOnly
+> npm run build
+
+
+> queueflowkit@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/queueflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.61 KB
+CJS dist/index.cjs.map 1.09 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     612.00 B
+ESM dist/index.js.map 1.04 KB
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 2437ms
+DTS dist/index.d.ts  267.00 B
+DTS dist/index.d.cts 267.00 B
+npm notice
+npm notice package: queueflowkit@0.2.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 307B README.md
+npm notice 1.7kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 267B dist/index.d.cts
+npm notice 267B dist/index.d.ts
+npm notice 612B dist/index.js
+npm notice 1.1kB dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: queueflowkit
+npm notice version: 0.2.0
+npm notice filename: queueflowkit-0.2.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.8 kB
+npm notice shasum: fddf8526b97d3b07d190cbceb38b230c70796fd2
+npm notice integrity: sha512-DU0HDPi6pBX3o[...]1az6lp+yvxIiA==
+npm notice total files: 10
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_27_31_140Z-debug-0.log
+
+> reactstatemesh@0.2.0 prepublishOnly
+> npm run build
+
+
+> reactstatemesh@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/reactstatex/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     158.00 B
+ESM dist/index.js.map 387.00 B
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     1.14 KB
+CJS dist/index.cjs.map 431.00 B
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 836ms
+DTS dist/index.d.ts  209.00 B
+DTS dist/index.d.cts 209.00 B
+npm notice
+npm notice package: reactstatemesh@0.2.0
+npm notice Tarball Contents
+npm notice 51B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 494B README.md
+npm notice 1.2kB dist/index.cjs
+npm notice 431B dist/index.cjs.map
+npm notice 209B dist/index.d.cts
+npm notice 209B dist/index.d.ts
+npm notice 158B dist/index.js
+npm notice 387B dist/index.js.map
+npm notice 1.6kB package.json
+npm notice Tarball Details
+npm notice name: reactstatemesh
+npm notice version: 0.2.0
+npm notice filename: reactstatemesh-0.2.0.tgz
+npm notice package size: 2.5 kB
+npm notice unpacked size: 5.8 kB
+npm notice shasum: 2574ce5a08e7c17608488f3482df8d0dad11fb03
+npm notice integrity: sha512-MTjkYrHu2/ElM[...]2LgkIuRjuUb/Q==
+npm notice total files: 10
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_32_42_726Z-debug-0.log
+
+> testforgekit@0.2.0 prepublishOnly
+> npm run build
+
+
+> testforgekit@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/testforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     117.00 B
+ESM dist/cli.js       652.00 B
+ESM dist/cli.js.map   1.08 KB
+ESM dist/index.js.map 184.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/cli.cjs       1.92 KB
+CJS dist/index.cjs     1.10 KB
+CJS dist/cli.cjs.map   1.11 KB
+CJS dist/index.cjs.map 228.00 B
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 915ms
+DTS dist/index.d.ts  81.00 B
+DTS dist/index.d.cts 81.00 B
+npm warn package-json testforgekit@0.2.0 No bin file found at testforgekit.cjs
+npm warn package-json testforgekit@0.2.0 No bin file found at testforgekit.cjs
+npm warn package-json testforgekit@0.2.0 No bin file found at testforgekit.cjs
+npm warn package-json testforgekit@0.2.0 No bin file found at testforgekit.cjs
+npm notice
+npm notice package: testforgekit@0.2.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 315B README.md
+npm notice 2.0kB dist/cli.cjs
+npm notice 1.1kB dist/cli.cjs.map
+npm notice 652B dist/cli.js
+npm notice 1.1kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 228B dist/index.cjs.map
+npm notice 81B dist/index.d.cts
+npm notice 81B dist/index.d.ts
+npm notice 117B dist/index.js
+npm notice 184B dist/index.js.map
+npm notice 1.6kB package.json
+npm notice Tarball Details
+npm notice name: testforgekit
+npm notice version: 0.2.0
+npm notice filename: testforgekit-0.2.0.tgz
+npm notice package size: 3.5 kB
+npm notice unpacked size: 9.7 kB
+npm notice shasum: b69a1bfe65eb965fe46c746988c76425b47b8914
+npm notice integrity: sha512-t1UkK6oeRSMPe[...]i85UENokqBEXw==
+npm notice total files: 14
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_37_51_972Z-debug-0.log
