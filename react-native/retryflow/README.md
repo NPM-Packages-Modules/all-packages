@@ -1,6 +1,6 @@
-# retryflow
+# retryflowkit
 
-**Topics:** `circuit-breaker` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `resilience` · `retry` · `retryflow` · `typescript`
+**Topics:** `circuit-breaker` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `resilience` · `retry` · `retryflowkit` · `typescript`
 
 **React Native** library.
 
@@ -18,9 +18,9 @@ Manage retries and fault tolerance automatically.
 ## Example
 
 ```ts
-import { retryflow } from "retryflow";
+import { retryflowkit } from "retryflowkit";
 
-await retryflow.wrap(sendEmail)();
+await retryflowkit.wrap(sendEmail)();
 ```
 
 ## Why it matters

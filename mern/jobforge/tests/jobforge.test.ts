@@ -1,7 +1,7 @@
 import { describe, expect, it, vi } from "vitest";
 import { JobForge } from "../src/index.js";
 
-describe("jobforge", () => {
+describe("jobforgekit", () => {
   it("runs delayed job", async () => {
     const jf = new JobForge();
     const fn = vi.fn();

@@ -1,7 +1,7 @@
 {
-  "name": "duoapi",
+  "name": "apiduo",
   "version": "0.2.0",
-  "description": "duoapi — Dual API engine: one Zod resource → GraphQL SDL stub + REST base path metadata.",
+  "description": "apiduo — Dual API engine: one Zod resource → GraphQL SDL stub + REST base path metadata.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -28,7 +28,7 @@
   },
   "keywords": [
     "api",
-    "duoapi",
+    "apiduo",
     "graphql",
     "mern-packages",
     "merndev",
@@ -52,12 +52,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "duoapi"
+    "directory": "apiduo"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/duoapi",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/apiduo",
   "publishConfig": {
     "access": "public"
   },

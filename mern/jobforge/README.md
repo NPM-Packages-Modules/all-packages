@@ -1,11 +1,11 @@
-# jobforge
+# jobforgekit
 
-**Topics:** `cron` · `jobforge` · `jobs` · `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `queue` · `retry` · `typescript` · `worker`
+**Topics:** `cron` · `jobforgekit` · `jobs` · `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `queue` · `retry` · `typescript` · `worker`
 
 Small **background job** helper for Node: **retries**, **backoff**, **delay**, **fixed intervals**, and a **`monitoring()`** snapshot so you can build your own dashboard later.
 
 ```ts
-import { JobForge } from "jobforge";
+import { JobForge } from "jobforgekit";
 
 const jobs = new JobForge();
 jobs.schedule("emails", () => sendEmails(), {

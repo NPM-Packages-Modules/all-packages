@@ -6,7 +6,7 @@
     "nodejs",
     "npm-pm",
     "observability",
-    "testforge",
+    "testforgekit",
     "testing",
     "typescript",
     "vitest"

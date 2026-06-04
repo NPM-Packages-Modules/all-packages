@@ -1,6 +1,6 @@
-# reactstatex
+# reactstatemesh
 
-**Topics:** `express` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `reactstatex` · `typescript`
+**Topics:** `express` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `reactstatemesh` · `typescript`
 
 Auto-generate React state management from APIs.
 
@@ -15,9 +15,9 @@ Auto-generate React state management from APIs.
 ## Example
 
 ```ts
-import { reactstatex } from "reactstatex";
+import { reactstatemesh } from "reactstatemesh";
 
-reactstatex.create("/products");
+reactstatemesh.create("/products");
 ```
 
 ## Why

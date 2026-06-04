@@ -7,7 +7,7 @@
     "npm-pm",
     "observability",
     "queue",
-    "queueflow",
+    "queueflowkit",
     "typescript",
     "workflow"
   ]

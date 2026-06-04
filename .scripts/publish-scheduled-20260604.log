@@ -1,0 +1,584 @@
+=== npm publish scheduled run 2026-06-04T22:00:02+05:00 ===
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 12 · This run: 12 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> jobforge@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 1095ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+
+> lesscode@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs.map   2.03 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 11ms
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js     109.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 746ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+
+> perfstack@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/perfstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     16.27 KB
+CJS dist/index.cjs.map 29.82 KB
+CJS ⚡️ Build success in 14ms
+ESM dist/index.js     14.88 KB
+ESM dist/index.js.map 29.74 KB
+ESM ⚡️ Build success in 14ms
+DTS Build start
+src/profiler.ts(105,5): error TS2322: Type 'number' is not assignable to type 'Timeout'.
+src/profiler.ts(106,16): error TS2532: Object is possibly 'undefined'.
+src/profiler.ts(106,58): error TS2532: Object is possibly 'undefined'.
+
+Error: error occurred in dts build
+    at Worker.<anonymous> (/Users/aftabahmadkhan/Github/Personal/NPM/node_modules/tsup/dist/index.js:1545:26)
+    at Worker.emit (node:events:508:28)
+    at MessagePort.<anonymous> (node:internal/worker:333:53)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:845:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+DTS Build error
+npm error Lifecycle script `build` failed with error:
+npm error code 1
+npm error path /Users/aftabahmadkhan/Github/Personal/NPM/mern/perfstack
+npm error workspace perfstack@0.2.0
+npm error location /Users/aftabahmadkhan/Github/Personal/NPM/mern/perfstack
+npm error command failed
+npm error command sh -c tsup
+
+> queueflow@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/queueflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     603.00 B
+ESM dist/index.js.map 1.03 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.60 KB
+CJS dist/index.cjs.map 1.08 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 660ms
+DTS dist/index.d.ts  261.00 B
+DTS dist/index.d.cts 261.00 B
+
+> reactstatex@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/reactstatex/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     149.00 B
+ESM dist/index.js.map 375.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.13 KB
+CJS dist/index.cjs.map 419.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 682ms
+DTS dist/index.d.ts  200.00 B
+DTS dist/index.d.cts 200.00 B
+
+> testforge@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/testforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       1.91 KB
+CJS dist/index.cjs     1.09 KB
+CJS dist/cli.cjs.map   1.11 KB
+CJS dist/index.cjs.map 225.00 B
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     111.00 B
+ESM dist/cli.js       649.00 B
+ESM dist/index.js.map 181.00 B
+ESM dist/cli.js.map   1.08 KB
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 688ms
+DTS dist/index.d.ts  75.00 B
+DTS dist/index.d.cts 75.00 B
+
+> retryflow@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/retryflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     113.00 B
+ESM dist/index.js.map 236.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.09 KB
+CJS dist/index.cjs.map 280.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 704ms
+DTS dist/index.d.ts  113.00 B
+DTS dist/index.d.cts 113.00 B
+
+> routeforgex@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/routeforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.14 KB
+CJS dist/index.cjs.map 473.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     164.00 B
+ESM dist/index.js.map 429.00 B
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 748ms
+DTS dist/index.d.ts  242.00 B
+DTS dist/index.d.cts 242.00 B
+
+> schemashift@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/schemashift/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     3.71 KB
+CJS dist/cli.cjs       4.19 KB
+CJS dist/cli.cjs.map   6.91 KB
+CJS dist/index.cjs.map 5.47 KB
+CJS ⚡️ Build success in 13ms
+ESM dist/cli.js                978.00 B
+ESM dist/index.js              334.00 B
+ESM dist/chunk-EPML4IUT.js     2.50 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/chunk-EPML4IUT.js.map 5.39 KB
+ESM dist/cli.js.map            1.72 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 1312ms
+DTS dist/cli.d.ts    13.00 B
+DTS dist/index.d.ts  1.38 KB
+DTS dist/cli.d.cts   13.00 B
+DTS dist/index.d.cts 1.38 KB
+
+> secureflow@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/secureflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     150.00 B
+ESM dist/index.js.map 367.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.13 KB
+CJS dist/index.cjs.map 411.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 1052ms
+DTS dist/index.d.ts  205.00 B
+DTS dist/index.d.cts 205.00 B
+
+> socketmeshx@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/socketmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     214.00 B
+ESM dist/index.js.map 410.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     1.19 KB
+CJS dist/index.cjs.map 454.00 B
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 776ms
+DTS dist/index.d.ts  176.00 B
+DTS dist/index.d.cts 176.00 B
+
+> stacktracex@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/stacktracex/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.22 KB
+CJS dist/index.cjs.map 515.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     217.00 B
+ESM dist/index.js.map 466.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 742ms
+DTS dist/index.d.ts  242.00 B
+DTS dist/index.d.cts 242.00 B
+
+> jobforge@0.2.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 1184ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice package: jobforge@0.2.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.2.0
+npm notice filename: jobforge-0.2.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 194283523eaeaa17e356c33c6113c435c87e2d24
+npm notice integrity: sha512-ALp5MB1EnIGUW[...]Ovw4vrFDnNbAw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_02_54_680Z-debug-0.log
+
+> jobforge@0.2.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 968ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice package: jobforge@0.2.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.2.0
+npm notice filename: jobforge-0.2.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 194283523eaeaa17e356c33c6113c435c87e2d24
+npm notice integrity: sha512-ALp5MB1EnIGUW[...]Ovw4vrFDnNbAw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_04_30_717Z-debug-0.log
+
+> jobforge@0.2.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 14ms
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 829ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice package: jobforge@0.2.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.2.0
+npm notice filename: jobforge-0.2.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 194283523eaeaa17e356c33c6113c435c87e2d24
+npm notice integrity: sha512-ALp5MB1EnIGUW[...]Ovw4vrFDnNbAw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_07_35_981Z-debug-0.log
+
+> jobforgekit@0.2.0 prepublishOnly
+> npm run build
+
+
+> jobforgekit@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.79 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 14ms
+ESM dist/index.js     1.78 KB
+ESM dist/index.js.map 4.17 KB
+ESM ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 827ms
+DTS dist/index.d.ts  857.00 B
+DTS dist/index.d.cts 857.00 B
+npm notice
+npm notice package: jobforgekit@0.2.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 704B README.md
+npm notice 2.9kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 857B dist/index.d.cts
+npm notice 857B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforgekit
+npm notice version: 0.2.0
+npm notice filename: jobforgekit-0.2.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.9 kB
+npm notice shasum: 95a8cd5c239bbd9b828791e6f272edbececa532a
+npm notice integrity: sha512-TKSGGXAzFxfSz[...]Ag5jZ+3p7Y53A==
+npm notice total files: 10
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_12_10_682Z-debug-0.log
+
+> lesscodekit@0.2.0 prepublishOnly
+> npm run build
+
+
+> lesscodekit@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       2.43 KB
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 227.00 B
+CJS dist/cli.cjs.map   2.03 KB
+CJS ⚡️ Build success in 11ms
+ESM dist/index.js     115.00 B
+ESM dist/cli.js       1.10 KB
+ESM dist/index.js.map 183.00 B
+ESM dist/cli.js.map   1.99 KB
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 1013ms
+DTS dist/index.d.ts  79.00 B
+DTS dist/index.d.cts 79.00 B
+npm warn package-json lesscodekit@0.2.0 No bin file found at lesscodekit.cjs
+npm warn package-json lesscodekit@0.2.0 No bin file found at lesscodekit.cjs
+npm warn package-json lesscodekit@0.2.0 No bin file found at lesscodekit.cjs
+npm warn package-json lesscodekit@0.2.0 No bin file found at lesscodekit.cjs
+npm notice
+npm notice package: lesscodekit@0.2.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 267B README.md
+npm notice 2.5kB dist/cli.cjs
+npm notice 2.1kB dist/cli.cjs.map
+npm notice 1.1kB dist/cli.js
+npm notice 2.0kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 227B dist/index.cjs.map
+npm notice 79B dist/index.d.cts
+npm notice 79B dist/index.d.ts
+npm notice 115B dist/index.js
+npm notice 183B dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: lesscodekit
+npm notice version: 0.2.0
+npm notice filename: lesscodekit-0.2.0.tgz
+npm notice package size: 4.0 kB
+npm notice unpacked size: 12.5 kB
+npm notice shasum: 8013a67e17b4abbe3048ae056b3180cb7d92f007
+npm notice integrity: sha512-oK0wGwA0waQ0j[...]CGqS4go7of/Ew==
+npm notice total files: 14
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_17_14_221Z-debug-0.log

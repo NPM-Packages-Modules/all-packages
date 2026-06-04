@@ -1,8 +1,8 @@
 import { describe, it, expect } from "vitest";
-import { reactstatex } from "./index.js";
+import { reactstatemesh } from "./index.js";
 
-describe("reactstatex", () => {
+describe("reactstatemesh", () => {
   it("exports scaffold API", () => {
-    expect(reactstatex()).toEqual({ ok: true, package: "reactstatex" });
+    expect(reactstatemesh()).toEqual({ ok: true, package: "reactstatemesh" });
   });
 });

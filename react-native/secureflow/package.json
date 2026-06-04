@@ -1,5 +1,5 @@
 {
-  "name": "secureflow",
+  "name": "secureflowkit",
   "version": "0.2.0",
   "description": "Automate backend security middleware orchestration.",
   "license": "MIT",
@@ -36,7 +36,7 @@
     "rate-limiting",
     "react",
     "react-native",
-    "secureflow",
+    "secureflowkit",
     "security",
     "typescript",
     "xss"
@@ -71,12 +71,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "secureflow"
+    "directory": "secureflowkit"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/secureflow",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/secureflowkit",
   "publishConfig": {
     "access": "public"
   }

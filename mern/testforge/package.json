@@ -1,7 +1,7 @@
 {
-  "name": "testforge",
+  "name": "testforgekit",
   "version": "0.2.0",
-  "description": "testforge — CLI to emit a starter Vitest file (`npx testforge generate`).",
+  "description": "testforgekit — CLI to emit a starter Vitest file (`npx testforgekit generate`).",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -16,7 +16,7 @@
   },
   "files": [
     "dist",
-    "testforge.cjs",
+    "testforgekit.cjs",
     "README.md",
     "LICENSE",
     "CHANGELOG.md"
@@ -34,7 +34,7 @@
     "nodejs",
     "npm-pm",
     "observability",
-    "testforge",
+    "testforgekit",
     "testing",
     "typescript",
     "vitest"
@@ -52,17 +52,17 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "testforge"
+    "directory": "testforgekit"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/testforge",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/testforgekit",
   "publishConfig": {
     "access": "public"
   },
   "bin": {
-    "testforge": "testforge.cjs"
+    "testforgekit": "testforgekit.cjs"
   },
   "dependencies": {
     "picocolors": "^1.0.0"

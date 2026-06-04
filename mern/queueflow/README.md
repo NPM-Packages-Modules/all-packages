@@ -1,8 +1,8 @@
-# queueflow
+# queueflowkit
 
-**Topics:** `jobs` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `queue` · `queueflow` · `typescript` · `workflow`
+**Topics:** `jobs` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `queue` · `queueflowkit` · `typescript` · `workflow`
 
-queueflow — Map queue channel names to async handlers with retries. See `src/index.ts` for the public API surface.
+queueflowkit — Map queue channel names to async handlers with retries. See `src/index.ts` for the public API surface.
 
 ## License
 

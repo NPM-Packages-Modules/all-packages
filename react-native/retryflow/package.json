@@ -1,5 +1,5 @@
 {
-  "name": "retryflow",
+  "name": "retryflowkit",
   "version": "0.2.0",
   "description": "Manage retries and fault tolerance automatically.",
   "license": "MIT",
@@ -38,7 +38,7 @@
     "react-native",
     "resilience",
     "retry",
-    "retryflow",
+    "retryflowkit",
     "typescript"
   ],
   "dependencies": {},
@@ -71,12 +71,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "retryflow"
+    "directory": "retryflowkit"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/retryflow",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/retryflowkit",
   "publishConfig": {
     "access": "public"
   }

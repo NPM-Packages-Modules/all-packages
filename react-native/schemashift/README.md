@@ -1,6 +1,6 @@
-# schemashift
+# schemashiftkit
 
-**Topics:** `cli` · `mern-packages` · `merndev` · `migration` · `mobile` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `schema` · `schemashift` · `typescript`
+**Topics:** `cli` · `mern-packages` · `merndev` · `migration` · `mobile` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `schema` · `schemashiftkit` · `typescript`
 
 **React Native** library.
 
@@ -18,9 +18,9 @@ Automatically generate MongoDB schema migrations.
 ## Example
 
 ```ts
-import { schemashift } from "schemashift";
+import { schemashiftkit } from "schemashiftkit";
 
-await schemashift.generate();
+await schemashiftkit.generate();
 ```
 
 ## Why it matters

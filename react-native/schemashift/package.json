@@ -1,5 +1,5 @@
 {
-  "name": "schemashift",
+  "name": "schemashiftkit",
   "version": "0.2.0",
   "description": "Automatically generate MongoDB schema migrations.",
   "license": "MIT",
@@ -8,7 +8,7 @@
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
-    "schemashift": "schemashift.cjs"
+    "schemashiftkit": "schemashiftkit.cjs"
   },
   "exports": {
     ".": {
@@ -19,7 +19,7 @@
   },
   "files": [
     "dist",
-    "schemashift.cjs",
+    "schemashiftkit.cjs",
     "README.md",
     "LICENSE",
     "CHANGELOG.md"
@@ -43,7 +43,7 @@
     "react",
     "react-native",
     "schema",
-    "schemashift",
+    "schemashiftkit",
     "typescript"
   ],
   "dependencies": {
@@ -66,12 +66,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "schemashift"
+    "directory": "schemashiftkit"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/schemashift",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/schemashiftkit",
   "publishConfig": {
     "access": "public"
   },

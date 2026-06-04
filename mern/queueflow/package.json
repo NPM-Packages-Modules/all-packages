@@ -1,7 +1,7 @@
 {
-  "name": "queueflow",
+  "name": "queueflowkit",
   "version": "0.2.0",
-  "description": "queueflow — Map queue channel names to async handlers with retries.",
+  "description": "queueflowkit — Map queue channel names to async handlers with retries.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -34,7 +34,7 @@
     "npm-pm",
     "observability",
     "queue",
-    "queueflow",
+    "queueflowkit",
     "typescript",
     "workflow"
   ],
@@ -51,12 +51,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "queueflow"
+    "directory": "queueflowkit"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/queueflow",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/queueflowkit",
   "publishConfig": {
     "access": "public"
   }

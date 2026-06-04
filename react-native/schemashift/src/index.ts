@@ -83,4 +83,4 @@ export async function generate(): Promise<{ ok: true; plan: string }> {
   return { ok: true, plan: formatMigrationPlan({ addedPaths: [], removedPaths: [], typeChanges: [] }) };
 }
 
-export const schemashift = { generate, diffSampleDocuments, migrationHealthScore, formatMigrationPlan };
+export const schemashiftkit = { generate, diffSampleDocuments, migrationHealthScore, formatMigrationPlan };

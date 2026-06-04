@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { diffSampleDocuments, migrationHealthScore } from "../src/index.js";
 
-describe("schemashift", () => {
+describe("schemashiftkit", () => {
   it("detects removals and type changes", () => {
     const d = diffSampleDocuments({ a: 1, b: { c: "x" } }, { a: "1", b: { c: "x", d: 1 } });
     expect(d.removedPaths).toEqual([]);

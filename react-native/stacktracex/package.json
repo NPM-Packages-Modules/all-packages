@@ -1,5 +1,5 @@
 {
-  "name": "stacktracex",
+  "name": "stacktracekit",
   "version": "0.2.0",
   "description": "Visual distributed tracing for MERN applications.",
   "license": "MIT",
@@ -37,7 +37,7 @@
     "observability",
     "react",
     "react-native",
-    "stacktracex",
+    "stacktracekit",
     "tracing",
     "typescript"
   ],
@@ -71,12 +71,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/react-native.git",
-    "directory": "stacktracex"
+    "directory": "stacktracekit"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/react-native/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/stacktracex",
+  "homepage": "https://github.com/NPM-Packages-Modules/react-native/tree/main/stacktracekit",
   "publishConfig": {
     "access": "public"
   }

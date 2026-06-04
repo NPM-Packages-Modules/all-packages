@@ -1,8 +1,8 @@
 import { describe, it, expect } from "vitest";
-import { secureflow } from "./index.js";
+import { secureflowkit } from "./index.js";
 
-describe("secureflow", () => {
+describe("secureflowkit", () => {
   it("exports scaffold API", () => {
-    expect(secureflow()).toEqual({ ok: true, package: "secureflow" });
+    expect(secureflowkit()).toEqual({ ok: true, package: "secureflowkit" });
   });
 });

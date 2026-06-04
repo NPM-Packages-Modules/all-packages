@@ -1,1 +1,1 @@
-export const lesscode = { version: "0.1.0" as const };
+export const lesscodekit = { version: "0.1.0" as const };

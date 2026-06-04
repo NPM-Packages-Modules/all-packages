@@ -1,6 +1,6 @@
-# secureflow
+# secureflowkit
 
-**Topics:** `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `rate-limiting` · `react` · `react-native` · `secureflow` · `security` · `typescript` · `xss`
+**Topics:** `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `rate-limiting` · `react` · `react-native` · `secureflowkit` · `security` · `typescript` · `xss`
 
 **React Native** library.
 
@@ -18,9 +18,9 @@ Automate backend security middleware orchestration.
 ## Example
 
 ```ts
-import { secureflow } from "secureflow";
+import { secureflowkit } from "secureflowkit";
 
-secureflow.protect(app);
+secureflowkit.protect(app);
 ```
 
 ## Why it matters

@@ -1,7 +1,7 @@
 {
-  "name": "lesscode",
+  "name": "lesscodekit",
   "version": "0.2.0",
-  "description": "lesscode — Boilerplate CLI: scan files for Express-style `.get/.use` usage.",
+  "description": "lesscodekit — Boilerplate CLI: scan files for Express-style `.get/.use` usage.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -16,7 +16,7 @@
   },
   "files": [
     "dist",
-    "lesscode.cjs",
+    "lesscodekit.cjs",
     "README.md",
     "LICENSE",
     "CHANGELOG.md"
@@ -30,7 +30,7 @@
   "keywords": [
     "cli",
     "express",
-    "lesscode",
+    "lesscodekit",
     "mern-packages",
     "merndev",
     "nodejs",
@@ -51,17 +51,17 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "lesscode"
+    "directory": "lesscodekit"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/lesscode",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/lesscodekit",
   "publishConfig": {
     "access": "public"
   },
   "bin": {
-    "lesscode": "lesscode.cjs"
+    "lesscodekit": "lesscodekit.cjs"
   },
   "dependencies": {
     "picocolors": "^1.0.0"

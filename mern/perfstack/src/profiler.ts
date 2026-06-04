@@ -28,7 +28,7 @@ export class Profiler {
   private totalRequests = 0;
   private totalErrors = 0;
   private totalQueries = 0;
-  private memoryInterval?: NodeJS.Timeout;
+  private memoryInterval?: ReturnType<typeof setInterval>;
   readonly tracer: Tracer;
   private opts: Required<Pick<
     PerfstackOptions,
@@ -102,8 +102,9 @@ export class Profiler {
   startMemorySampling(): void {
     if (this.memoryInterval) return;
     this.takeMemorySample();
-    this.memoryInterval = setInterval(() => this.takeMemorySample(), this.opts.memorySampleIntervalMs);
-    if (typeof this.memoryInterval.unref === "function") this.memoryInterval.unref();
+    const interval = setInterval(() => this.takeMemorySample(), this.opts.memorySampleIntervalMs);
+    (interval as { unref?: () => void }).unref?.();
+    this.memoryInterval = interval;
   }
 
   stopMemorySampling(): void {

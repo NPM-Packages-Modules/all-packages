@@ -1,6 +1,6 @@
-# stacktracex
+# stacktracekit
 
-**Topics:** `debugging` · `distributed` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `stacktracex` · `tracing` · `typescript`
+**Topics:** `debugging` · `distributed` · `mern-packages` · `merndev` · `mobile` · `nodejs` · `npm-pm` · `observability` · `react` · `react-native` · `stacktracekit` · `tracing` · `typescript`
 
 **React Native** library.
 
@@ -18,9 +18,9 @@ Visual distributed tracing for MERN applications.
 ## Example
 
 ```ts
-import { stacktracex } from "stacktracex";
+import { stacktracekit } from "stacktracekit";
 
-stacktracex.track(app);
+stacktracekit.track(app);
 ```
 
 ## Why it matters

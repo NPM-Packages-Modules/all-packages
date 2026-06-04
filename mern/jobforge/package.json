@@ -1,5 +1,5 @@
 {
-  "name": "jobforge",
+  "name": "jobforgekit",
   "version": "0.2.0",
   "description": "Background jobs with retries, backoff, schedules, and monitoring hooks for Node.",
   "license": "MIT",
@@ -28,7 +28,7 @@
   },
   "keywords": [
     "cron",
-    "jobforge",
+    "jobforgekit",
     "jobs",
     "mern",
     "mern-packages",
@@ -55,12 +55,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
-    "directory": "jobforge"
+    "directory": "jobforgekit"
   },
   "bugs": {
     "url": "https://github.com/NPM-Packages-Modules/mern/issues"
   },
-  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/jobforge",
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/jobforgekit",
   "publishConfig": {
     "access": "public"
   }

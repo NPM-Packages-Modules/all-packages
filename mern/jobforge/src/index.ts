@@ -94,6 +94,6 @@ export class JobForge {
   }
 }
 
-export function jobforge(): JobForge {
+export function jobforgekit(): JobForge {
   return new JobForge();
 }

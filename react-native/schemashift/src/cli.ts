@@ -4,8 +4,8 @@ import { diffSampleDocuments, formatMigrationPlan, migrationHealthScore } from "
 
 function usage(): never {
   console.error(`Usage:
-  schemashift generate <before.json> <after.json>
-  schemashift score <before.json> <after.json>`);
+  schemashiftkit generate <before.json> <after.json>
+  schemashiftkit score <before.json> <after.json>`);
   process.exit(1);
 }
 

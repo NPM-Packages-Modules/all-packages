@@ -1,8 +1,8 @@
 import { describe, it, expect } from "vitest";
-import { retryflow } from "./index.js";
+import { retryflowkit } from "./index.js";
 
-describe("retryflow", () => {
+describe("retryflowkit", () => {
   it("exports scaffold API", () => {
-    expect(retryflow()).toEqual({ ok: true, package: "retryflow" });
+    expect(retryflowkit()).toEqual({ ok: true, package: "retryflowkit" });
   });
 });

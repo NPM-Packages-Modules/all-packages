@@ -1,8 +1,8 @@
 import { describe, it, expect } from "vitest";
-import { stacktracex } from "./index.js";
+import { stacktracekit } from "./index.js";
 
-describe("stacktracex", () => {
+describe("stacktracekit", () => {
   it("exports scaffold API", () => {
-    expect(stacktracex()).toEqual({ ok: true, package: "stacktracex" });
+    expect(stacktracekit()).toEqual({ ok: true, package: "stacktracekit" });
   });
 });
