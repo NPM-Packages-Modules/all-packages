@@ -1,6 +1,6 @@
 {
   "name": "picsmith",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Image optimization pipeline with on-the-fly resizing, AVIF and WebP conversion, smart cropping, and CDN-friendly caching for Node.js.",
   "license": "MIT",
   "type": "module",

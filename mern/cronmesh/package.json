@@ -1,6 +1,6 @@
 {
   "name": "cronmesh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "cronmesh — Named cron-style task registry (daily/hourly/manual) for scheduler glue.",
   "license": "MIT",
   "type": "module",

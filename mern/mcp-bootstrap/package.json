@@ -1,6 +1,6 @@
 {
   "name": "mcp-bootstrap",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Interactive scaffolder for Model Context Protocol servers with TypeScript templates, transport presets, and ready-to-publish tooling.",
   "license": "MIT",
   "type": "module",

@@ -1,6 +1,6 @@
 {
   "name": "promptmesh",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Production-grade prompt infrastructure: versioning, variables, caching, A/B testing, fallbacks, analytics, and provider-agnostic execution.",
   "license": "MIT",
   "type": "module",

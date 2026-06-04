@@ -1,6 +1,6 @@
 {
   "name": "modulifyx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "modulifyx — Express modularizer: auto-load route modules from a folder, mount routers, and keep large apps structured by convention.",
   "license": "MIT",
   "type": "module",

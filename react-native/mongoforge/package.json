@@ -1,6 +1,6 @@
 {
   "name": "mongoforge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Automatically optimize MongoDB indexing strategies.",
   "license": "MIT",
   "type": "module",

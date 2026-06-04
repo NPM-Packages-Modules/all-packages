@@ -1,6 +1,6 @@
 {
   "name": "responsax",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "API response standardization middleware for Express — typed envelopes, paginated lists, structured errors, and per-request trace IDs.",
   "license": "MIT",
   "type": "module",

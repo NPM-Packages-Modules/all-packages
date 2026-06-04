@@ -1,6 +1,6 @@
 {
   "name": "relatik",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "relatik — Auto CRUD relationship engine: Express routers from Mongo-style adapters with pagination, filter/search parsing, population, soft deletes, and Zod validation.",
   "license": "MIT",
   "type": "module",

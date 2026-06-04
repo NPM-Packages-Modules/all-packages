@@ -1,6 +1,6 @@
 {
   "name": "logicforge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "logicforge — Tiny numeric comparison rules from strings (e.g. order > 100) plus function predicates.",
   "license": "MIT",
   "type": "module",

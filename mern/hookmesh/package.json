@@ -1,6 +1,6 @@
 {
   "name": "hookmesh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Webhook helpers: HMAC-SHA256 verification, idempotency keys, and simple in-memory delivery records.",
   "license": "MIT",
   "type": "module",

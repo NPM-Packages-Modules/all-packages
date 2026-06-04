@@ -1,6 +1,6 @@
 {
-  "name": "sdkpress",
-  "version": "0.1.0",
+  "name": "sdkpressx",
+  "version": "0.2.0",
   "description": "sdkpress — SDK generator CLI: typed fetch stubs from OpenAPI path keys (`npx sdkpress generate`).",
   "license": "MIT",
   "type": "module",

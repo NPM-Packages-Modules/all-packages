@@ -1,6 +1,6 @@
 {
-  "name": "sdkforge",
-  "version": "0.1.0",
+  "name": "sdkforgex",
+  "version": "0.2.0",
   "description": "Generate minimal TypeScript fetch clients from OpenAPI 3 path definitions — CI-friendly starter SDKs.",
   "license": "MIT",
   "type": "module",

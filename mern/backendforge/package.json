@@ -1,6 +1,6 @@
 {
-  "name": "backendforge",
-  "version": "0.1.0",
+  "name": "backendforgex",
+  "version": "0.2.0",
   "description": "backendforge — Backend automation CLI: scaffold Express modules (router + service stub) so MERN APIs stay consistent.",
   "license": "MIT",
   "type": "module",

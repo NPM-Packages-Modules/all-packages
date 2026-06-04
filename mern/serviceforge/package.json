@@ -1,6 +1,6 @@
 {
-  "name": "serviceforge",
-  "version": "0.1.0",
+  "name": "serviceforgex",
+  "version": "0.2.0",
   "description": "serviceforge — Service layer shell with before/after CRUD hooks.",
   "license": "MIT",
   "type": "module",

@@ -1,6 +1,6 @@
 {
   "name": "injectflow",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "injectflow — Lightweight dependency injection for Node/Express: register factories, singleton scope, and resolve services without a framework lock-in.",
   "license": "MIT",
   "type": "module",

@@ -1,0 +1,2020 @@
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 80 · This run: 10 (limit 10)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 15ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 1156ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> envguardx@0.1.3 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/envguard/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js              738.00 B
+ESM dist/cli.js                2.92 KB
+ESM dist/chunk-GO4IMUE6.js     8.41 KB
+ESM dist/cli.js.map            5.69 KB
+ESM dist/index.js.map          1.32 KB
+ESM dist/chunk-GO4IMUE6.js.map 16.71 KB
+ESM ⚡️ Build success in 19ms
+CJS dist/index.cjs     10.19 KB
+CJS dist/cli.cjs       6.92 KB
+CJS dist/index.cjs.map 18.07 KB
+CJS dist/cli.cjs.map   18.09 KB
+CJS ⚡️ Build success in 20ms
+DTS Build start
+DTS ⚡️ Build success in 1251ms
+DTS dist/cli.d.ts    20.00 B
+DTS dist/index.d.ts  3.74 KB
+DTS dist/cli.d.cts   20.00 B
+DTS dist/index.d.cts 3.74 KB
+
+> heapguard@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/heapguard/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     904.00 B
+ESM dist/index.js.map 2.17 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.60 KB
+CJS dist/index.cjs.map 2.23 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 611ms
+DTS dist/index.d.ts  864.00 B
+DTS dist/index.d.cts 864.00 B
+
+> hookmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/hookmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     2.12 KB
+ESM dist/index.js.map 4.81 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     3.90 KB
+CJS dist/index.cjs.map 4.90 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 606ms
+DTS dist/index.d.ts  1.41 KB
+DTS dist/index.d.cts 1.41 KB
+
+> hookretryx@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/hookretry/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     413.00 B
+ESM dist/index.js.map 849.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.41 KB
+CJS dist/index.cjs.map 898.00 B
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 587ms
+DTS dist/index.d.ts  322.00 B
+DTS dist/index.d.cts 322.00 B
+
+> injectflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/injectflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.91 KB
+CJS dist/index.cjs.map 1.80 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     897.00 B
+ESM dist/index.js.map 1.75 KB
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 668ms
+DTS dist/index.d.ts  518.00 B
+DTS dist/index.d.cts 518.00 B
+
+> jobforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 604ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+
+> lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js     109.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs       2.42 KB
+CJS dist/cli.cjs.map   2.03 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 556ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+
+> lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 727ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+
+> logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 582ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+
+> duoapi@0.1.0 prepublishOnly
+> npm run build
+
+
+> duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 674ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+npm notice
+npm notice 📦  duoapi@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 296B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 360B dist/index.d.cts
+npm notice 360B dist/index.d.ts
+npm notice 431B dist/index.js
+npm notice 1.0kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: duoapi
+npm notice version: 0.1.0
+npm notice filename: duoapi-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: 706d4ddb588fa44c4144bd23ea13d825a02cdf8f
+npm notice integrity: sha512-jASRdo9pGJ9vz[...]rbyiN/0Ol4utg==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/duoapi - Package name too similar to existing package duo-api; try renaming your package to '@mr-aftab-ahmad-khan/duoapi' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T13_08_16_974Z-debug-0.log
+
+> duoapi@0.1.0 prepublishOnly
+> npm run build
+
+
+> duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 852ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+npm notice
+npm notice 📦  duoapi@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 296B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 360B dist/index.d.cts
+npm notice 360B dist/index.d.ts
+npm notice 431B dist/index.js
+npm notice 1.0kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: duoapi
+npm notice version: 0.1.0
+npm notice filename: duoapi-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: 706d4ddb588fa44c4144bd23ea13d825a02cdf8f
+npm notice integrity: sha512-jASRdo9pGJ9vz[...]rbyiN/0Ol4utg==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/duoapi - Package name too similar to existing package duo-api; try renaming your package to '@mr-aftab-ahmad-khan/duoapi' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T13_09_50_804Z-debug-0.log
+
+> duoapi@0.1.0 prepublishOnly
+> npm run build
+
+
+> duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 784ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+npm notice
+npm notice 📦  duoapi@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 296B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 360B dist/index.d.cts
+npm notice 360B dist/index.d.ts
+npm notice 431B dist/index.js
+npm notice 1.0kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: duoapi
+npm notice version: 0.1.0
+npm notice filename: duoapi-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: 706d4ddb588fa44c4144bd23ea13d825a02cdf8f
+npm notice integrity: sha512-jASRdo9pGJ9vz[...]rbyiN/0Ol4utg==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/duoapi - Package name too similar to existing package duo-api; try renaming your package to '@mr-aftab-ahmad-khan/duoapi' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T13_12_54_840Z-debug-0.log
+
+> duoapi@0.1.0 prepublishOnly
+> npm run build
+
+
+> duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 781ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+npm notice
+npm notice 📦  duoapi@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 296B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 360B dist/index.d.cts
+npm notice 360B dist/index.d.ts
+npm notice 431B dist/index.js
+npm notice 1.0kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: duoapi
+npm notice version: 0.1.0
+npm notice filename: duoapi-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: 706d4ddb588fa44c4144bd23ea13d825a02cdf8f
+npm notice integrity: sha512-jASRdo9pGJ9vz[...]rbyiN/0Ol4utg==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/duoapi - Package name too similar to existing package duo-api; try renaming your package to '@mr-aftab-ahmad-khan/duoapi' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T13_17_28_369Z-debug-0.log
+
+> duoapi@0.1.0 prepublishOnly
+> npm run build
+
+
+> duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 760ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+npm notice
+npm notice 📦  duoapi@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 296B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 360B dist/index.d.cts
+npm notice 360B dist/index.d.ts
+npm notice 431B dist/index.js
+npm notice 1.0kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: duoapi
+npm notice version: 0.1.0
+npm notice filename: duoapi-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: 706d4ddb588fa44c4144bd23ea13d825a02cdf8f
+npm notice integrity: sha512-jASRdo9pGJ9vz[...]rbyiN/0Ol4utg==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/duoapi - Package name too similar to existing package duo-api; try renaming your package to '@mr-aftab-ahmad-khan/duoapi' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T13_23_32_694Z-debug-0.log
+
+> duoapi@0.1.0 prepublishOnly
+> npm run build
+
+
+> duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 756ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+npm notice
+npm notice 📦  duoapi@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 296B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 1.1kB dist/index.cjs.map
+npm notice 360B dist/index.d.cts
+npm notice 360B dist/index.d.ts
+npm notice 431B dist/index.js
+npm notice 1.0kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: duoapi
+npm notice version: 0.1.0
+npm notice filename: duoapi-0.1.0.tgz
+npm notice package size: 2.9 kB
+npm notice unpacked size: 7.6 kB
+npm notice shasum: 706d4ddb588fa44c4144bd23ea13d825a02cdf8f
+npm notice integrity: sha512-jASRdo9pGJ9vz[...]rbyiN/0Ol4utg==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/duoapi - Package name too similar to existing package duo-api; try renaming your package to '@mr-aftab-ahmad-khan/duoapi' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T13_31_07_351Z-debug-0.log
+
+> jobforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 773ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice 📦  jobforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.1.0
+npm notice filename: jobforge-0.1.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 6ecf3f38d453c6996fa4ced39131baea95a0f64a
+npm notice integrity: sha512-yz0tI0CvAoswJ[...]hS76WUQ6OG/Uw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_01_40_715Z-debug-0.log
+
+> jobforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 678ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice 📦  jobforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.1.0
+npm notice filename: jobforge-0.1.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 6ecf3f38d453c6996fa4ced39131baea95a0f64a
+npm notice integrity: sha512-yz0tI0CvAoswJ[...]hS76WUQ6OG/Uw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_05_06_387Z-debug-0.log
+
+> jobforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 723ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice 📦  jobforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.1.0
+npm notice filename: jobforge-0.1.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 6ecf3f38d453c6996fa4ced39131baea95a0f64a
+npm notice integrity: sha512-yz0tI0CvAoswJ[...]hS76WUQ6OG/Uw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_16_36_144Z-debug-0.log
+
+> jobforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 698ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice 📦  jobforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.1.0
+npm notice filename: jobforge-0.1.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 6ecf3f38d453c6996fa4ced39131baea95a0f64a
+npm notice integrity: sha512-yz0tI0CvAoswJ[...]hS76WUQ6OG/Uw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_21_10_419Z-debug-0.log
+
+> jobforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 774ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice 📦  jobforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.1.0
+npm notice filename: jobforge-0.1.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 6ecf3f38d453c6996fa4ced39131baea95a0f64a
+npm notice integrity: sha512-yz0tI0CvAoswJ[...]hS76WUQ6OG/Uw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_27_14_269Z-debug-0.log
+
+> jobforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> jobforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 785ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+npm notice
+npm notice 📦  jobforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 695B README.md
+npm notice 2.8kB dist/index.cjs
+npm notice 4.3kB dist/index.cjs.map
+npm notice 851B dist/index.d.cts
+npm notice 851B dist/index.d.ts
+npm notice 1.8kB dist/index.js
+npm notice 4.3kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: jobforge
+npm notice version: 0.1.0
+npm notice filename: jobforge-0.1.0.tgz
+npm notice package size: 4.3 kB
+npm notice unpacked size: 17.8 kB
+npm notice shasum: 6ecf3f38d453c6996fa4ced39131baea95a0f64a
+npm notice integrity: sha512-yz0tI0CvAoswJ[...]hS76WUQ6OG/Uw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/jobforge - Package name too similar to existing package job-forge; try renaming your package to '@mr-aftab-ahmad-khan/jobforge' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_34_48_483Z-debug-0.log
+
+> lesscode@0.1.0 prepublishOnly
+> npm run build
+
+
+> lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs.map 224.00 B
+CJS dist/cli.cjs.map   2.03 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js     109.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 1032ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+npm notice
+npm notice 📦  lesscode@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 261B README.md
+npm notice 2.5kB dist/cli.cjs
+npm notice 2.1kB dist/cli.cjs.map
+npm notice 1.1kB dist/cli.js
+npm notice 2.0kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 224B dist/index.cjs.map
+npm notice 73B dist/index.d.cts
+npm notice 73B dist/index.d.ts
+npm notice 109B dist/index.js
+npm notice 180B dist/index.js.map
+npm notice 47B lesscode.cjs
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: lesscode
+npm notice version: 0.1.0
+npm notice filename: lesscode-0.1.0.tgz
+npm notice package size: 4.1 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: 0616fa48bc6e1b78592b1d9f12b3537931e4c963
+npm notice integrity: sha512-Uv4IgYqUCjJPn[...]x26Nsug6HhvNg==
+npm notice total files: 15
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/lesscode - Package name too similar to existing package less-code; try renaming your package to '@mr-aftab-ahmad-khan/lesscode' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_39_52_841Z-debug-0.log
+
+> lesscode@0.1.0 prepublishOnly
+> npm run build
+
+
+> lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs.map   2.03 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 11ms
+ESM dist/index.js     109.00 B
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js.map 180.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 679ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+npm notice
+npm notice 📦  lesscode@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 261B README.md
+npm notice 2.5kB dist/cli.cjs
+npm notice 2.1kB dist/cli.cjs.map
+npm notice 1.1kB dist/cli.js
+npm notice 2.0kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 224B dist/index.cjs.map
+npm notice 73B dist/index.d.cts
+npm notice 73B dist/index.d.ts
+npm notice 109B dist/index.js
+npm notice 180B dist/index.js.map
+npm notice 47B lesscode.cjs
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: lesscode
+npm notice version: 0.1.0
+npm notice filename: lesscode-0.1.0.tgz
+npm notice package size: 4.1 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: 0616fa48bc6e1b78592b1d9f12b3537931e4c963
+npm notice integrity: sha512-Uv4IgYqUCjJPn[...]x26Nsug6HhvNg==
+npm notice total files: 15
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/lesscode - Package name too similar to existing package less-code; try renaming your package to '@mr-aftab-ahmad-khan/lesscode' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_41_27_112Z-debug-0.log
+
+> lesscode@0.1.0 prepublishOnly
+> npm run build
+
+
+> lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs       2.42 KB
+CJS dist/cli.cjs.map   2.03 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 10ms
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js     109.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 848ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+npm notice
+npm notice 📦  lesscode@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 261B README.md
+npm notice 2.5kB dist/cli.cjs
+npm notice 2.1kB dist/cli.cjs.map
+npm notice 1.1kB dist/cli.js
+npm notice 2.0kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 224B dist/index.cjs.map
+npm notice 73B dist/index.d.cts
+npm notice 73B dist/index.d.ts
+npm notice 109B dist/index.js
+npm notice 180B dist/index.js.map
+npm notice 47B lesscode.cjs
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: lesscode
+npm notice version: 0.1.0
+npm notice filename: lesscode-0.1.0.tgz
+npm notice package size: 4.1 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: 0616fa48bc6e1b78592b1d9f12b3537931e4c963
+npm notice integrity: sha512-Uv4IgYqUCjJPn[...]x26Nsug6HhvNg==
+npm notice total files: 15
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/lesscode - Package name too similar to existing package less-code; try renaming your package to '@mr-aftab-ahmad-khan/lesscode' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_44_31_473Z-debug-0.log
+
+> lesscode@0.1.0 prepublishOnly
+> npm run build
+
+
+> lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     109.00 B
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js.map 180.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs.map   2.03 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 925ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+npm notice
+npm notice 📦  lesscode@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 261B README.md
+npm notice 2.5kB dist/cli.cjs
+npm notice 2.1kB dist/cli.cjs.map
+npm notice 1.1kB dist/cli.js
+npm notice 2.0kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 224B dist/index.cjs.map
+npm notice 73B dist/index.d.cts
+npm notice 73B dist/index.d.ts
+npm notice 109B dist/index.js
+npm notice 180B dist/index.js.map
+npm notice 47B lesscode.cjs
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: lesscode
+npm notice version: 0.1.0
+npm notice filename: lesscode-0.1.0.tgz
+npm notice package size: 4.1 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: 0616fa48bc6e1b78592b1d9f12b3537931e4c963
+npm notice integrity: sha512-Uv4IgYqUCjJPn[...]x26Nsug6HhvNg==
+npm notice total files: 15
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/lesscode - Package name too similar to existing package less-code; try renaming your package to '@mr-aftab-ahmad-khan/lesscode' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_49_05_538Z-debug-0.log
+
+> lesscode@0.1.0 prepublishOnly
+> npm run build
+
+
+> lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js     109.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 24ms
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs.map 224.00 B
+CJS dist/cli.cjs.map   2.03 KB
+CJS ⚡️ Build success in 24ms
+DTS Build start
+DTS ⚡️ Build success in 2094ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+npm notice
+npm notice 📦  lesscode@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 261B README.md
+npm notice 2.5kB dist/cli.cjs
+npm notice 2.1kB dist/cli.cjs.map
+npm notice 1.1kB dist/cli.js
+npm notice 2.0kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 224B dist/index.cjs.map
+npm notice 73B dist/index.d.cts
+npm notice 73B dist/index.d.ts
+npm notice 109B dist/index.js
+npm notice 180B dist/index.js.map
+npm notice 47B lesscode.cjs
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: lesscode
+npm notice version: 0.1.0
+npm notice filename: lesscode-0.1.0.tgz
+npm notice package size: 4.1 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: 0616fa48bc6e1b78592b1d9f12b3537931e4c963
+npm notice integrity: sha512-Uv4IgYqUCjJPn[...]x26Nsug6HhvNg==
+npm notice total files: 15
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/lesscode - Package name too similar to existing package less-code; try renaming your package to '@mr-aftab-ahmad-khan/lesscode' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T14_55_30_864Z-debug-0.log
+
+> lesscode@0.1.0 prepublishOnly
+> npm run build
+
+
+> lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     109.00 B
+ESM dist/cli.js       1.09 KB
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs     1.08 KB
+CJS dist/index.cjs.map 224.00 B
+CJS dist/cli.cjs.map   2.03 KB
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 814ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+npm notice
+npm notice 📦  lesscode@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 261B README.md
+npm notice 2.5kB dist/cli.cjs
+npm notice 2.1kB dist/cli.cjs.map
+npm notice 1.1kB dist/cli.js
+npm notice 2.0kB dist/cli.js.map
+npm notice 1.1kB dist/index.cjs
+npm notice 224B dist/index.cjs.map
+npm notice 73B dist/index.d.cts
+npm notice 73B dist/index.d.ts
+npm notice 109B dist/index.js
+npm notice 180B dist/index.js.map
+npm notice 47B lesscode.cjs
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: lesscode
+npm notice version: 0.1.0
+npm notice filename: lesscode-0.1.0.tgz
+npm notice package size: 4.1 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: 0616fa48bc6e1b78592b1d9f12b3537931e4c963
+npm notice integrity: sha512-Uv4IgYqUCjJPn[...]x26Nsug6HhvNg==
+npm notice total files: 15
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/lesscode - Package name too similar to existing package less-code; try renaming your package to '@mr-aftab-ahmad-khan/lesscode' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T15_03_09_525Z-debug-0.log
+
+> lockmesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 972ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+npm notice
+npm notice 📦  lockmesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 295B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 910B dist/index.cjs.map
+npm notice 197B dist/index.d.cts
+npm notice 197B dist/index.d.ts
+npm notice 483B dist/index.js
+npm notice 861B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: lockmesh
+npm notice version: 0.1.0
+npm notice filename: lockmesh-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: 2c22052c5ac9544959495a8a541f9a750a35cfe5
+npm notice integrity: sha512-kydOO03gvz4vb[...]B+SxB1lowtX/A==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/lockmesh failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T15_31_30_956Z-debug-0.log
+
+> lockmesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 637ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+npm notice
+npm notice 📦  lockmesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 295B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 910B dist/index.cjs.map
+npm notice 197B dist/index.d.cts
+npm notice 197B dist/index.d.ts
+npm notice 483B dist/index.js
+npm notice 861B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: lockmesh
+npm notice version: 0.1.0
+npm notice filename: lockmesh-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: 2c22052c5ac9544959495a8a541f9a750a35cfe5
+npm notice integrity: sha512-kydOO03gvz4vb[...]B+SxB1lowtX/A==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/lockmesh failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T15_53_57_112Z-debug-0.log
+
+> lockmesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 627ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+npm notice
+npm notice 📦  lockmesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 295B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 910B dist/index.cjs.map
+npm notice 197B dist/index.d.cts
+npm notice 197B dist/index.d.ts
+npm notice 483B dist/index.js
+npm notice 861B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: lockmesh
+npm notice version: 0.1.0
+npm notice filename: lockmesh-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: 2c22052c5ac9544959495a8a541f9a750a35cfe5
+npm notice integrity: sha512-kydOO03gvz4vb[...]B+SxB1lowtX/A==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/lockmesh failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T17_41_02_433Z-debug-0.log
+
+> lockmesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 813ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+npm notice
+npm notice 📦  lockmesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 295B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 910B dist/index.cjs.map
+npm notice 197B dist/index.d.cts
+npm notice 197B dist/index.d.ts
+npm notice 483B dist/index.js
+npm notice 861B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: lockmesh
+npm notice version: 0.1.0
+npm notice filename: lockmesh-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: 2c22052c5ac9544959495a8a541f9a750a35cfe5
+npm notice integrity: sha512-kydOO03gvz4vb[...]B+SxB1lowtX/A==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/lockmesh failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T18_56_57_284Z-debug-0.log
+
+> lockmesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 993ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+npm notice
+npm notice 📦  lockmesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 295B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 910B dist/index.cjs.map
+npm notice 197B dist/index.d.cts
+npm notice 197B dist/index.d.ts
+npm notice 483B dist/index.js
+npm notice 861B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: lockmesh
+npm notice version: 0.1.0
+npm notice filename: lockmesh-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: 2c22052c5ac9544959495a8a541f9a750a35cfe5
+npm notice integrity: sha512-kydOO03gvz4vb[...]B+SxB1lowtX/A==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/lockmesh failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T20_22_05_089Z-debug-0.log
+
+> lockmesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 13ms
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 701ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+npm notice
+npm notice 📦  lockmesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 295B README.md
+npm notice 1.5kB dist/index.cjs
+npm notice 910B dist/index.cjs.map
+npm notice 197B dist/index.d.cts
+npm notice 197B dist/index.d.ts
+npm notice 483B dist/index.js
+npm notice 861B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: lockmesh
+npm notice version: 0.1.0
+npm notice filename: lockmesh-0.1.0.tgz
+npm notice package size: 2.8 kB
+npm notice unpacked size: 7.0 kB
+npm notice shasum: 2c22052c5ac9544959495a8a541f9a750a35cfe5
+npm notice integrity: sha512-kydOO03gvz4vb[...]B+SxB1lowtX/A==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/lockmesh failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T22_35_26_087Z-debug-0.log
+
+> logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 849ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: logicforge
+npm notice version: 0.1.0
+npm notice filename: logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: ac123d9afc1b4a89a1222030806c007f7bf447c5
+npm notice integrity: sha512-ysZVEknipMiDM[...]Vc2Wgvq6OI0Cw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/logicforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T23_29_45_119Z-debug-0.log
+
+> logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 656ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: logicforge
+npm notice version: 0.1.0
+npm notice filename: logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: ac123d9afc1b4a89a1222030806c007f7bf447c5
+npm notice integrity: sha512-ysZVEknipMiDM[...]Vc2Wgvq6OI0Cw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/logicforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-03T23_56_44_926Z-debug-0.log
+
+> logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 800ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: logicforge
+npm notice version: 0.1.0
+npm notice filename: logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: ac123d9afc1b4a89a1222030806c007f7bf447c5
+npm notice integrity: sha512-ysZVEknipMiDM[...]Vc2Wgvq6OI0Cw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/logicforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-04T00_30_36_208Z-debug-0.log
+
+> logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 785ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: logicforge
+npm notice version: 0.1.0
+npm notice filename: logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: ac123d9afc1b4a89a1222030806c007f7bf447c5
+npm notice integrity: sha512-ysZVEknipMiDM[...]Vc2Wgvq6OI0Cw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/logicforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-04T01_33_01_002Z-debug-0.log
+
+> logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 794ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: logicforge
+npm notice version: 0.1.0
+npm notice filename: logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: ac123d9afc1b4a89a1222030806c007f7bf447c5
+npm notice integrity: sha512-ysZVEknipMiDM[...]Vc2Wgvq6OI0Cw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/logicforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-04T02_50_57_084Z-debug-0.log
+
+> logicforge@0.1.0 prepublishOnly
+> npm run build
+
+
+> logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 616ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+npm notice
+npm notice 📦  logicforge@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 343B README.md
+npm notice 1.9kB dist/index.cjs
+npm notice 1.9kB dist/index.cjs.map
+npm notice 497B dist/index.d.cts
+npm notice 497B dist/index.d.ts
+npm notice 870B dist/index.js
+npm notice 1.8kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: logicforge
+npm notice version: 0.1.0
+npm notice filename: logicforge-0.1.0.tgz
+npm notice package size: 3.2 kB
+npm notice unpacked size: 10.5 kB
+npm notice shasum: ac123d9afc1b4a89a1222030806c007f7bf447c5
+npm notice integrity: sha512-ysZVEknipMiDM[...]Vc2Wgvq6OI0Cw==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code ENOTFOUND
+npm error syscall getaddrinfo
+npm error errno ENOTFOUND
+npm error network request to https://registry.npmjs.org/logicforge failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm error network This is a problem related to network connectivity.
+npm error network In most cases you are behind a proxy or have bad network settings.
+npm error network
+npm error network If you are behind a proxy, please make sure that the
+npm error network 'proxy' config is set properly.  See: 'npm help config'
+npm error A complete log of this run can be found in: /var/folders/sz/c02sttfd07b6fn_1lv1k58h40000gn/T/cursor-sandbox-cache/d82d5feb25db3cbc69e86f460cabf4bc/npm/_logs/2026-06-04T05_17_02_774Z-debug-0.log

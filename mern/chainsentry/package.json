@@ -1,6 +1,6 @@
 {
   "name": "chainsentry",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Supply-chain scanner that audits npm dependencies for typosquats, malicious install scripts, license risk, and known CVEs.",
   "license": "MIT",
   "type": "module",

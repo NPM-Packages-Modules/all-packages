@@ -1,6 +1,6 @@
 {
-  "name": "statemesh",
-  "version": "0.1.0",
+  "name": "statemeshx",
+  "version": "0.2.0",
   "description": "statemesh — Minimal finite state machine with transitions.",
   "license": "MIT",
   "type": "module",

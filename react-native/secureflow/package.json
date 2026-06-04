@@ -1,6 +1,6 @@
 {
   "name": "secureflow",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Automate backend security middleware orchestration.",
   "license": "MIT",
   "type": "module",

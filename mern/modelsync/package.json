@@ -1,6 +1,6 @@
 {
   "name": "modelsync",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Keep Mongoose models, TypeScript types, and validation schemas synchronized automatically.",
   "license": "MIT",
   "type": "module",

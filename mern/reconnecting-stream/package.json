@@ -1,6 +1,6 @@
 {
   "name": "reconnecting-stream",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Resilient SSE and WebSocket client with automatic reconnection, exponential backoff, heartbeat checks, and replay-from-last-event-id support.",
   "license": "MIT",
   "type": "module",

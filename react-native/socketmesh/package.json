@@ -1,6 +1,6 @@
 {
   "name": "socketmeshx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simplify scalable real-time communication infrastructure.",
   "license": "MIT",
   "type": "module",

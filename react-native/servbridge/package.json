@@ -1,6 +1,6 @@
 {
   "name": "servbridge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Automatically connect multiple MERN services together with minimal setup.",
   "license": "MIT",
   "type": "module",

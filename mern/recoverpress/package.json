@@ -1,6 +1,6 @@
 {
   "name": "recoverpress",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "recoverpress — Express auto error recovery: classify failures, graceful degradation responses, and async retry helper for transient faults.",
   "license": "MIT",
   "type": "module",

@@ -1,6 +1,6 @@
 {
   "name": "dbmesh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "dbmesh — Multi-database façade: register named collection adapters behind one mesh API.",
   "license": "MIT",
   "type": "module",

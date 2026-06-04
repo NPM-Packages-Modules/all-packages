@@ -1,6 +1,6 @@
 {
   "name": "eventmeshx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lightweight in-process pub/sub bus with typed helpers — MERN-friendly stepping stone before Redis streams.",
   "license": "MIT",
   "type": "module",

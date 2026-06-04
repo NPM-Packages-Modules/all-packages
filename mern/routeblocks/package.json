@@ -1,6 +1,6 @@
 {
   "name": "routeblocks",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "routeblocks — Fluent Express router blocks (use/mount helpers).",
   "license": "MIT",
   "type": "module",

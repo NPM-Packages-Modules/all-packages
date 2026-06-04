@@ -1,6 +1,6 @@
 {
   "name": "cachepilot",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Automatically cache APIs and database queries intelligently.",
   "license": "MIT",
   "type": "module",

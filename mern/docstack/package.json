@@ -1,6 +1,6 @@
 {
   "name": "docstack",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "docstack — CLI markdown stub from CWD package.json (`npx docstack generate`).",
   "license": "MIT",
   "type": "module",

@@ -13,6 +13,7 @@ export interface AdminModelDef {
   name: string;
   /** API base path, e.g. `/api/users` */
   path: string;
+  
   fields: AdminFieldDef[];
 }
 

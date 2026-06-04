@@ -1,6 +1,6 @@
 {
   "name": "adminforgex",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "adminforgex — Admin panel generator core: JSON manifest of models, fields, and routes for CRUD UIs (React/Next adapters plug in separately).",
   "license": "MIT",
   "type": "module",

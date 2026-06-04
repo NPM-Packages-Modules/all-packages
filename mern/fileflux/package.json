@@ -1,6 +1,6 @@
 {
   "name": "fileflux",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "File upload handler with resumable multipart uploads, signed URLs, virus scanning hooks, and pluggable storage adapters for S3, GCS, and local disk.",
   "license": "MIT",
   "type": "module",

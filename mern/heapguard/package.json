@@ -1,6 +1,6 @@
 {
   "name": "heapguard",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lightweight Node heap growth sampling with v8 stats and simple leak-suspect heuristics.",
   "license": "MIT",
   "type": "module",

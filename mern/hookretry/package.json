@@ -1,6 +1,6 @@
 {
   "name": "hookretryx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "hookretryx — Webhook delivery attempt log + backoff helper.",
   "license": "MIT",
   "type": "module",

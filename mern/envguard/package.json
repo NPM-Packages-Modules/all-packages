@@ -1,6 +1,6 @@
 {
-  "name": "envguard",
-  "version": "0.1.3",
+  "name": "envguardx",
+  "version": "0.2.0",
   "description": "Production-safe environment validation system with schema typing, CI checks, and a CLI for missing/invalid secrets.",
   "license": "MIT",
   "type": "module",

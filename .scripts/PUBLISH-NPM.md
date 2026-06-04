@@ -1,5 +1,13 @@
 # Publishing to npm (*)
 
+## Unscoped renames (no deprecation)
+
+If you change `"name"` in `package.json` from `@mr-aftab-ahmad-khan/foo` to `foox` (or another unscoped name), npm treats that as a **new package**. The old scoped release **stays on the registry** unless you deprecate it — we do not deprecate by default.
+
+`npm run publish:status` only checks the **current** `name` in each `package.json`. A package can look “unpublished” while `@mr-aftab-ahmad-khan/...` still exists under the old name.
+
+Some unscoped names are **blocked** (E403, too similar to an existing package). Use a distinct name (often `foldername` + `x`, e.g. `cacheflow` → `cacheflowx`) or an **org scope** that is not your username (e.g. `@mern-packages/foo`).
+
 ## The output you see is usually not a build failure
 
 If you see **tsup build success**, **tarball contents**, then an error — the package built fine. The failure is almost always at **upload**:

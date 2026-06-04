@@ -1,6 +1,6 @@
 {
   "name": "typepressx",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Type-safe API framework for Express. Define routes once, get runtime validation, OpenAPI, TypeScript types, and a generated fetch client for free.",
   "license": "MIT",
   "type": "module",

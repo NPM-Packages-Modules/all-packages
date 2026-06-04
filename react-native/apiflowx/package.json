@@ -1,6 +1,6 @@
 {
   "name": "apiflowx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Visualize and orchestrate complex API architectures.",
   "license": "MIT",
   "type": "module",

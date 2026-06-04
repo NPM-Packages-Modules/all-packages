@@ -1,6 +1,6 @@
 {
   "name": "duoapi",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "duoapi — Dual API engine: one Zod resource → GraphQL SDL stub + REST base path metadata.",
   "license": "MIT",
   "type": "module",

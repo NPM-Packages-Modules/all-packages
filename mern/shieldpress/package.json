@@ -1,6 +1,6 @@
 {
-  "name": "shieldpress",
-  "version": "0.1.0",
+  "name": "shieldpressx",
+  "version": "0.2.0",
   "description": "Express security static analysis: helmet gaps, injection smells, CORS and auth checks.",
   "license": "MIT",
   "type": "module",

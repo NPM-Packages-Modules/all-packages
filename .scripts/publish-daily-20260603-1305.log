@@ -1,0 +1,1470 @@
+Using npm config: /Users/aftabahmadkhan/.npmrc
+mr-aftab-ahmad-khan
+Pending: 89 · This run: 20 (limit 20)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 11ms
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 1087ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+
+> cachemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cachemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.66 KB
+ESM dist/index.js.map 3.98 KB
+ESM ⚡️ Build success in 32ms
+CJS dist/index.cjs     2.68 KB
+CJS dist/index.cjs.map 4.03 KB
+CJS ⚡️ Build success in 32ms
+DTS Build start
+DTS ⚡️ Build success in 1378ms
+DTS dist/index.d.ts  1.28 KB
+DTS dist/index.d.cts 1.28 KB
+
+> dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 1448ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+
+> duoapi@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/duoapi/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.43 KB
+CJS dist/index.cjs.map 1.03 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     431.00 B
+ESM dist/index.js.map 1012.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 890ms
+DTS dist/index.d.ts  360.00 B
+DTS dist/index.d.cts 360.00 B
+
+> envguard@0.1.3 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/envguard/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       6.92 KB
+CJS dist/index.cjs     10.19 KB
+CJS dist/cli.cjs.map   18.09 KB
+CJS dist/index.cjs.map 18.07 KB
+CJS ⚡️ Build success in 24ms
+ESM dist/cli.js                2.92 KB
+ESM dist/index.js              738.00 B
+ESM dist/chunk-GO4IMUE6.js     8.41 KB
+ESM dist/index.js.map          1.32 KB
+ESM dist/cli.js.map            5.69 KB
+ESM dist/chunk-GO4IMUE6.js.map 16.71 KB
+ESM ⚡️ Build success in 25ms
+DTS Build start
+DTS ⚡️ Build success in 1483ms
+DTS dist/cli.d.ts    20.00 B
+DTS dist/index.d.ts  3.74 KB
+DTS dist/cli.d.cts   20.00 B
+DTS dist/index.d.cts 3.74 KB
+
+> eventmeshx@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/eventmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     606.00 B
+ESM dist/index.js.map 1.24 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     1.63 KB
+CJS dist/index.cjs.map 1.29 KB
+CJS ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 626ms
+DTS dist/index.d.ts  418.00 B
+DTS dist/index.d.cts 418.00 B
+
+> flagmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/flagmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.54 KB
+CJS dist/index.cjs.map 3.28 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     1.45 KB
+ESM dist/index.js.map 3.22 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 719ms
+DTS dist/index.d.ts  837.00 B
+DTS dist/index.d.cts 837.00 B
+
+> formbridge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/formbridge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.12 KB
+CJS dist/index.cjs.map 2.66 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     1.14 KB
+ESM dist/index.js.map 2.61 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 684ms
+DTS dist/index.d.ts  712.00 B
+DTS dist/index.d.cts 712.00 B
+
+> fusionstack@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/fusionstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 1.07 KB
+CJS ⚡️ Build success in 14ms
+ESM dist/index.js     441.00 B
+ESM dist/index.js.map 1.02 KB
+ESM ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 763ms
+DTS dist/index.d.ts  453.00 B
+DTS dist/index.d.cts 453.00 B
+
+> graphstackx@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/graphstack/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     115.00 B
+ESM dist/cli.js       867.00 B
+ESM dist/index.js.map 183.00 B
+ESM dist/cli.js.map   1.70 KB
+ESM ⚡️ Build success in 15ms
+CJS dist/cli.cjs       2.15 KB
+CJS dist/index.cjs     1.10 KB
+CJS dist/cli.cjs.map   1.73 KB
+CJS dist/index.cjs.map 227.00 B
+CJS ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 1028ms
+DTS dist/index.d.ts  79.00 B
+DTS dist/index.d.cts 79.00 B
+
+> guardpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/guardpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     399.00 B
+ESM dist/index.js.map 871.00 B
+ESM ⚡️ Build success in 18ms
+CJS dist/index.cjs     1.40 KB
+CJS dist/index.cjs.map 920.00 B
+CJS ⚡️ Build success in 18ms
+DTS Build start
+DTS ⚡️ Build success in 924ms
+DTS dist/index.d.ts  302.00 B
+DTS dist/index.d.cts 302.00 B
+
+> heapguard@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/heapguard/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.60 KB
+CJS dist/index.cjs.map 2.23 KB
+CJS ⚡️ Build success in 17ms
+ESM dist/index.js     904.00 B
+ESM dist/index.js.map 2.17 KB
+ESM ⚡️ Build success in 17ms
+DTS Build start
+DTS ⚡️ Build success in 1182ms
+DTS dist/index.d.ts  864.00 B
+DTS dist/index.d.cts 864.00 B
+
+> hookmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/hookmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     2.12 KB
+ESM dist/index.js.map 4.81 KB
+ESM ⚡️ Build success in 15ms
+CJS dist/index.cjs     3.90 KB
+CJS dist/index.cjs.map 4.90 KB
+CJS ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 805ms
+DTS dist/index.d.ts  1.41 KB
+DTS dist/index.d.cts 1.41 KB
+
+> hookretryx@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/hookretry/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.41 KB
+CJS dist/index.cjs.map 898.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     413.00 B
+ESM dist/index.js.map 849.00 B
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 671ms
+DTS dist/index.d.ts  322.00 B
+DTS dist/index.d.cts 322.00 B
+
+> injectflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/injectflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.91 KB
+CJS dist/index.cjs.map 1.80 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     897.00 B
+ESM dist/index.js.map 1.75 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 724ms
+DTS dist/index.d.ts  518.00 B
+DTS dist/index.d.cts 518.00 B
+
+> jobforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/jobforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.77 KB
+ESM dist/index.js.map 4.16 KB
+ESM ⚡️ Build success in 15ms
+CJS dist/index.cjs     2.78 KB
+CJS dist/index.cjs.map 4.21 KB
+CJS ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 1010ms
+DTS dist/index.d.ts  851.00 B
+DTS dist/index.d.cts 851.00 B
+
+> lesscode@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lesscode/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       2.42 KB
+CJS dist/index.cjs     1.08 KB
+CJS dist/cli.cjs.map   2.03 KB
+CJS dist/index.cjs.map 224.00 B
+CJS ⚡️ Build success in 13ms
+ESM dist/cli.js       1.09 KB
+ESM dist/index.js     109.00 B
+ESM dist/cli.js.map   1.98 KB
+ESM dist/index.js.map 180.00 B
+ESM ⚡️ Build success in 14ms
+DTS Build start
+DTS ⚡️ Build success in 698ms
+DTS dist/index.d.ts  73.00 B
+DTS dist/index.d.cts 73.00 B
+
+> lockmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/lockmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.48 KB
+CJS dist/index.cjs.map 910.00 B
+CJS ⚡️ Build success in 16ms
+ESM dist/index.js     483.00 B
+ESM dist/index.js.map 861.00 B
+ESM ⚡️ Build success in 17ms
+DTS Build start
+DTS ⚡️ Build success in 658ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+
+> logicforge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/logicforge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.90 KB
+CJS dist/index.cjs.map 1.84 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js     870.00 B
+ESM dist/index.js.map 1.80 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 625ms
+DTS dist/index.d.ts  497.00 B
+DTS dist/index.d.cts 497.00 B
+
+> metricpress@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/metricpress/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.64 KB
+CJS dist/index.cjs.map 1.06 KB
+CJS ⚡️ Build success in 15ms
+ESM dist/index.js     574.00 B
+ESM dist/index.js.map 1.01 KB
+ESM ⚡️ Build success in 17ms
+DTS Build start
+DTS ⚡️ Build success in 656ms
+DTS dist/index.d.ts  372.00 B
+DTS dist/index.d.cts 372.00 B
+
+> cacheflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 10ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 657ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+npm notice
+npm notice 📦  cacheflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 903B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.3kB dist/index.cjs.map
+npm notice 559B dist/index.d.cts
+npm notice 559B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: cacheflow
+npm notice version: 0.1.0
+npm notice filename: cacheflow-0.1.0.tgz
+npm notice package size: 3.6 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: c50f49e7ce2e25cdb17d4e9d7e219d75cab1b366
+npm notice integrity: sha512-jXLYkNBY0HYnz[...]uXouxbt+jWAAA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cacheflow - Package name too similar to existing package cache-flow; try renaming your package to '@mr-aftab-ahmad-khan/cacheflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_07_04_958Z-debug-0.log
+
+> cacheflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 15ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 15ms
+DTS Build start
+DTS ⚡️ Build success in 679ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+npm notice
+npm notice 📦  cacheflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 903B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.3kB dist/index.cjs.map
+npm notice 559B dist/index.d.cts
+npm notice 559B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: cacheflow
+npm notice version: 0.1.0
+npm notice filename: cacheflow-0.1.0.tgz
+npm notice package size: 3.6 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: c50f49e7ce2e25cdb17d4e9d7e219d75cab1b366
+npm notice integrity: sha512-jXLYkNBY0HYnz[...]uXouxbt+jWAAA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cacheflow - Package name too similar to existing package cache-flow; try renaming your package to '@mr-aftab-ahmad-khan/cacheflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_08_40_149Z-debug-0.log
+
+> cacheflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 787ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+npm notice
+npm notice 📦  cacheflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 903B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.3kB dist/index.cjs.map
+npm notice 559B dist/index.d.cts
+npm notice 559B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: cacheflow
+npm notice version: 0.1.0
+npm notice filename: cacheflow-0.1.0.tgz
+npm notice package size: 3.6 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: c50f49e7ce2e25cdb17d4e9d7e219d75cab1b366
+npm notice integrity: sha512-jXLYkNBY0HYnz[...]uXouxbt+jWAAA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cacheflow - Package name too similar to existing package cache-flow; try renaming your package to '@mr-aftab-ahmad-khan/cacheflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_11_44_444Z-debug-0.log
+
+> cacheflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 649ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+npm notice
+npm notice 📦  cacheflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 903B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.3kB dist/index.cjs.map
+npm notice 559B dist/index.d.cts
+npm notice 559B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: cacheflow
+npm notice version: 0.1.0
+npm notice filename: cacheflow-0.1.0.tgz
+npm notice package size: 3.6 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: c50f49e7ce2e25cdb17d4e9d7e219d75cab1b366
+npm notice integrity: sha512-jXLYkNBY0HYnz[...]uXouxbt+jWAAA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cacheflow - Package name too similar to existing package cache-flow; try renaming your package to '@mr-aftab-ahmad-khan/cacheflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_16_18_770Z-debug-0.log
+
+> cacheflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 683ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+npm notice
+npm notice 📦  cacheflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 903B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.3kB dist/index.cjs.map
+npm notice 559B dist/index.d.cts
+npm notice 559B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: cacheflow
+npm notice version: 0.1.0
+npm notice filename: cacheflow-0.1.0.tgz
+npm notice package size: 3.6 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: c50f49e7ce2e25cdb17d4e9d7e219d75cab1b366
+npm notice integrity: sha512-jXLYkNBY0HYnz[...]uXouxbt+jWAAA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cacheflow - Package name too similar to existing package cache-flow; try renaming your package to '@mr-aftab-ahmad-khan/cacheflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_22_22_331Z-debug-0.log
+
+> cacheflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> cacheflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cacheflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.13 KB
+CJS dist/index.cjs.map 2.20 KB
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     1.12 KB
+ESM dist/index.js.map 2.15 KB
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 742ms
+DTS dist/index.d.ts  557.00 B
+DTS dist/index.d.cts 557.00 B
+npm notice
+npm notice 📦  cacheflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 903B README.md
+npm notice 2.2kB dist/index.cjs
+npm notice 2.3kB dist/index.cjs.map
+npm notice 559B dist/index.d.cts
+npm notice 559B dist/index.d.ts
+npm notice 1.2kB dist/index.js
+npm notice 2.2kB dist/index.js.map
+npm notice 1.5kB package.json
+npm notice Tarball Details
+npm notice name: cacheflow
+npm notice version: 0.1.0
+npm notice filename: cacheflow-0.1.0.tgz
+npm notice package size: 3.6 kB
+npm notice unpacked size: 12.4 kB
+npm notice shasum: c50f49e7ce2e25cdb17d4e9d7e219d75cab1b366
+npm notice integrity: sha512-jXLYkNBY0HYnz[...]uXouxbt+jWAAA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cacheflow - Package name too similar to existing package cache-flow; try renaming your package to '@mr-aftab-ahmad-khan/cacheflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_29_57_210Z-debug-0.log
+
+> cachemesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> cachemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cachemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.66 KB
+ESM dist/index.js.map 3.98 KB
+ESM ⚡️ Build success in 17ms
+CJS dist/index.cjs     2.68 KB
+CJS dist/index.cjs.map 4.03 KB
+CJS ⚡️ Build success in 17ms
+DTS Build start
+DTS ⚡️ Build success in 888ms
+DTS dist/index.d.ts  1.28 KB
+DTS dist/index.d.cts 1.28 KB
+npm notice
+npm notice 📦  cachemesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 580B README.md
+npm notice 2.7kB dist/index.cjs
+npm notice 4.1kB dist/index.cjs.map
+npm notice 1.3kB dist/index.d.cts
+npm notice 1.3kB dist/index.d.ts
+npm notice 1.7kB dist/index.js
+npm notice 4.1kB dist/index.js.map
+npm notice 1.7kB package.json
+npm notice Tarball Details
+npm notice name: cachemesh
+npm notice version: 0.1.0
+npm notice filename: cachemesh-0.1.0.tgz
+npm notice package size: 4.2 kB
+npm notice unpacked size: 18.3 kB
+npm notice shasum: 45893fdab9181a0278e674f4dac6b37fd7852818
+npm notice integrity: sha512-NqU5lHh3664f8[...]K6RIT9R03wjzA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cachemesh - Package name too similar to existing package cache-mesh; try renaming your package to '@mr-aftab-ahmad-khan/cachemesh' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_35_01_902Z-debug-0.log
+
+> cachemesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> cachemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cachemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.66 KB
+ESM dist/index.js.map 3.98 KB
+ESM ⚡️ Build success in 11ms
+CJS dist/index.cjs     2.68 KB
+CJS dist/index.cjs.map 4.03 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 920ms
+DTS dist/index.d.ts  1.28 KB
+DTS dist/index.d.cts 1.28 KB
+npm notice
+npm notice 📦  cachemesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 580B README.md
+npm notice 2.7kB dist/index.cjs
+npm notice 4.1kB dist/index.cjs.map
+npm notice 1.3kB dist/index.d.cts
+npm notice 1.3kB dist/index.d.ts
+npm notice 1.7kB dist/index.js
+npm notice 4.1kB dist/index.js.map
+npm notice 1.7kB package.json
+npm notice Tarball Details
+npm notice name: cachemesh
+npm notice version: 0.1.0
+npm notice filename: cachemesh-0.1.0.tgz
+npm notice package size: 4.2 kB
+npm notice unpacked size: 18.3 kB
+npm notice shasum: 45893fdab9181a0278e674f4dac6b37fd7852818
+npm notice integrity: sha512-NqU5lHh3664f8[...]K6RIT9R03wjzA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cachemesh - Package name too similar to existing package cache-mesh; try renaming your package to '@mr-aftab-ahmad-khan/cachemesh' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_36_36_127Z-debug-0.log
+
+> cachemesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> cachemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cachemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.68 KB
+CJS dist/index.cjs.map 4.03 KB
+CJS ⚡️ Build success in 13ms
+ESM dist/index.js     1.66 KB
+ESM dist/index.js.map 3.98 KB
+ESM ⚡️ Build success in 13ms
+DTS Build start
+DTS ⚡️ Build success in 1132ms
+DTS dist/index.d.ts  1.28 KB
+DTS dist/index.d.cts 1.28 KB
+npm notice
+npm notice 📦  cachemesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 580B README.md
+npm notice 2.7kB dist/index.cjs
+npm notice 4.1kB dist/index.cjs.map
+npm notice 1.3kB dist/index.d.cts
+npm notice 1.3kB dist/index.d.ts
+npm notice 1.7kB dist/index.js
+npm notice 4.1kB dist/index.js.map
+npm notice 1.7kB package.json
+npm notice Tarball Details
+npm notice name: cachemesh
+npm notice version: 0.1.0
+npm notice filename: cachemesh-0.1.0.tgz
+npm notice package size: 4.2 kB
+npm notice unpacked size: 18.3 kB
+npm notice shasum: 45893fdab9181a0278e674f4dac6b37fd7852818
+npm notice integrity: sha512-NqU5lHh3664f8[...]K6RIT9R03wjzA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cachemesh - Package name too similar to existing package cache-mesh; try renaming your package to '@mr-aftab-ahmad-khan/cachemesh' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_39_40_288Z-debug-0.log
+
+> cachemesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> cachemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cachemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.66 KB
+ESM dist/index.js.map 3.98 KB
+ESM ⚡️ Build success in 19ms
+CJS dist/index.cjs     2.68 KB
+CJS dist/index.cjs.map 4.03 KB
+CJS ⚡️ Build success in 19ms
+DTS Build start
+DTS ⚡️ Build success in 833ms
+DTS dist/index.d.ts  1.28 KB
+DTS dist/index.d.cts 1.28 KB
+npm notice
+npm notice 📦  cachemesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 580B README.md
+npm notice 2.7kB dist/index.cjs
+npm notice 4.1kB dist/index.cjs.map
+npm notice 1.3kB dist/index.d.cts
+npm notice 1.3kB dist/index.d.ts
+npm notice 1.7kB dist/index.js
+npm notice 4.1kB dist/index.js.map
+npm notice 1.7kB package.json
+npm notice Tarball Details
+npm notice name: cachemesh
+npm notice version: 0.1.0
+npm notice filename: cachemesh-0.1.0.tgz
+npm notice package size: 4.2 kB
+npm notice unpacked size: 18.3 kB
+npm notice shasum: 45893fdab9181a0278e674f4dac6b37fd7852818
+npm notice integrity: sha512-NqU5lHh3664f8[...]K6RIT9R03wjzA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cachemesh - Package name too similar to existing package cache-mesh; try renaming your package to '@mr-aftab-ahmad-khan/cachemesh' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_44_15_200Z-debug-0.log
+
+> cachemesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> cachemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cachemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     1.66 KB
+ESM dist/index.js.map 3.98 KB
+ESM ⚡️ Build success in 16ms
+CJS dist/index.cjs     2.68 KB
+CJS dist/index.cjs.map 4.03 KB
+CJS ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 3029ms
+DTS dist/index.d.ts  1.28 KB
+DTS dist/index.d.cts 1.28 KB
+npm notice
+npm notice 📦  cachemesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 580B README.md
+npm notice 2.7kB dist/index.cjs
+npm notice 4.1kB dist/index.cjs.map
+npm notice 1.3kB dist/index.d.cts
+npm notice 1.3kB dist/index.d.ts
+npm notice 1.7kB dist/index.js
+npm notice 4.1kB dist/index.js.map
+npm notice 1.7kB package.json
+npm notice Tarball Details
+npm notice name: cachemesh
+npm notice version: 0.1.0
+npm notice filename: cachemesh-0.1.0.tgz
+npm notice package size: 4.2 kB
+npm notice unpacked size: 18.3 kB
+npm notice shasum: 45893fdab9181a0278e674f4dac6b37fd7852818
+npm notice integrity: sha512-NqU5lHh3664f8[...]K6RIT9R03wjzA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cachemesh - Package name too similar to existing package cache-mesh; try renaming your package to '@mr-aftab-ahmad-khan/cachemesh' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_50_34_004Z-debug-0.log
+
+> cachemesh@0.1.0 prepublishOnly
+> npm run build
+
+
+> cachemesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/cachemesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     2.68 KB
+CJS dist/index.cjs.map 4.03 KB
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     1.66 KB
+ESM dist/index.js.map 3.98 KB
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 744ms
+DTS dist/index.d.ts  1.28 KB
+DTS dist/index.d.cts 1.28 KB
+npm notice
+npm notice 📦  cachemesh@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 676B LICENSE
+npm notice 580B README.md
+npm notice 2.7kB dist/index.cjs
+npm notice 4.1kB dist/index.cjs.map
+npm notice 1.3kB dist/index.d.cts
+npm notice 1.3kB dist/index.d.ts
+npm notice 1.7kB dist/index.js
+npm notice 4.1kB dist/index.js.map
+npm notice 1.7kB package.json
+npm notice Tarball Details
+npm notice name: cachemesh
+npm notice version: 0.1.0
+npm notice filename: cachemesh-0.1.0.tgz
+npm notice package size: 4.2 kB
+npm notice unpacked size: 18.3 kB
+npm notice shasum: 45893fdab9181a0278e674f4dac6b37fd7852818
+npm notice integrity: sha512-NqU5lHh3664f8[...]K6RIT9R03wjzA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/cachemesh - Package name too similar to existing package cache-mesh; try renaming your package to '@mr-aftab-ahmad-khan/cachemesh' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T08_58_12_102Z-debug-0.log
+
+> dbflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 668ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+npm notice
+npm notice 📦  dbflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 293B README.md
+npm notice 1.1kB dist/index.cjs
+npm notice 417B dist/index.cjs.map
+npm notice 277B dist/index.d.cts
+npm notice 277B dist/index.d.ts
+npm notice 119B dist/index.js
+npm notice 373B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: dbflow
+npm notice version: 0.1.0
+npm notice filename: dbflow-0.1.0.tgz
+npm notice package size: 2.4 kB
+npm notice unpacked size: 5.4 kB
+npm notice shasum: 2b5bfcca2ef347973ee243b4dd88b78feda9388f
+npm notice integrity: sha512-RUFbVDIXutQjS[...]+OPpf4RlaOb4Q==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/dbflow - Package name too similar to existing package db-flow; try renaming your package to '@mr-aftab-ahmad-khan/dbflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T09_03_16_498Z-debug-0.log
+
+> dbflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 675ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+npm notice
+npm notice 📦  dbflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 293B README.md
+npm notice 1.1kB dist/index.cjs
+npm notice 417B dist/index.cjs.map
+npm notice 277B dist/index.d.cts
+npm notice 277B dist/index.d.ts
+npm notice 119B dist/index.js
+npm notice 373B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: dbflow
+npm notice version: 0.1.0
+npm notice filename: dbflow-0.1.0.tgz
+npm notice package size: 2.4 kB
+npm notice unpacked size: 5.4 kB
+npm notice shasum: 2b5bfcca2ef347973ee243b4dd88b78feda9388f
+npm notice integrity: sha512-RUFbVDIXutQjS[...]+OPpf4RlaOb4Q==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/dbflow - Package name too similar to existing package db-flow; try renaming your package to '@mr-aftab-ahmad-khan/dbflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T09_04_50_165Z-debug-0.log
+
+> dbflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 748ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+npm notice
+npm notice 📦  dbflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 293B README.md
+npm notice 1.1kB dist/index.cjs
+npm notice 417B dist/index.cjs.map
+npm notice 277B dist/index.d.cts
+npm notice 277B dist/index.d.ts
+npm notice 119B dist/index.js
+npm notice 373B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: dbflow
+npm notice version: 0.1.0
+npm notice filename: dbflow-0.1.0.tgz
+npm notice package size: 2.4 kB
+npm notice unpacked size: 5.4 kB
+npm notice shasum: 2b5bfcca2ef347973ee243b4dd88b78feda9388f
+npm notice integrity: sha512-RUFbVDIXutQjS[...]+OPpf4RlaOb4Q==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/dbflow - Package name too similar to existing package db-flow; try renaming your package to '@mr-aftab-ahmad-khan/dbflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T09_07_53_680Z-debug-0.log
+
+> dbflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 678ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+npm notice
+npm notice 📦  dbflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 293B README.md
+npm notice 1.1kB dist/index.cjs
+npm notice 417B dist/index.cjs.map
+npm notice 277B dist/index.d.cts
+npm notice 277B dist/index.d.ts
+npm notice 119B dist/index.js
+npm notice 373B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: dbflow
+npm notice version: 0.1.0
+npm notice filename: dbflow-0.1.0.tgz
+npm notice package size: 2.4 kB
+npm notice unpacked size: 5.4 kB
+npm notice shasum: 2b5bfcca2ef347973ee243b4dd88b78feda9388f
+npm notice integrity: sha512-RUFbVDIXutQjS[...]+OPpf4RlaOb4Q==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/dbflow - Package name too similar to existing package db-flow; try renaming your package to '@mr-aftab-ahmad-khan/dbflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T09_12_27_953Z-debug-0.log
+
+> dbflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 699ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+npm notice
+npm notice 📦  dbflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 293B README.md
+npm notice 1.1kB dist/index.cjs
+npm notice 417B dist/index.cjs.map
+npm notice 277B dist/index.d.cts
+npm notice 277B dist/index.d.ts
+npm notice 119B dist/index.js
+npm notice 373B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: dbflow
+npm notice version: 0.1.0
+npm notice filename: dbflow-0.1.0.tgz
+npm notice package size: 2.4 kB
+npm notice unpacked size: 5.4 kB
+npm notice shasum: 2b5bfcca2ef347973ee243b4dd88b78feda9388f
+npm notice integrity: sha512-RUFbVDIXutQjS[...]+OPpf4RlaOb4Q==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/dbflow - Package name too similar to existing package db-flow; try renaming your package to '@mr-aftab-ahmad-khan/dbflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T09_18_32_174Z-debug-0.log
+
+> dbflow@0.1.0 prepublishOnly
+> npm run build
+
+
+> dbflow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/dbflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 373.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 417.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 671ms
+DTS dist/index.d.ts  277.00 B
+DTS dist/index.d.cts 277.00 B
+npm notice
+npm notice 📦  dbflow@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 293B README.md
+npm notice 1.1kB dist/index.cjs
+npm notice 417B dist/index.cjs.map
+npm notice 277B dist/index.d.cts
+npm notice 277B dist/index.d.ts
+npm notice 119B dist/index.js
+npm notice 373B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: dbflow
+npm notice version: 0.1.0
+npm notice filename: dbflow-0.1.0.tgz
+npm notice package size: 2.4 kB
+npm notice unpacked size: 5.4 kB
+npm notice shasum: 2b5bfcca2ef347973ee243b4dd88b78feda9388f
+npm notice integrity: sha512-RUFbVDIXutQjS[...]+OPpf4RlaOb4Q==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/dbflow - Package name too similar to existing package db-flow; try renaming your package to '@mr-aftab-ahmad-khan/dbflow' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting
+npm error 403 a package version that is forbidden by your security policy, or
+npm error 403 on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-03T09_26_06_518Z-debug-0.log

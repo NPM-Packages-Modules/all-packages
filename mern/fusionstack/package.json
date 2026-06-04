@@ -1,6 +1,6 @@
 {
   "name": "fusionstack",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "fusionstack — Parallel Promise.allSettled helper to merge multiple service fetches safely.",
   "license": "MIT",
   "type": "module",

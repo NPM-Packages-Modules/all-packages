@@ -1,6 +1,6 @@
 {
   "name": "ratemesh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sliding-window rate limits, adaptive 4xx penalties, Redis-friendly client keys.",
   "license": "MIT",
   "type": "module",

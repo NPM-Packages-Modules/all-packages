@@ -1,6 +1,6 @@
 {
   "name": "routeboost",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "routeboost — Express perf hints middleware (cache/surrogate headers + payload guard stub).",
   "license": "MIT",
   "type": "module",

@@ -1,6 +1,6 @@
 {
   "name": "modstackx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "modstackx — Load `*.plugin.js` modules from a directory via dynamic import.",
   "license": "MIT",
   "type": "module",

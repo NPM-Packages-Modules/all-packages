@@ -1,6 +1,6 @@
 {
-  "name": "cacheflow",
-  "version": "0.1.0",
+  "name": "cacheflowx",
+  "version": "0.2.0",
   "description": "cacheflow — Auto cache invalidation graph: track tag ↔ dependency edges (e.g. Mongo doc ids) and fan out invalidations when data changes.",
   "license": "MIT",
   "type": "module",

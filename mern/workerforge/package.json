@@ -1,6 +1,6 @@
 {
   "name": "workerforge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "workerforge — In-process worker registry and dispatcher by job name.",
   "license": "MIT",
   "type": "module",

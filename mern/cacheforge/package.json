@@ -1,6 +1,6 @@
 {
   "name": "cacheforgex",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "cacheforgex — Cache entry envelope with TTL + tag list for invalidation.",
   "license": "MIT",
   "type": "module",

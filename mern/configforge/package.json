@@ -1,6 +1,6 @@
 {
   "name": "configforgex",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "configforgex — Merge config objects then validate with Zod.",
   "license": "MIT",
   "type": "module",

@@ -1,6 +1,6 @@
 {
   "name": "lockmesh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "lockmesh — In-memory lock with TTL; interface-friendly for Redis backends.",
   "license": "MIT",
   "type": "module",

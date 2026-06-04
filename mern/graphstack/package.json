@@ -1,6 +1,6 @@
 {
   "name": "graphstackx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "graphstackx — CLI to list sorted npm dependencies from package.json (npx graphstackx analyze).",
   "license": "MIT",
   "type": "module",

@@ -1,6 +1,6 @@
 {
   "name": "midflowx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "midflowx — Compose Express middleware arrays into one handler.",
   "license": "MIT",
   "type": "module",

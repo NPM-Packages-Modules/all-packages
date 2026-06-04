@@ -1,6 +1,6 @@
 {
   "name": "uploadmesh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Upload validation, multipart checks, signed URLs for S3-style MERN file flows.",
   "license": "MIT",
   "type": "module",

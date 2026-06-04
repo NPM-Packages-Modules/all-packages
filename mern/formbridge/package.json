@@ -1,6 +1,6 @@
 {
   "name": "formbridge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "formbridge — Form-to-backend connector: share Zod schemas between UI and API, normalize field errors, and keep submit payloads aligned.",
   "license": "MIT",
   "type": "module",

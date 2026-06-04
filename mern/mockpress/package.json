@@ -1,6 +1,6 @@
 {
   "name": "mockpressx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Spin up mock Express servers from an existing app’s route table — latency and fake JSON for frontend DX.",
   "license": "MIT",
   "type": "module",
@@ -40,7 +40,7 @@
     "typescript"
   ],
   "dependencies": {
-    "routecheckx": "^0.1.0"
+    "routecheckx": "^0.2.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",

@@ -1,6 +1,6 @@
 {
   "name": "metricpress",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "metricpress — Express middleware collecting per-route timings + status counts.",
   "license": "MIT",
   "type": "module",

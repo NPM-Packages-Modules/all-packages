@@ -1,6 +1,6 @@
 {
   "name": "jobforge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Background jobs with retries, backoff, schedules, and monitoring hooks for Node.",
   "license": "MIT",
   "type": "module",

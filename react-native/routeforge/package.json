@@ -1,6 +1,6 @@
 {
   "name": "routeforgex",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Generate complete Express CRUD modules automatically.",
   "license": "MIT",
   "type": "module",

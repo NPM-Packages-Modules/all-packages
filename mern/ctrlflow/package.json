@@ -1,6 +1,6 @@
 {
   "name": "ctrlflowx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "ctrlflowx — Express controller composer: stack middleware then mount handlers.",
   "license": "MIT",
   "type": "module",

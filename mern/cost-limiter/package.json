@@ -1,6 +1,6 @@
 {
   "name": "cost-limiter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "LLM cost limiter middleware with per-user, per-key, and per-model budgets, token accounting, and hard or soft cutoffs for production API gateways.",
   "license": "MIT",
   "type": "module",

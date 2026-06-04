@@ -1,6 +1,6 @@
 {
   "name": "transactlyx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "transactlyx — Retry wrapper for transactional async work (Mongo session inside callback).",
   "license": "MIT",
   "type": "module",

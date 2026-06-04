@@ -1,6 +1,6 @@
 {
   "name": "renderguardx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React render tracking, Profiler wrappers, and hotspots for expensive subtrees.",
   "license": "MIT",
   "type": "module",

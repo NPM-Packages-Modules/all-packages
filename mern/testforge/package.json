@@ -1,6 +1,6 @@
 {
   "name": "testforge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "testforge — CLI to emit a starter Vitest file (`npx testforge generate`).",
   "license": "MIT",
   "type": "module",

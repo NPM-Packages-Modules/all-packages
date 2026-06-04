@@ -1,6 +1,6 @@
 {
-  "name": "cachemesh",
-  "version": "0.1.0",
+  "name": "cachemeshx",
+  "version": "0.2.0",
   "description": "Express response caching with TTL, key rules, invalidation, Redis-ready stores.",
   "license": "MIT",
   "type": "module",

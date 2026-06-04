@@ -1,6 +1,6 @@
 {
   "name": "monodrift",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Monorepo drift detector that flags version mismatches, conflicting peer ranges, and out-of-sync configs across packages in pnpm, yarn, and npm workspaces.",
   "license": "MIT",
   "type": "module",

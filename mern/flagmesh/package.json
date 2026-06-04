@@ -1,6 +1,6 @@
 {
   "name": "flagmesh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "In-process feature flags with env defaults, forced booleans, and percent rollouts by stable user hash.",
   "license": "MIT",
   "type": "module",

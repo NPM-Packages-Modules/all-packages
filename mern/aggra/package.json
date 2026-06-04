@@ -1,6 +1,6 @@
 {
   "name": "aggra",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "aggra — Mongo aggregation builder: chain $match, $lookup, $group, and friends into typed stage arrays without losing readability.",
   "license": "MIT",
   "type": "module",

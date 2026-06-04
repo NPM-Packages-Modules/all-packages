@@ -1,6 +1,6 @@
 {
   "name": "policyflowx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "policyflowx — Auto permission / RBAC helper: role hierarchy, route guards, and simple action strings (`users.read`) for Express APIs.",
   "license": "MIT",
   "type": "module",

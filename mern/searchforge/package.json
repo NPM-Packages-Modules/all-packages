@@ -1,6 +1,6 @@
 {
-  "name": "searchforge",
-  "version": "0.1.0",
+  "name": "searchforgex",
+  "version": "0.2.0",
   "description": "searchforge — Mongo $regex helpers + Atlas $text clause builder.",
   "license": "MIT",
   "type": "module",

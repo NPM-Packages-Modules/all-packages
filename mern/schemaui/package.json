@@ -1,6 +1,6 @@
 {
   "name": "schemauix",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "schemauix — Validation-to-UI bridge: render a minimal React form from a Zod object schema with shared error display.",
   "license": "MIT",
   "type": "module",
