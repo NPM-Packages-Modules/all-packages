@@ -451,3 +451,535 @@
 [2026-06-04T08:20:33.430Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
 [2026-06-04T08:20:33.683Z]   ✓ flutter_pub_cleaner@0.1.0 already on pub.dev
 [2026-06-04T08:20:33.684Z] FAILED (6): app_flow_orchestrator, auto_localization_kit, auto_state_sync, flutter_api_weaver, flutter_asset_sync, flutter_build_shrinker
+[2026-06-04T18:00:48.071Z] skip app_flow_orchestrator@0.1.0 (already on pub.dev)
+[2026-06-04T18:00:48.342Z] skip auto_localization_kit@0.1.0 (already on pub.dev)
+[2026-06-04T18:00:48.343Z] 0 package version(s) to publish.
+[2026-06-04T18:00:48.343Z] Nothing to do — all versions are on pub.dev.
+[2026-06-05T18:37:37.417Z] skip app_flow_orchestrator@0.1.0 (already on pub.dev)
+[2026-06-05T18:37:37.676Z] skip flutter_monorepo_chief@0.1.0 (already on pub.dev)
+[2026-06-05T18:37:37.677Z] 0 package version(s) to publish.
+[2026-06-05T18:37:37.677Z] Nothing to do — all versions are on pub.dev.
+[2026-06-06T18:02:02.333Z] 15 package version(s) to publish.
+[2026-06-06T18:02:02.334Z] Running flutter pub get…
+[2026-06-06T18:02:02.334Z]   pub get app_flow_orchestrator
+[2026-06-06T18:09:15.896Z]   pub get auto_localization_kit
+[2026-06-06T18:33:38.148Z]   pub get auto_state_sync
+[2026-06-06T18:40:46.133Z]   pub get flutter_api_weaver
+[2026-06-06T18:47:35.000Z]   pub get flutter_asset_sync
+[2026-06-06T18:54:54.055Z]   pub get flutter_build_shrinker
+[2026-06-06T19:02:56.440Z]   pub get flutter_clean_arch_bot
+[2026-06-06T19:11:27.527Z]   pub get flutter_db_scaffold
+[2026-06-06T19:52:09.165Z]   pub get flutter_device_lab
+[2026-06-06T19:52:36.056Z]   pub get flutter_env_forge
+[2026-06-06T19:52:37.089Z]   pub get flutter_firelink
+[2026-06-06T19:52:37.756Z]   pub get flutter_icon_smith
+[2026-06-06T19:52:38.379Z]   pub get flutter_monorepo_chief
+[2026-06-06T19:52:39.019Z]   pub get flutter_perf_doctor
+[2026-06-06T19:52:39.669Z]   pub get flutter_pub_cleaner
+[2026-06-06T19:52:40.403Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-06T19:52:43.935Z]   ✓ app_flow_orchestrator@0.1.0 already on pub.dev
+[2026-06-06T19:52:43.936Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-06T19:52:44.739Z]   ✓ auto_localization_kit@0.1.0 already on pub.dev
+[2026-06-06T19:52:44.740Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-06T19:54:12.234Z]   ✓ published auto_state_sync@0.1.0
+[2026-06-06T19:54:12.236Z]   gap 120s before next package…
+[2026-06-06T19:56:12.232Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-06T19:56:12.961Z]   ✓ flutter_api_weaver@0.1.0 already on pub.dev
+[2026-06-06T19:56:12.962Z] [5/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-06T19:56:13.263Z]   ✓ flutter_asset_sync@0.1.0 already on pub.dev
+[2026-06-06T19:56:13.264Z] [6/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-06T19:56:13.580Z]   ✓ flutter_build_shrinker@0.1.0 already on pub.dev
+[2026-06-06T19:56:13.580Z] [7/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-06T19:56:13.904Z]   ✓ flutter_clean_arch_bot@0.1.0 already on pub.dev
+[2026-06-06T19:56:13.905Z] [8/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-06T19:56:14.204Z]   ✓ flutter_db_scaffold@0.1.0 already on pub.dev
+[2026-06-06T19:56:14.205Z] [9/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-06T19:56:14.515Z]   ✓ flutter_device_lab@0.1.0 already on pub.dev
+[2026-06-06T19:56:14.515Z] [10/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-06T19:56:14.824Z]   ✓ flutter_env_forge@0.1.0 already on pub.dev
+[2026-06-06T19:56:14.825Z] [11/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-06T19:56:15.224Z]   ✓ flutter_firelink@0.1.0 already on pub.dev
+[2026-06-06T19:56:15.224Z] [12/15] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-06-06T19:56:15.531Z]   ✓ flutter_icon_smith@0.1.0 already on pub.dev
+[2026-06-06T19:56:15.532Z] [13/15] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-06-06T19:56:15.844Z]   ✓ flutter_monorepo_chief@0.1.0 already on pub.dev
+[2026-06-06T19:56:15.844Z] [14/15] publish flutter_perf_doctor@0.1.0 (flutter_perf_doctor)
+[2026-06-06T19:56:16.166Z]   ✓ flutter_perf_doctor@0.1.0 already on pub.dev
+[2026-06-06T19:56:16.167Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
+[2026-06-06T19:56:16.481Z]   ✓ flutter_pub_cleaner@0.1.0 already on pub.dev
+[2026-06-06T19:56:16.481Z] Done — all target versions published to pub.dev.
+[2026-06-07T18:09:43.632Z] 15 package version(s) to publish.
+[2026-06-07T18:09:43.633Z] Running flutter pub get…
+[2026-06-07T18:09:43.633Z]   pub get app_flow_orchestrator
+[2026-06-07T20:07:45.903Z]   pub get auto_localization_kit
+[2026-06-07T22:24:09.442Z]   pub get auto_state_sync
+[2026-06-08T00:50:04.433Z]   pub get flutter_api_weaver
+[2026-06-08T01:58:36.191Z]   pub get flutter_asset_sync
+[2026-06-08T03:04:41.299Z]   pub get flutter_build_shrinker
+[2026-06-08T03:04:41.941Z]   pub get flutter_clean_arch_bot
+[2026-06-08T03:04:42.528Z]   pub get flutter_db_scaffold
+[2026-06-08T03:04:43.115Z]   pub get flutter_device_lab
+[2026-06-08T03:04:43.701Z]   pub get flutter_env_forge
+[2026-06-08T03:21:35.871Z]   pub get flutter_firelink
+[2026-06-08T03:21:39.226Z]   pub get flutter_icon_smith
+[2026-06-08T03:21:39.822Z]   pub get flutter_monorepo_chief
+[2026-06-08T03:21:40.408Z]   pub get flutter_perf_doctor
+[2026-06-08T03:21:40.999Z]   pub get flutter_pub_cleaner
+[2026-06-08T03:21:41.607Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-08T03:21:42.301Z]   ✓ app_flow_orchestrator@0.1.0 already on pub.dev
+[2026-06-08T03:21:42.301Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-08T03:21:42.570Z]   ✓ auto_localization_kit@0.1.0 already on pub.dev
+[2026-06-08T03:21:42.571Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-08T03:21:42.827Z]   ✓ auto_state_sync@0.1.0 already on pub.dev
+[2026-06-08T03:21:42.828Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-08T03:21:43.094Z]   ✓ flutter_api_weaver@0.1.0 already on pub.dev
+[2026-06-08T03:21:43.095Z] [5/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-08T05:35:43.196Z]   ✓ published flutter_asset_sync@0.1.0
+[2026-06-08T05:35:43.196Z]   gap 120s before next package…
+[2026-06-08T05:47:09.426Z] [6/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-08T06:05:52.132Z]   ✗ failed flutter_build_shrinker@0.1.0
+[2026-06-08T06:05:52.133Z]   gap 120s before next package…
+[2026-06-08T06:08:06.831Z] [7/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-08T06:29:07.035Z]   ✗ failed flutter_clean_arch_bot@0.1.0
+[2026-06-08T06:29:07.035Z]   gap 120s before next package…
+[2026-06-08T06:31:21.595Z] [8/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-08T06:35:15.071Z]   ✗ failed flutter_db_scaffold@0.1.0
+[2026-06-08T06:35:15.072Z]   gap 120s before next package…
+[2026-06-08T06:37:16.215Z] [9/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-08T06:42:08.965Z]   ✗ failed flutter_device_lab@0.1.0
+[2026-06-08T06:42:08.988Z]   gap 120s before next package…
+[2026-06-08T07:00:40.566Z] [10/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-08T07:05:22.909Z]   ✗ failed flutter_env_forge@0.1.0
+[2026-06-08T07:05:22.909Z]   gap 120s before next package…
+[2026-06-08T07:08:08.769Z] [11/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-08T07:12:35.934Z]   ✗ failed flutter_firelink@0.1.0
+[2026-06-08T07:12:35.934Z]   gap 120s before next package…
+[2026-06-08T07:14:50.430Z] [12/15] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-06-08T07:19:22.315Z]   ✗ failed flutter_icon_smith@0.1.0
+[2026-06-08T07:19:22.317Z]   gap 120s before next package…
+[2026-06-08T07:35:04.206Z] [13/15] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-06-08T07:49:00.626Z]   ✗ failed flutter_monorepo_chief@0.1.0
+[2026-06-08T07:49:00.627Z]   gap 120s before next package…
+[2026-06-08T07:57:12.310Z] [14/15] publish flutter_perf_doctor@0.1.0 (flutter_perf_doctor)
+[2026-06-08T07:57:14.877Z]   ✓ flutter_perf_doctor@0.1.0 already on pub.dev
+[2026-06-08T07:57:14.899Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
+[2026-06-08T07:57:15.235Z]   ✓ flutter_pub_cleaner@0.1.0 already on pub.dev
+[2026-06-08T07:57:15.236Z] FAILED (8): flutter_build_shrinker, flutter_clean_arch_bot, flutter_db_scaffold, flutter_device_lab, flutter_env_forge, flutter_firelink, flutter_icon_smith, flutter_monorepo_chief
+[2026-06-09T18:23:27.512Z] 15 package version(s) to publish.
+[2026-06-09T18:23:27.522Z] Running flutter pub get…
+[2026-06-09T18:23:27.522Z]   pub get app_flow_orchestrator
+[2026-06-09T18:23:34.227Z]   pub get auto_localization_kit
+[2026-06-09T18:23:37.001Z]   pub get auto_state_sync
+[2026-06-09T18:23:39.332Z]   pub get flutter_api_weaver
+[2026-06-09T18:24:11.644Z]   pub get flutter_asset_sync
+[2026-06-09T18:24:13.113Z]   pub get flutter_build_shrinker
+[2026-06-09T18:24:13.502Z]   pub get flutter_clean_arch_bot
+[2026-06-09T18:24:13.883Z]   pub get flutter_db_scaffold
+[2026-06-09T18:24:14.285Z]   pub get flutter_device_lab
+[2026-06-09T18:24:14.680Z]   pub get flutter_env_forge
+[2026-06-09T18:24:15.124Z]   pub get flutter_firelink
+[2026-06-09T18:24:15.534Z]   pub get flutter_icon_smith
+[2026-06-09T18:24:15.936Z]   pub get flutter_monorepo_chief
+[2026-06-09T18:24:16.734Z]   pub get flutter_perf_doctor
+[2026-06-09T18:24:17.184Z]   pub get flutter_pub_cleaner
+[2026-06-09T18:24:17.599Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-09T18:27:43.778Z]   ✗ failed app_flow_orchestrator@0.1.0
+[2026-06-09T18:27:43.779Z]   gap 120s before next package…
+[2026-06-09T18:30:15.520Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-09T18:36:01.212Z]   ✗ failed auto_localization_kit@0.1.0
+[2026-06-09T18:36:01.216Z]   gap 120s before next package…
+[2026-06-09T18:38:57.013Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-09T18:44:45.344Z]   ✗ failed auto_state_sync@0.1.0
+[2026-06-09T18:44:45.345Z]   gap 120s before next package…
+[2026-06-09T18:47:17.334Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-09T18:53:00.899Z]   ✗ failed flutter_api_weaver@0.1.0
+[2026-06-09T18:53:00.901Z]   gap 120s before next package…
+[2026-06-09T18:55:17.317Z] [5/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-09T18:59:01.292Z]   ✗ failed flutter_asset_sync@0.1.0
+[2026-06-09T18:59:01.296Z]   gap 120s before next package…
+[2026-06-09T19:01:25.651Z] [6/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-09T19:06:09.621Z]   ✗ failed flutter_build_shrinker@0.1.0
+[2026-06-09T19:06:09.629Z]   gap 120s before next package…
+[2026-06-09T19:08:09.637Z] [7/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-09T19:10:46.841Z]   ✓ published flutter_clean_arch_bot@0.1.0
+[2026-06-09T19:10:46.850Z]   gap 120s before next package…
+[2026-06-09T19:12:46.875Z] [8/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-09T19:12:47.558Z]   ✓ flutter_db_scaffold@0.1.0 already on pub.dev
+[2026-06-09T19:12:47.559Z] [9/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-09T19:12:47.943Z]   ✓ flutter_device_lab@0.1.0 already on pub.dev
+[2026-06-09T19:12:47.943Z] [10/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-09T19:12:48.237Z]   ✓ flutter_env_forge@0.1.0 already on pub.dev
+[2026-06-09T19:12:48.237Z] [11/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-09T19:12:48.519Z]   ✓ flutter_firelink@0.1.0 already on pub.dev
+[2026-06-09T19:12:48.520Z] [12/15] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-06-09T19:12:48.807Z]   ✓ flutter_icon_smith@0.1.0 already on pub.dev
+[2026-06-09T19:12:48.807Z] [13/15] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-06-09T19:12:49.092Z]   ✓ flutter_monorepo_chief@0.1.0 already on pub.dev
+[2026-06-09T19:12:49.094Z] [14/15] publish flutter_perf_doctor@0.1.0 (flutter_perf_doctor)
+[2026-06-09T19:12:49.348Z]   ✓ flutter_perf_doctor@0.1.0 already on pub.dev
+[2026-06-09T19:12:49.349Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
+[2026-06-09T19:12:49.629Z]   ✓ flutter_pub_cleaner@0.1.0 already on pub.dev
+[2026-06-09T19:12:49.629Z] FAILED (6): app_flow_orchestrator, auto_localization_kit, auto_state_sync, flutter_api_weaver, flutter_asset_sync, flutter_build_shrinker
+[2026-06-10T18:04:14.797Z] 15 package version(s) to publish.
+[2026-06-10T18:04:15.065Z] Running flutter pub get…
+[2026-06-10T18:04:15.065Z]   pub get app_flow_orchestrator
+[2026-06-10T18:08:22.864Z]   pub get auto_localization_kit
+[2026-06-10T18:08:27.696Z]   pub get auto_state_sync
+[2026-06-10T18:08:29.024Z]   pub get flutter_api_weaver
+[2026-06-10T18:08:30.001Z]   pub get flutter_asset_sync
+[2026-06-10T18:08:30.996Z]   pub get flutter_build_shrinker
+[2026-06-10T18:08:32.366Z]   pub get flutter_clean_arch_bot
+[2026-06-10T18:08:33.208Z]   pub get flutter_db_scaffold
+[2026-06-10T18:08:34.136Z]   pub get flutter_device_lab
+[2026-06-10T18:08:34.990Z]   pub get flutter_env_forge
+[2026-06-10T18:08:36.578Z]   pub get flutter_firelink
+[2026-06-10T18:08:37.651Z]   pub get flutter_icon_smith
+[2026-06-10T18:08:39.202Z]   pub get flutter_monorepo_chief
+[2026-06-10T18:08:40.405Z]   pub get flutter_perf_doctor
+[2026-06-10T18:08:41.642Z]   pub get flutter_pub_cleaner
+[2026-06-10T18:08:43.286Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-10T18:08:44.850Z]   ✓ app_flow_orchestrator@0.1.0 already on pub.dev
+[2026-06-10T18:08:44.851Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-10T18:08:45.239Z]   ✓ auto_localization_kit@0.1.0 already on pub.dev
+[2026-06-10T18:08:45.258Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-10T18:08:45.556Z]   ✓ auto_state_sync@0.1.0 already on pub.dev
+[2026-06-10T18:08:45.563Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-10T18:08:45.842Z]   ✓ flutter_api_weaver@0.1.0 already on pub.dev
+[2026-06-10T18:08:45.842Z] [5/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-10T18:08:46.343Z]   ✓ flutter_asset_sync@0.1.0 already on pub.dev
+[2026-06-10T18:08:46.369Z] [6/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-10T18:08:46.752Z]   ✓ flutter_build_shrinker@0.1.0 already on pub.dev
+[2026-06-10T18:08:46.754Z] [7/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-10T18:08:47.044Z]   ✓ flutter_clean_arch_bot@0.1.0 already on pub.dev
+[2026-06-10T18:08:47.044Z] [8/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-10T18:08:47.339Z]   ✓ flutter_db_scaffold@0.1.0 already on pub.dev
+[2026-06-10T18:08:47.346Z] [9/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-10T18:08:48.065Z]   ✓ flutter_device_lab@0.1.0 already on pub.dev
+[2026-06-10T18:08:48.065Z] [10/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-10T18:08:48.335Z]   ✓ flutter_env_forge@0.1.0 already on pub.dev
+[2026-06-10T18:08:48.335Z] [11/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-10T18:08:48.651Z]   ✓ flutter_firelink@0.1.0 already on pub.dev
+[2026-06-10T18:08:48.651Z] [12/15] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-06-10T18:08:48.934Z]   ✓ flutter_icon_smith@0.1.0 already on pub.dev
+[2026-06-10T18:08:48.942Z] [13/15] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-06-10T18:08:49.276Z]   ✓ flutter_monorepo_chief@0.1.0 already on pub.dev
+[2026-06-10T18:08:49.276Z] [14/15] publish flutter_perf_doctor@0.1.0 (flutter_perf_doctor)
+[2026-06-10T18:08:49.649Z]   ✓ flutter_perf_doctor@0.1.0 already on pub.dev
+[2026-06-10T18:08:49.650Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
+[2026-06-10T18:08:50.121Z]   ✓ flutter_pub_cleaner@0.1.0 already on pub.dev
+[2026-06-10T18:08:50.122Z] Done — all target versions published to pub.dev.
+[2026-06-11T18:14:29.811Z] 15 package version(s) to publish.
+[2026-06-11T18:14:29.823Z] Running flutter pub get…
+[2026-06-11T18:14:29.823Z]   pub get app_flow_orchestrator
+[2026-06-11T19:30:17.719Z]   pub get auto_localization_kit
+[2026-06-11T20:44:27.967Z]   pub get auto_state_sync
+[2026-06-11T20:47:40.753Z]   pub get flutter_api_weaver
+[2026-06-11T20:47:43.802Z]   pub get flutter_asset_sync
+[2026-06-11T20:47:48.890Z]   pub get flutter_build_shrinker
+[2026-06-11T20:47:56.354Z]   pub get flutter_clean_arch_bot
+[2026-06-11T20:47:59.756Z]   pub get flutter_db_scaffold
+[2026-06-11T20:48:01.661Z]   pub get flutter_device_lab
+[2026-06-11T20:48:02.722Z]   pub get flutter_env_forge
+[2026-06-11T20:48:05.932Z]   pub get flutter_firelink
+[2026-06-11T20:48:06.818Z]   pub get flutter_icon_smith
+[2026-06-11T20:48:07.734Z]   pub get flutter_monorepo_chief
+[2026-06-11T20:48:10.106Z]   pub get flutter_perf_doctor
+[2026-06-11T20:48:11.479Z]   pub get flutter_pub_cleaner
+[2026-06-11T20:48:12.572Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-11T20:48:13.434Z]   ✓ app_flow_orchestrator@0.1.0 already on pub.dev
+[2026-06-11T20:48:13.434Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-11T20:48:13.717Z]   ✓ auto_localization_kit@0.1.0 already on pub.dev
+[2026-06-11T20:48:13.717Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-11T20:48:14.002Z]   ✓ auto_state_sync@0.1.0 already on pub.dev
+[2026-06-11T20:48:14.003Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-11T20:48:14.271Z]   ✓ flutter_api_weaver@0.1.0 already on pub.dev
+[2026-06-11T20:48:14.271Z] [5/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-11T20:48:14.548Z]   ✓ flutter_asset_sync@0.1.0 already on pub.dev
+[2026-06-11T20:48:14.548Z] [6/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-11T20:48:14.829Z]   ✓ flutter_build_shrinker@0.1.0 already on pub.dev
+[2026-06-11T20:48:14.829Z] [7/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-11T20:48:15.096Z]   ✓ flutter_clean_arch_bot@0.1.0 already on pub.dev
+[2026-06-11T20:48:15.117Z] [8/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-11T20:48:15.387Z]   ✓ flutter_db_scaffold@0.1.0 already on pub.dev
+[2026-06-11T20:48:15.388Z] [9/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-11T20:48:15.671Z]   ✓ flutter_device_lab@0.1.0 already on pub.dev
+[2026-06-11T20:48:15.672Z] [10/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-11T20:48:15.942Z]   ✓ flutter_env_forge@0.1.0 already on pub.dev
+[2026-06-11T20:48:15.943Z] [11/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-11T20:48:16.213Z]   ✓ flutter_firelink@0.1.0 already on pub.dev
+[2026-06-11T20:48:16.213Z] [12/15] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-06-11T20:48:16.498Z]   ✓ flutter_icon_smith@0.1.0 already on pub.dev
+[2026-06-11T20:48:16.498Z] [13/15] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-06-11T20:48:16.808Z]   ✓ flutter_monorepo_chief@0.1.0 already on pub.dev
+[2026-06-11T20:48:16.809Z] [14/15] publish flutter_perf_doctor@0.1.0 (flutter_perf_doctor)
+[2026-06-11T20:48:17.114Z]   ✓ flutter_perf_doctor@0.1.0 already on pub.dev
+[2026-06-11T20:48:17.115Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
+[2026-06-11T20:48:17.382Z]   ✓ flutter_pub_cleaner@0.1.0 already on pub.dev
+[2026-06-11T20:48:17.382Z] Done — all target versions published to pub.dev.
+[2026-06-12T18:15:24.373Z] 15 package version(s) to publish.
+[2026-06-12T18:15:24.378Z] Running flutter pub get…
+[2026-06-12T18:15:24.379Z]   pub get app_flow_orchestrator
+[2026-06-12T18:15:24.919Z]   pub get auto_localization_kit
+[2026-06-12T18:15:25.293Z]   pub get auto_state_sync
+[2026-06-12T18:15:25.653Z]   pub get flutter_api_weaver
+[2026-06-12T18:15:26.001Z]   pub get flutter_asset_sync
+[2026-06-12T18:15:26.343Z]   pub get flutter_build_shrinker
+[2026-06-12T18:15:26.702Z]   pub get flutter_clean_arch_bot
+[2026-06-12T18:32:39.317Z]   pub get flutter_db_scaffold
+[2026-06-12T18:32:39.727Z]   pub get flutter_device_lab
+[2026-06-12T18:32:40.117Z]   pub get flutter_env_forge
+[2026-06-12T18:32:40.508Z]   pub get flutter_firelink
+[2026-06-12T18:32:40.889Z]   pub get flutter_icon_smith
+[2026-06-12T18:32:41.266Z]   pub get flutter_monorepo_chief
+[2026-06-12T18:32:41.653Z]   pub get flutter_perf_doctor
+[2026-06-12T18:32:42.034Z]   pub get flutter_pub_cleaner
+[2026-06-12T18:32:42.435Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-12T18:44:24.782Z]   ✗ failed app_flow_orchestrator@0.1.0
+[2026-06-12T18:44:24.783Z]   gap 120s before next package…
+[2026-06-12T19:01:29.994Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-12T19:05:55.699Z]   ✗ failed auto_localization_kit@0.1.0
+[2026-06-12T19:05:55.700Z]   gap 120s before next package…
+[2026-06-12T19:08:28.037Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-12T19:13:03.804Z]   ✗ failed auto_state_sync@0.1.0
+[2026-06-12T19:13:03.806Z]   gap 120s before next package…
+[2026-06-12T19:29:38.085Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-12T19:34:03.477Z]   ✗ failed flutter_api_weaver@0.1.0
+[2026-06-12T19:34:03.478Z]   gap 120s before next package…
+[2026-06-12T19:36:18.765Z] [5/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-12T19:41:58.291Z]   ✗ failed flutter_asset_sync@0.1.0
+[2026-06-12T19:41:58.292Z]   gap 120s before next package…
+[2026-06-12T19:44:12.508Z] [6/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-12T20:02:59.500Z]   ✗ failed flutter_build_shrinker@0.1.0
+[2026-06-12T20:02:59.501Z]   gap 120s before next package…
+[2026-06-12T20:05:15.268Z] [7/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-12T20:26:47.854Z]   ✗ failed flutter_clean_arch_bot@0.1.0
+[2026-06-12T20:26:47.855Z]   gap 120s before next package…
+[2026-06-12T20:29:02.082Z] [8/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-12T20:34:35.381Z]   ✗ failed flutter_db_scaffold@0.1.0
+[2026-06-12T20:34:35.382Z]   gap 120s before next package…
+[2026-06-12T20:36:50.469Z] [9/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-12T20:40:14.010Z]   ✗ failed flutter_device_lab@0.1.0
+[2026-06-12T20:40:14.011Z]   gap 120s before next package…
+[2026-06-12T20:42:28.361Z] [10/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-12T20:46:47.498Z]   ✗ failed flutter_env_forge@0.1.0
+[2026-06-12T20:46:47.505Z]   gap 120s before next package…
+[2026-06-12T20:49:43.135Z] [11/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-12T21:12:31.341Z]   ✗ failed flutter_firelink@0.1.0
+[2026-06-12T21:12:31.344Z]   gap 120s before next package…
+[2026-06-12T21:15:11.508Z] [12/15] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-06-12T21:46:25.328Z]   ✗ failed flutter_icon_smith@0.1.0
+[2026-06-12T21:46:25.330Z]   gap 120s before next package…
+[2026-06-12T21:48:48.690Z] [13/15] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-06-12T22:10:15.455Z]   ✗ failed flutter_monorepo_chief@0.1.0
+[2026-06-12T22:10:15.456Z]   gap 120s before next package…
+[2026-06-12T22:12:38.749Z] [14/15] publish flutter_perf_doctor@0.1.0 (flutter_perf_doctor)
+[2026-06-12T22:17:46.913Z]   ✗ failed flutter_perf_doctor@0.1.0
+[2026-06-12T22:17:46.915Z]   gap 120s before next package…
+[2026-06-12T22:20:01.030Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
+[2026-06-12T22:24:33.249Z]   ✗ failed flutter_pub_cleaner@0.1.0
+[2026-06-12T22:24:33.249Z] FAILED (15): app_flow_orchestrator, auto_localization_kit, auto_state_sync, flutter_api_weaver, flutter_asset_sync, flutter_build_shrinker, flutter_clean_arch_bot, flutter_db_scaffold, flutter_device_lab, flutter_env_forge, flutter_firelink, flutter_icon_smith, flutter_monorepo_chief, flutter_perf_doctor, flutter_pub_cleaner
+[2026-06-16T19:57:55.546Z] 15 package version(s) to publish.
+[2026-06-16T19:57:55.552Z] Running flutter pub get…
+[2026-06-16T19:57:55.552Z]   pub get app_flow_orchestrator
+[2026-06-16T21:21:50.539Z]   pub get auto_localization_kit
+[2026-06-16T22:18:08.312Z]   pub get auto_state_sync
+[2026-06-16T22:18:11.171Z]   pub get flutter_api_weaver
+[2026-06-16T22:18:11.803Z]   pub get flutter_asset_sync
+[2026-06-16T22:18:12.438Z]   pub get flutter_build_shrinker
+[2026-06-16T22:18:13.080Z]   pub get flutter_clean_arch_bot
+[2026-06-16T22:18:13.728Z]   pub get flutter_db_scaffold
+[2026-06-16T22:18:14.413Z]   pub get flutter_device_lab
+[2026-06-16T22:18:15.073Z]   pub get flutter_env_forge
+[2026-06-16T22:18:15.764Z]   pub get flutter_firelink
+[2026-06-16T22:18:16.416Z]   pub get flutter_icon_smith
+[2026-06-16T22:18:17.061Z]   pub get flutter_monorepo_chief
+[2026-06-16T22:18:17.725Z]   pub get flutter_perf_doctor
+[2026-06-16T22:18:18.427Z]   pub get flutter_pub_cleaner
+[2026-06-16T22:18:19.115Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-16T22:18:19.776Z]   ✓ app_flow_orchestrator@0.1.0 already on pub.dev
+[2026-06-16T22:18:19.776Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-16T22:18:20.050Z]   ✓ auto_localization_kit@0.1.0 already on pub.dev
+[2026-06-16T22:18:20.051Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-16T22:18:20.377Z]   ✓ auto_state_sync@0.1.0 already on pub.dev
+[2026-06-16T22:18:20.378Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-16T22:18:20.662Z]   ✓ flutter_api_weaver@0.1.0 already on pub.dev
+[2026-06-16T22:18:20.663Z] [5/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-16T22:18:20.941Z]   ✓ flutter_asset_sync@0.1.0 already on pub.dev
+[2026-06-16T22:18:20.942Z] [6/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-16T22:18:21.225Z]   ✓ flutter_build_shrinker@0.1.0 already on pub.dev
+[2026-06-16T22:18:21.225Z] [7/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-16T22:18:21.500Z]   ✓ flutter_clean_arch_bot@0.1.0 already on pub.dev
+[2026-06-16T22:18:21.501Z] [8/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-16T22:18:21.774Z]   ✓ flutter_db_scaffold@0.1.0 already on pub.dev
+[2026-06-16T22:18:21.775Z] [9/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-16T22:18:22.046Z]   ✓ flutter_device_lab@0.1.0 already on pub.dev
+[2026-06-16T22:18:22.046Z] [10/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-16T22:18:22.363Z]   ✓ flutter_env_forge@0.1.0 already on pub.dev
+[2026-06-16T22:18:22.364Z] [11/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-16T22:18:22.636Z]   ✓ flutter_firelink@0.1.0 already on pub.dev
+[2026-06-16T22:18:22.637Z] [12/15] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-06-16T22:18:22.942Z]   ✓ flutter_icon_smith@0.1.0 already on pub.dev
+[2026-06-16T22:18:22.943Z] [13/15] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-06-16T22:18:23.215Z]   ✓ flutter_monorepo_chief@0.1.0 already on pub.dev
+[2026-06-16T22:18:23.216Z] [14/15] publish flutter_perf_doctor@0.1.0 (flutter_perf_doctor)
+[2026-06-16T22:18:23.540Z]   ✓ flutter_perf_doctor@0.1.0 already on pub.dev
+[2026-06-16T22:18:23.540Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
+[2026-06-16T22:18:23.815Z]   ✓ flutter_pub_cleaner@0.1.0 already on pub.dev
+[2026-06-16T22:18:23.815Z] Done — all target versions published to pub.dev.
+[2026-06-17T18:00:27.793Z] 15 package version(s) to publish.
+[2026-06-17T18:00:27.794Z] Running flutter pub get…
+[2026-06-17T18:00:27.794Z]   pub get app_flow_orchestrator
+[2026-06-17T18:00:28.236Z]   pub get auto_localization_kit
+[2026-06-17T18:00:28.592Z]   pub get auto_state_sync
+[2026-06-17T18:00:28.976Z]   pub get flutter_api_weaver
+[2026-06-17T18:00:29.336Z]   pub get flutter_asset_sync
+[2026-06-17T18:00:29.705Z]   pub get flutter_build_shrinker
+[2026-06-17T18:00:30.064Z]   pub get flutter_clean_arch_bot
+[2026-06-17T18:00:30.463Z]   pub get flutter_db_scaffold
+[2026-06-17T18:00:31.231Z]   pub get flutter_device_lab
+[2026-06-17T18:00:31.877Z]   pub get flutter_env_forge
+[2026-06-17T18:00:32.537Z]   pub get flutter_firelink
+[2026-06-17T18:00:33.208Z]   pub get flutter_icon_smith
+[2026-06-17T18:00:33.869Z]   pub get flutter_monorepo_chief
+[2026-06-17T18:00:34.536Z]   pub get flutter_perf_doctor
+[2026-06-17T18:00:35.187Z]   pub get flutter_pub_cleaner
+[2026-06-17T18:00:35.840Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-17T18:03:06.331Z]   ✗ failed app_flow_orchestrator@0.1.0
+[2026-06-17T18:03:06.335Z]   gap 120s before next package…
+[2026-06-17T18:05:06.336Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-17T18:07:32.627Z]   ✗ failed auto_localization_kit@0.1.0
+[2026-06-17T18:07:32.634Z]   gap 120s before next package…
+[2026-06-17T18:09:32.635Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-17T18:11:09.287Z]   ✗ failed auto_state_sync@0.1.0
+[2026-06-17T18:11:09.289Z]   gap 120s before next package…
+[2026-06-17T18:13:09.289Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-17T18:15:36.244Z]   ✗ failed flutter_api_weaver@0.1.0
+[2026-06-17T18:15:36.246Z]   gap 120s before next package…
+[2026-06-17T18:17:36.247Z] [5/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-17T18:20:04.559Z]   ✗ failed flutter_asset_sync@0.1.0
+[2026-06-17T18:20:04.636Z]   gap 120s before next package…
+[2026-06-17T18:22:04.636Z] [6/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-17T18:24:32.862Z]   ✗ failed flutter_build_shrinker@0.1.0
+[2026-06-17T18:24:32.934Z]   gap 120s before next package…
+[2026-06-17T18:27:11.402Z] [7/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-17T18:29:52.273Z]   ✗ failed flutter_clean_arch_bot@0.1.0
+[2026-06-17T18:29:52.275Z]   gap 120s before next package…
+[2026-06-17T18:31:52.275Z] [8/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-17T18:36:52.930Z]   ✗ failed flutter_db_scaffold@0.1.0
+[2026-06-17T18:36:52.933Z]   gap 120s before next package…
+[2026-06-17T18:38:52.933Z] [9/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-17T18:43:56.928Z]   ✗ failed flutter_device_lab@0.1.0
+[2026-06-17T18:43:56.929Z]   gap 120s before next package…
+[2026-06-17T18:45:56.928Z] [10/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-17T18:51:00.835Z]   ✗ failed flutter_env_forge@0.1.0
+[2026-06-17T18:51:00.915Z]   gap 120s before next package…
+[2026-06-17T18:53:00.913Z] [11/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-17T18:58:05.100Z]   ✗ failed flutter_firelink@0.1.0
+[2026-06-17T18:58:05.127Z]   gap 120s before next package…
+[2026-06-17T19:00:05.149Z] [12/15] publish flutter_icon_smith@0.1.0 (flutter_icon_smith)
+[2026-06-17T19:05:08.165Z]   ✗ failed flutter_icon_smith@0.1.0
+[2026-06-17T19:05:08.166Z]   gap 120s before next package…
+[2026-06-17T19:07:08.172Z] [13/15] publish flutter_monorepo_chief@0.1.0 (flutter_monorepo_chief)
+[2026-06-17T19:12:12.758Z]   ✗ failed flutter_monorepo_chief@0.1.0
+[2026-06-17T19:12:12.850Z]   gap 120s before next package…
+[2026-06-17T19:14:12.849Z] [14/15] publish flutter_perf_doctor@0.1.0 (flutter_perf_doctor)
+[2026-06-17T19:19:16.847Z]   ✗ failed flutter_perf_doctor@0.1.0
+[2026-06-17T19:19:16.858Z]   gap 120s before next package…
+[2026-06-17T19:21:16.858Z] [15/15] publish flutter_pub_cleaner@0.1.0 (flutter_pub_cleaner)
+[2026-06-17T19:26:20.820Z]   ✗ failed flutter_pub_cleaner@0.1.0
+[2026-06-17T19:26:20.822Z] FAILED (15): app_flow_orchestrator, auto_localization_kit, auto_state_sync, flutter_api_weaver, flutter_asset_sync, flutter_build_shrinker, flutter_clean_arch_bot, flutter_db_scaffold, flutter_device_lab, flutter_env_forge, flutter_firelink, flutter_icon_smith, flutter_monorepo_chief, flutter_perf_doctor, flutter_pub_cleaner
+[2026-06-18T14:27:57.019Z] 10 package version(s) to publish.
+[2026-06-18T14:27:57.021Z] Running flutter pub get…
+[2026-06-18T14:27:57.021Z]   pub get flutter_arch_guard
+[2026-06-18T14:27:58.748Z]   pub get flutter_bug_replay
+[2026-06-18T14:28:00.450Z]   pub get flutter_feature_pilot
+[2026-06-18T14:28:02.336Z]   pub get flutter_go_live
+[2026-06-18T14:28:04.143Z]   pub get flutter_merge_doctor
+[2026-06-18T14:28:05.820Z]   pub get flutter_prune
+[2026-06-18T14:28:07.487Z]   pub get flutter_review_bot
+[2026-06-18T14:28:09.164Z]   pub get flutter_shotguard
+[2026-06-18T14:28:10.958Z]   pub get flutter_store_ai
+[2026-06-18T14:28:12.747Z]   pub get flutter_upgrade_simulator
+[2026-06-18T14:28:13.404Z] [1/10] publish flutter_arch_guard@0.1.0 (flutter_arch_guard)
+[2026-06-18T14:28:22.740Z]   ✓ published flutter_arch_guard@0.1.0
+[2026-06-18T14:28:22.740Z]   gap 120s before next package…
+[2026-06-18T14:30:22.741Z] [2/10] publish flutter_bug_replay@0.1.0 (flutter_bug_replay)
+[2026-06-18T14:30:27.021Z]   ✓ published flutter_bug_replay@0.1.0
+[2026-06-18T14:30:27.022Z]   gap 120s before next package…
+[2026-06-18T14:32:27.019Z] [3/10] publish flutter_feature_pilot@0.1.0 (flutter_feature_pilot)
+[2026-06-18T14:32:32.052Z]   ✓ published flutter_feature_pilot@0.1.0
+[2026-06-18T14:32:32.053Z]   gap 120s before next package…
+[2026-06-18T14:34:32.052Z] [4/10] publish flutter_go_live@0.1.0 (flutter_go_live)
+[2026-06-18T14:34:37.122Z]   ✓ published flutter_go_live@0.1.0
+[2026-06-18T14:34:37.123Z]   gap 120s before next package…
+[2026-06-18T14:36:37.130Z] [5/10] publish flutter_merge_doctor@0.1.0 (flutter_merge_doctor)
+[2026-06-18T14:36:42.277Z]   ✓ published flutter_merge_doctor@0.1.0
+[2026-06-18T14:36:42.285Z]   gap 120s before next package…
+[2026-06-18T14:38:42.282Z] [6/10] publish flutter_prune@0.1.0 (flutter_prune)
+[2026-06-18T14:38:47.718Z]   ✓ published flutter_prune@0.1.0
+[2026-06-18T14:38:47.719Z]   gap 120s before next package…
+[2026-06-18T14:40:47.717Z] [7/10] publish flutter_review_bot@0.1.0 (flutter_review_bot)
+[2026-06-18T14:40:51.931Z]   ✓ published flutter_review_bot@0.1.0
+[2026-06-18T14:40:51.932Z]   gap 120s before next package…
+[2026-06-18T14:42:51.930Z] [8/10] publish flutter_shotguard@0.1.0 (flutter_shotguard)
+[2026-06-18T14:42:56.805Z]   ✓ published flutter_shotguard@0.1.0
+[2026-06-18T14:42:56.806Z]   gap 120s before next package…
+[2026-06-18T14:44:56.815Z] [9/10] publish flutter_store_ai@0.1.0 (flutter_store_ai)
+[2026-06-18T14:45:01.255Z]   ✓ published flutter_store_ai@0.1.0
+[2026-06-18T14:45:01.256Z]   gap 120s before next package…
+[2026-06-18T14:47:01.272Z] [10/10] publish flutter_upgrade_simulator@0.1.0 (flutter_upgrade_simulator)
+[2026-06-18T14:47:06.503Z]   ✓ published flutter_upgrade_simulator@0.1.0
+[2026-06-18T14:47:06.505Z] Done — all target versions published to pub.dev.
+[2026-06-18T18:01:07.279Z] 15 package version(s) to publish.
+[2026-06-18T18:01:07.280Z] Running flutter pub get…
+[2026-06-18T18:01:07.280Z]   pub get app_flow_orchestrator
+[2026-06-18T18:01:07.712Z]   pub get auto_localization_kit
+[2026-06-18T18:01:08.053Z]   pub get auto_state_sync
+[2026-06-18T18:01:08.394Z]   pub get flutter_api_weaver
+[2026-06-18T18:01:08.727Z]   pub get flutter_arch_guard
+[2026-06-18T18:01:09.067Z]   pub get flutter_asset_sync
+[2026-06-18T18:01:09.412Z]   pub get flutter_bug_replay
+[2026-06-18T18:01:09.774Z]   pub get flutter_build_shrinker
+[2026-06-18T18:01:10.151Z]   pub get flutter_clean_arch_bot
+[2026-06-18T18:01:10.849Z]   pub get flutter_db_scaffold
+[2026-06-18T18:01:11.475Z]   pub get flutter_device_lab
+[2026-06-18T18:01:12.103Z]   pub get flutter_env_forge
+[2026-06-18T18:01:12.735Z]   pub get flutter_feature_pilot
+[2026-06-18T18:01:13.378Z]   pub get flutter_firelink
+[2026-06-18T18:01:14.007Z]   pub get flutter_go_live
+[2026-06-18T18:01:14.632Z] [1/15] publish app_flow_orchestrator@0.1.0 (app_flow_orchestrator)
+[2026-06-18T18:05:50.557Z]   ✗ failed app_flow_orchestrator@0.1.0
+[2026-06-18T18:05:50.557Z]   gap 120s before next package…
+[2026-06-18T18:08:23.030Z] [2/15] publish auto_localization_kit@0.1.0 (auto_localization_kit)
+[2026-06-18T18:13:55.472Z]   ✗ failed auto_localization_kit@0.1.0
+[2026-06-18T18:13:55.472Z]   gap 120s before next package…
+[2026-06-18T18:16:12.143Z] [3/15] publish auto_state_sync@0.1.0 (auto_state_sync)
+[2026-06-18T18:22:50.225Z]   ✗ failed auto_state_sync@0.1.0
+[2026-06-18T18:22:50.230Z]   gap 120s before next package…
+[2026-06-18T18:24:50.229Z] [4/15] publish flutter_api_weaver@0.1.0 (flutter_api_weaver)
+[2026-06-18T18:28:02.087Z]   ✗ failed flutter_api_weaver@0.1.0
+[2026-06-18T18:28:02.089Z]   gap 120s before next package…
+[2026-06-18T18:30:02.086Z] [5/15] publish flutter_arch_guard@0.1.0 (flutter_arch_guard)
+[2026-06-18T18:32:27.855Z]   ✗ failed flutter_arch_guard@0.1.0
+[2026-06-18T18:32:27.856Z]   gap 120s before next package…
+[2026-06-18T18:34:27.854Z] [6/15] publish flutter_asset_sync@0.1.0 (flutter_asset_sync)
+[2026-06-18T18:34:28.726Z]   ✓ flutter_asset_sync@0.1.0 already on pub.dev
+[2026-06-18T18:34:28.726Z] [7/15] publish flutter_bug_replay@0.1.0 (flutter_bug_replay)
+[2026-06-18T18:34:29.081Z]   ✓ flutter_bug_replay@0.1.0 already on pub.dev
+[2026-06-18T18:34:29.081Z] [8/15] publish flutter_build_shrinker@0.1.0 (flutter_build_shrinker)
+[2026-06-18T18:34:29.361Z]   ✓ flutter_build_shrinker@0.1.0 already on pub.dev
+[2026-06-18T18:34:29.362Z] [9/15] publish flutter_clean_arch_bot@0.1.0 (flutter_clean_arch_bot)
+[2026-06-18T18:34:29.627Z]   ✓ flutter_clean_arch_bot@0.1.0 already on pub.dev
+[2026-06-18T18:34:29.627Z] [10/15] publish flutter_db_scaffold@0.1.0 (flutter_db_scaffold)
+[2026-06-18T18:34:29.908Z]   ✓ flutter_db_scaffold@0.1.0 already on pub.dev
+[2026-06-18T18:34:29.909Z] [11/15] publish flutter_device_lab@0.1.0 (flutter_device_lab)
+[2026-06-18T18:34:30.213Z]   ✓ flutter_device_lab@0.1.0 already on pub.dev
+[2026-06-18T18:34:30.213Z] [12/15] publish flutter_env_forge@0.1.0 (flutter_env_forge)
+[2026-06-18T18:34:30.698Z]   ✓ flutter_env_forge@0.1.0 already on pub.dev
+[2026-06-18T18:34:30.698Z] [13/15] publish flutter_feature_pilot@0.1.0 (flutter_feature_pilot)
+[2026-06-18T18:34:31.046Z]   ✓ flutter_feature_pilot@0.1.0 already on pub.dev
+[2026-06-18T18:34:31.046Z] [14/15] publish flutter_firelink@0.1.0 (flutter_firelink)
+[2026-06-18T18:34:31.305Z]   ✓ flutter_firelink@0.1.0 already on pub.dev
+[2026-06-18T18:34:31.306Z] [15/15] publish flutter_go_live@0.1.0 (flutter_go_live)
+[2026-06-18T18:34:31.592Z]   ✓ flutter_go_live@0.1.0 already on pub.dev
+[2026-06-18T18:34:31.595Z] FAILED (5): app_flow_orchestrator, auto_localization_kit, auto_state_sync, flutter_api_weaver, flutter_arch_guard

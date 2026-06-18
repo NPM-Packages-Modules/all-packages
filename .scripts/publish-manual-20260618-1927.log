@@ -1,0 +1,694 @@
+
+> publish:daily
+> node .scripts/publish-daily-batch.mjs
+
+Pending: 12 · This run: 12 (limit 12)
+
+npm auth OK (mr-aftab-ahmad-khan)
+npm auth OK (mr-aftab-ahmad-khan)
+
+> auth-launcher@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/auth-launcher/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.20 KB
+CJS dist/cli.cjs       1.82 KB
+CJS dist/cli.cjs.map   1.32 KB
+CJS dist/index.cjs.map 519.00 B
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js              114.00 B
+ESM dist/cli.js                485.00 B
+ESM dist/chunk-SY3BHVPI.js     232.00 B
+ESM dist/cli.js.map            904.00 B
+ESM dist/chunk-SY3BHVPI.js.map 475.00 B
+ESM dist/index.js.map          71.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 784ms
+DTS dist/index.d.ts  176.00 B
+DTS dist/index.d.cts 176.00 B
+
+> component-usage-scanner@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/component-usage-scanner/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     235.00 B
+ESM dist/index.js.map 433.00 B
+ESM ⚡️ Build success in 6ms
+CJS dist/index.cjs     1.23 KB
+CJS dist/index.cjs.map 477.00 B
+CJS ⚡️ Build success in 6ms
+DTS Build start
+DTS ⚡️ Build success in 629ms
+DTS dist/index.d.ts  144.00 B
+DTS dist/index.d.cts 144.00 B
+
+> deploy-template@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/deploy-template/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       1.84 KB
+CJS dist/index.cjs     1.24 KB
+CJS dist/cli.cjs.map   1.25 KB
+CJS dist/index.cjs.map 488.00 B
+CJS ⚡️ Build success in 9ms
+ESM dist/chunk-FZ2QZ7RX.js     270.00 B
+ESM dist/index.js              118.00 B
+ESM dist/cli.js                470.00 B
+ESM dist/chunk-FZ2QZ7RX.js.map 444.00 B
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            871.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 602ms
+DTS dist/index.d.ts  98.00 B
+DTS dist/index.d.cts 98.00 B
+
+> endpoint-flow@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/endpoint-flow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.45 KB
+CJS dist/index.cjs.map 1.05 KB
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     471.00 B
+ESM dist/index.js.map 1.00 KB
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 626ms
+DTS dist/index.d.ts  211.00 B
+DTS dist/index.d.cts 211.00 B
+
+> env-diff@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/env-diff/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     299.00 B
+ESM dist/index.js.map 638.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.27 KB
+CJS dist/index.cjs.map 682.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 642ms
+DTS dist/index.d.ts  130.00 B
+DTS dist/index.d.cts 130.00 B
+
+> error-translatorx@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/error-translator/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.25 KB
+CJS dist/index.cjs.map 556.00 B
+CJS ⚡️ Build success in 38ms
+ESM dist/index.js     262.00 B
+ESM dist/index.js.map 512.00 B
+ESM ⚡️ Build success in 38ms
+DTS Build start
+DTS ⚡️ Build success in 598ms
+DTS dist/index.d.ts  153.00 B
+DTS dist/index.d.cts 153.00 B
+
+> feature-slice-forge@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/feature-slice-forge/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.42 KB
+CJS dist/index.cjs.map 992.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     433.00 B
+ESM dist/index.js.map 948.00 B
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 595ms
+DTS dist/index.d.ts  253.00 B
+DTS dist/index.d.cts 253.00 B
+
+> merge-safe@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/merge-safe/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.21 KB
+CJS dist/index.cjs.map 595.00 B
+CJS ⚡️ Build success in 11ms
+ESM dist/index.js     235.00 B
+ESM dist/index.js.map 551.00 B
+ESM ⚡️ Build success in 11ms
+DTS Build start
+DTS ⚡️ Build success in 1192ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+
+> migration-preview@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/migration-preview/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     177.00 B
+ESM dist/index.js.map 407.00 B
+ESM ⚡️ Build success in 9ms
+CJS dist/index.cjs     1.17 KB
+CJS dist/index.cjs.map 451.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 687ms
+DTS dist/index.d.ts  231.00 B
+DTS dist/index.d.cts 231.00 B
+
+> package-impact@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/package-impact/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.17 KB
+CJS dist/index.cjs.map 458.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     192.00 B
+ESM dist/index.js.map 414.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 640ms
+DTS dist/index.d.ts  204.00 B
+DTS dist/index.d.cts 204.00 B
+
+> stack-sync@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/stack-sync/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       1.99 KB
+CJS dist/index.cjs     1.25 KB
+CJS dist/index.cjs.map 708.00 B
+CJS dist/cli.cjs.map   1.71 KB
+CJS ⚡️ Build success in 9ms
+ESM dist/index.js              108.00 B
+ESM dist/cli.js                591.00 B
+ESM dist/chunk-HZZZXNTB.js     292.00 B
+ESM dist/chunk-HZZZXNTB.js.map 664.00 B
+ESM dist/index.js.map          71.00 B
+ESM dist/cli.js.map            1.09 KB
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 667ms
+DTS dist/index.d.ts  248.00 B
+DTS dist/index.d.cts 248.00 B
+
+> auditmesh@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/auditmesh/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.17 KB
+CJS dist/index.cjs.map 507.00 B
+CJS ⚡️ Build success in 7ms
+ESM dist/index.js     193.00 B
+ESM dist/index.js.map 463.00 B
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 631ms
+DTS dist/index.d.ts  189.00 B
+DTS dist/index.d.cts 189.00 B
+
+> env-diff@0.1.0 prepublishOnly
+> npm run build
+
+
+> env-diff@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/env-diff/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     299.00 B
+ESM dist/index.js.map 638.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.27 KB
+CJS dist/index.cjs.map 682.00 B
+CJS ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 859ms
+DTS dist/index.d.ts  130.00 B
+DTS dist/index.d.cts 130.00 B
+npm notice
+npm notice 📦  env-diff@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 389B README.md
+npm notice 1.3kB dist/index.cjs
+npm notice 682B dist/index.cjs.map
+npm notice 130B dist/index.d.cts
+npm notice 130B dist/index.d.ts
+npm notice 299B dist/index.js
+npm notice 638B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: env-diff
+npm notice version: 0.1.0
+npm notice filename: env-diff-0.1.0.tgz
+npm notice package size: 2.6 kB
+npm notice unpacked size: 6.1 kB
+npm notice shasum: dac92c3e93c7bdedd9877e70be6dc3d976072ad4
+npm notice integrity: sha512-NXASlqg06d2ej[...]eqoUeX3tz+KAQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/env-diff - Package name too similar to existing package envdiff; try renaming your package to '@mr-aftab-ahmad-khan/env-diff' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting a package version that is forbidden by your security policy, or on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-18T14_37_49_277Z-debug-0.log
+
+> env-diff@0.1.0 prepublishOnly
+> npm run build
+
+
+> env-diff@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/env-diff/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.27 KB
+CJS dist/index.cjs.map 682.00 B
+CJS ⚡️ Build success in 10ms
+ESM dist/index.js     299.00 B
+ESM dist/index.js.map 638.00 B
+ESM ⚡️ Build success in 10ms
+DTS Build start
+DTS ⚡️ Build success in 944ms
+DTS dist/index.d.ts  130.00 B
+DTS dist/index.d.cts 130.00 B
+npm notice
+npm notice 📦  env-diff@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 389B README.md
+npm notice 1.3kB dist/index.cjs
+npm notice 682B dist/index.cjs.map
+npm notice 130B dist/index.d.cts
+npm notice 130B dist/index.d.ts
+npm notice 299B dist/index.js
+npm notice 638B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: env-diff
+npm notice version: 0.1.0
+npm notice filename: env-diff-0.1.0.tgz
+npm notice package size: 2.6 kB
+npm notice unpacked size: 6.1 kB
+npm notice shasum: dac92c3e93c7bdedd9877e70be6dc3d976072ad4
+npm notice integrity: sha512-NXASlqg06d2ej[...]eqoUeX3tz+KAQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/env-diff - Package name too similar to existing package envdiff; try renaming your package to '@mr-aftab-ahmad-khan/env-diff' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting a package version that is forbidden by your security policy, or on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-18T14_39_23_898Z-debug-0.log
+
+> env-diff@0.1.0 prepublishOnly
+> npm run build
+
+
+> env-diff@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/env-diff/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     299.00 B
+ESM dist/index.js.map 638.00 B
+ESM ⚡️ Build success in 8ms
+CJS dist/index.cjs     1.27 KB
+CJS dist/index.cjs.map 682.00 B
+CJS ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 730ms
+DTS dist/index.d.ts  130.00 B
+DTS dist/index.d.cts 130.00 B
+npm notice
+npm notice 📦  env-diff@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 389B README.md
+npm notice 1.3kB dist/index.cjs
+npm notice 682B dist/index.cjs.map
+npm notice 130B dist/index.d.cts
+npm notice 130B dist/index.d.ts
+npm notice 299B dist/index.js
+npm notice 638B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: env-diff
+npm notice version: 0.1.0
+npm notice filename: env-diff-0.1.0.tgz
+npm notice package size: 2.6 kB
+npm notice unpacked size: 6.1 kB
+npm notice shasum: dac92c3e93c7bdedd9877e70be6dc3d976072ad4
+npm notice integrity: sha512-NXASlqg06d2ej[...]eqoUeX3tz+KAQ==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/env-diff - Package name too similar to existing package envdiff; try renaming your package to '@mr-aftab-ahmad-khan/env-diff' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting a package version that is forbidden by your security policy, or on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-18T14_42_27_944Z-debug-0.log
+
+> merge-safe@0.1.0 prepublishOnly
+> npm run build
+
+
+> merge-safe@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/merge-safe/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.21 KB
+CJS dist/index.cjs.map 595.00 B
+CJS ⚡️ Build success in 6ms
+ESM dist/index.js     235.00 B
+ESM dist/index.js.map 551.00 B
+ESM ⚡️ Build success in 6ms
+DTS Build start
+DTS ⚡️ Build success in 714ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+npm notice
+npm notice 📦  merge-safe@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 381B README.md
+npm notice 1.2kB dist/index.cjs
+npm notice 595B dist/index.cjs.map
+npm notice 197B dist/index.d.cts
+npm notice 197B dist/index.d.ts
+npm notice 235B dist/index.js
+npm notice 551B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: merge-safe
+npm notice version: 0.1.0
+npm notice filename: merge-safe-0.1.0.tgz
+npm notice package size: 2.6 kB
+npm notice unpacked size: 5.9 kB
+npm notice shasum: 996eba09b5f75ab4523834820fb7e62e9189a20a
+npm notice integrity: sha512-33ig4mzcwXAZT[...]d4fz8LMkaY/kA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/merge-safe - Package name too similar to existing package mergesafe; try renaming your package to '@mr-aftab-ahmad-khan/merge-safe' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting a package version that is forbidden by your security policy, or on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-18T14_53_20_770Z-debug-0.log
+
+> merge-safe@0.1.0 prepublishOnly
+> npm run build
+
+
+> merge-safe@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/merge-safe/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.21 KB
+CJS dist/index.cjs.map 595.00 B
+CJS ⚡️ Build success in 6ms
+ESM dist/index.js     235.00 B
+ESM dist/index.js.map 551.00 B
+ESM ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 733ms
+DTS dist/index.d.ts  197.00 B
+DTS dist/index.d.cts 197.00 B
+npm notice
+npm notice 📦  merge-safe@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 381B README.md
+npm notice 1.2kB dist/index.cjs
+npm notice 595B dist/index.cjs.map
+npm notice 197B dist/index.d.cts
+npm notice 197B dist/index.d.ts
+npm notice 235B dist/index.js
+npm notice 551B dist/index.js.map
+npm notice 1.4kB package.json
+npm notice Tarball Details
+npm notice name: merge-safe
+npm notice version: 0.1.0
+npm notice filename: merge-safe-0.1.0.tgz
+npm notice package size: 2.6 kB
+npm notice unpacked size: 5.9 kB
+npm notice shasum: 996eba09b5f75ab4523834820fb7e62e9189a20a
+npm notice integrity: sha512-33ig4mzcwXAZT[...]d4fz8LMkaY/kA==
+npm notice total files: 10
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/merge-safe - Package name too similar to existing package mergesafe; try renaming your package to '@mr-aftab-ahmad-khan/merge-safe' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting a package version that is forbidden by your security policy, or on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-18T14_54_54_979Z-debug-0.log
+
+> stack-sync@0.1.0 prepublishOnly
+> npm run build
+
+
+> stack-sync@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/stack-sync/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/cli.cjs       1.99 KB
+CJS dist/index.cjs     1.25 KB
+CJS dist/cli.cjs.map   1.71 KB
+CJS dist/index.cjs.map 708.00 B
+CJS ⚡️ Build success in 15ms
+ESM dist/chunk-HZZZXNTB.js     292.00 B
+ESM dist/index.js              108.00 B
+ESM dist/cli.js                591.00 B
+ESM dist/cli.js.map            1.09 KB
+ESM dist/chunk-HZZZXNTB.js.map 664.00 B
+ESM dist/index.js.map          71.00 B
+ESM ⚡️ Build success in 16ms
+DTS Build start
+DTS ⚡️ Build success in 2015ms
+DTS dist/index.d.ts  248.00 B
+DTS dist/index.d.cts 248.00 B
+npm notice
+npm notice 📦  stack-sync@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 457B README.md
+npm notice 292B dist/chunk-HZZZXNTB.js
+npm notice 664B dist/chunk-HZZZXNTB.js.map
+npm notice 2.0kB dist/cli.cjs
+npm notice 1.8kB dist/cli.cjs.map
+npm notice 591B dist/cli.js
+npm notice 1.1kB dist/cli.js.map
+npm notice 1.3kB dist/index.cjs
+npm notice 708B dist/index.cjs.map
+npm notice 248B dist/index.d.cts
+npm notice 248B dist/index.d.ts
+npm notice 108B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 1.5kB package.json
+npm notice 47B stack-sync.cjs
+npm notice Tarball Details
+npm notice name: stack-sync
+npm notice version: 0.1.0
+npm notice filename: stack-sync-0.1.0.tgz
+npm notice package size: 3.8 kB
+npm notice unpacked size: 12.3 kB
+npm notice shasum: cd2a5e4cd7037a680cd189b9d718cf90603248de
+npm notice integrity: sha512-CmquUgPELuCGz[...]ouzu9v4YWMXiA==
+npm notice total files: 17
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/stack-sync - Package name too similar to existing package stacksync; try renaming your package to '@mr-aftab-ahmad-khan/stack-sync' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting a package version that is forbidden by your security policy, or on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-18T15_04_16_005Z-debug-0.log
+
+> stack-sync@0.1.0 prepublishOnly
+> npm run build
+
+
+> stack-sync@0.1.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/mern/stack-sync/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/cli.js                591.00 B
+ESM dist/index.js              108.00 B
+ESM dist/chunk-HZZZXNTB.js     292.00 B
+ESM dist/cli.js.map            1.09 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/chunk-HZZZXNTB.js.map 664.00 B
+ESM ⚡️ Build success in 28ms
+CJS dist/cli.cjs       1.99 KB
+CJS dist/index.cjs     1.25 KB
+CJS dist/cli.cjs.map   1.71 KB
+CJS dist/index.cjs.map 708.00 B
+CJS ⚡️ Build success in 28ms
+DTS Build start
+DTS ⚡️ Build success in 991ms
+DTS dist/index.d.ts  248.00 B
+DTS dist/index.d.cts 248.00 B
+npm notice
+npm notice 📦  stack-sync@0.1.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 457B README.md
+npm notice 292B dist/chunk-HZZZXNTB.js
+npm notice 664B dist/chunk-HZZZXNTB.js.map
+npm notice 2.0kB dist/cli.cjs
+npm notice 1.8kB dist/cli.cjs.map
+npm notice 591B dist/cli.js
+npm notice 1.1kB dist/cli.js.map
+npm notice 1.3kB dist/index.cjs
+npm notice 708B dist/index.cjs.map
+npm notice 248B dist/index.d.cts
+npm notice 248B dist/index.d.ts
+npm notice 108B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 1.5kB package.json
+npm notice 47B stack-sync.cjs
+npm notice Tarball Details
+npm notice name: stack-sync
+npm notice version: 0.1.0
+npm notice filename: stack-sync-0.1.0.tgz
+npm notice package size: 3.8 kB
+npm notice unpacked size: 12.3 kB
+npm notice shasum: cd2a5e4cd7037a680cd189b9d718cf90603248de
+npm notice integrity: sha512-CmquUgPELuCGz[...]ouzu9v4YWMXiA==
+npm notice total files: 17
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and public access
+npm error code E403
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/stack-sync - Package name too similar to existing package stacksync; try renaming your package to '@mr-aftab-ahmad-khan/stack-sync' and publishing with 'npm publish --access=public' instead
+npm error 403 In most cases, you or one of your dependencies are requesting a package version that is forbidden by your security policy, or on a server you do not have access to.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-18T15_05_52_303Z-debug-0.log

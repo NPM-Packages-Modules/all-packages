@@ -747,3 +747,228 @@ npm notice total files: 14
 npm notice
 npm error You cannot publish over the previously published versions: 0.2.0.
 npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_37_51_972Z-debug-0.log
+
+> retryflowkit@0.2.0 prepublishOnly
+> npm run build
+
+
+> retryflowkit@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/retryflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.10 KB
+CJS dist/index.cjs.map 283.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     119.00 B
+ESM dist/index.js.map 239.00 B
+ESM ⚡️ Build success in 8ms
+DTS Build start
+DTS ⚡️ Build success in 1559ms
+DTS dist/index.d.ts  119.00 B
+DTS dist/index.d.cts 119.00 B
+npm notice
+npm notice package: retryflowkit@0.2.0
+npm notice Tarball Contents
+npm notice 51B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 633B README.md
+npm notice 1.1kB dist/index.cjs
+npm notice 283B dist/index.cjs.map
+npm notice 119B dist/index.d.cts
+npm notice 119B dist/index.d.ts
+npm notice 119B dist/index.js
+npm notice 239B dist/index.js.map
+npm notice 1.8kB package.json
+npm notice Tarball Details
+npm notice name: retryflowkit
+npm notice version: 0.2.0
+npm notice filename: retryflowkit-0.2.0.tgz
+npm notice package size: 2.6 kB
+npm notice unpacked size: 5.6 kB
+npm notice shasum: 6107435811f508ac2b549b1a2b729529cc33d3b9
+npm notice integrity: sha512-7wsMXEViZrOlW[...]eBhNxg6CFASgg==
+npm notice total files: 10
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_42_58_470Z-debug-0.log
+
+> schemashiftkit@0.2.0 prepublishOnly
+> npm run build
+
+
+> schemashiftkit@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts","cli":"src/cli.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/schemashift/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/cli.js                984.00 B
+ESM dist/index.js              340.00 B
+ESM dist/chunk-WVDYPUVC.js     2.50 KB
+ESM dist/cli.js.map            1.73 KB
+ESM dist/index.js.map          71.00 B
+ESM dist/chunk-WVDYPUVC.js.map 5.40 KB
+ESM ⚡️ Build success in 12ms
+CJS dist/index.cjs     3.72 KB
+CJS dist/cli.cjs       4.19 KB
+CJS dist/index.cjs.map 5.47 KB
+CJS dist/cli.cjs.map   6.92 KB
+CJS ⚡️ Build success in 12ms
+DTS Build start
+DTS ⚡️ Build success in 1217ms
+DTS dist/cli.d.ts    13.00 B
+DTS dist/index.d.ts  1.39 KB
+DTS dist/cli.d.cts   13.00 B
+DTS dist/index.d.cts 1.39 KB
+npm warn package-json schemashiftkit@0.2.0 No bin file found at schemashiftkit.cjs
+npm warn package-json schemashiftkit@0.2.0 No bin file found at schemashiftkit.cjs
+npm warn package-json schemashiftkit@0.2.0 No bin file found at schemashiftkit.cjs
+npm warn package-json schemashiftkit@0.2.0 No bin file found at schemashiftkit.cjs
+npm notice
+npm notice package: schemashiftkit@0.2.0
+npm notice Tarball Contents
+npm notice 49B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 635B README.md
+npm notice 2.6kB dist/chunk-WVDYPUVC.js
+npm notice 5.5kB dist/chunk-WVDYPUVC.js.map
+npm notice 4.3kB dist/cli.cjs
+npm notice 7.1kB dist/cli.cjs.map
+npm notice 13B dist/cli.d.cts
+npm notice 13B dist/cli.d.ts
+npm notice 984B dist/cli.js
+npm notice 1.8kB dist/cli.js.map
+npm notice 3.8kB dist/index.cjs
+npm notice 5.6kB dist/index.cjs.map
+npm notice 1.4kB dist/index.d.cts
+npm notice 1.4kB dist/index.d.ts
+npm notice 340B dist/index.js
+npm notice 71B dist/index.js.map
+npm notice 2.0kB package.json
+npm notice Tarball Details
+npm notice name: schemashiftkit
+npm notice version: 0.2.0
+npm notice filename: schemashiftkit-0.2.0.tgz
+npm notice package size: 6.8 kB
+npm notice unpacked size: 38.7 kB
+npm notice shasum: e564d040fc17b365280b6f366038d40f433916d2
+npm notice integrity: sha512-R38Q9IwdqcbmV[...]rNHtjW2inpDkA==
+npm notice total files: 18
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_53_08_035Z-debug-0.log
+
+> secureflowkit@0.2.0 prepublishOnly
+> npm run build
+
+
+> secureflowkit@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/secureflow/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+CJS dist/index.cjs     1.14 KB
+CJS dist/index.cjs.map 416.00 B
+CJS ⚡️ Build success in 8ms
+ESM dist/index.js     156.00 B
+ESM dist/index.js.map 372.00 B
+ESM ⚡️ Build success in 9ms
+DTS Build start
+DTS ⚡️ Build success in 715ms
+DTS dist/index.d.ts  211.00 B
+DTS dist/index.d.cts 211.00 B
+npm notice
+npm notice package: secureflowkit@0.2.0
+npm notice Tarball Contents
+npm notice 51B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 637B README.md
+npm notice 1.2kB dist/index.cjs
+npm notice 416B dist/index.cjs.map
+npm notice 211B dist/index.d.cts
+npm notice 211B dist/index.d.ts
+npm notice 156B dist/index.js
+npm notice 372B dist/index.js.map
+npm notice 1.8kB package.json
+npm notice Tarball Details
+npm notice name: secureflowkit
+npm notice version: 0.2.0
+npm notice filename: secureflowkit-0.2.0.tgz
+npm notice package size: 2.7 kB
+npm notice unpacked size: 6.1 kB
+npm notice shasum: 1dfd1738e745d7fb14481b2689abd239220607f2
+npm notice integrity: sha512-u4fF8i7XIuQ3F[...]5iX9DapkVasfg==
+npm notice total files: 10
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T17_58_12_717Z-debug-0.log
+
+> stacktracekit@0.2.0 prepublishOnly
+> npm run build
+
+
+> stacktracekit@0.2.0 build
+> tsup
+
+CLI Building entry: {"index":"src/index.ts"}
+CLI Using tsconfig: tsconfig.json
+CLI tsup v8.5.1
+CLI Using tsup config: /Users/aftabahmadkhan/Github/Personal/NPM/react-native/stacktracex/tsup.config.ts
+CLI Target: node18
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js     223.00 B
+ESM dist/index.js.map 472.00 B
+ESM ⚡️ Build success in 7ms
+CJS dist/index.cjs     1.23 KB
+CJS dist/index.cjs.map 521.00 B
+CJS ⚡️ Build success in 7ms
+DTS Build start
+DTS ⚡️ Build success in 1854ms
+DTS dist/index.d.ts  246.00 B
+DTS dist/index.d.cts 246.00 B
+npm notice
+npm notice package: stacktracekit@0.2.0
+npm notice Tarball Contents
+npm notice 51B CHANGELOG.md
+npm notice 1.1kB LICENSE
+npm notice 616B README.md
+npm notice 1.3kB dist/index.cjs
+npm notice 521B dist/index.cjs.map
+npm notice 246B dist/index.d.cts
+npm notice 246B dist/index.d.ts
+npm notice 223B dist/index.js
+npm notice 472B dist/index.js.map
+npm notice 1.8kB package.json
+npm notice Tarball Details
+npm notice name: stacktracekit
+npm notice version: 0.2.0
+npm notice filename: stacktracekit-0.2.0.tgz
+npm notice package size: 2.7 kB
+npm notice unpacked size: 6.5 kB
+npm notice shasum: 41a4dc9ef833c5810790276c3b771f87720c11c3
+npm notice integrity: sha512-HjkDs3O4IfRmr[...]rfdOtghO195Vg==
+npm notice total files: 10
+npm notice
+npm error You cannot publish over the previously published versions: 0.2.0.
+npm error A complete log of this run can be found in: /Users/aftabahmadkhan/.npm/_logs/2026-06-04T18_08_19_217Z-debug-0.log
+=== finished 2026-06-04T23:08:22+05:00 exit 0 ===

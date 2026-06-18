@@ -5,3 +5,4 @@ npm-debug.log*
 # Local smoke / publish helpers (not for version control)
 .smoke/
 .scripts/publish-unpublished.log
+config.bat
