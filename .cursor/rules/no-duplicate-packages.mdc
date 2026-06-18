@@ -1,0 +1,35 @@
+---
+description: Never scaffold npm/pub packages that duplicate existing monorepo packages
+alwaysApply: true
+---
+
+# No duplicate packages
+
+When the user asks to create, scaffold, or publish new packages in `mern/`, `react-native/`, or `flutter/`:
+
+## Do NOT create if
+
+1. **Folder already exists** under `mern/`, `react-native/`, or `flutter/`
+2. **Same idea exists** elsewhere in the monorepo (even under a different name or ecosystem folder)
+3. User did not ask to **replace** or **extend** an existing package
+
+## Before scaffolding
+
+1. Run: `node .scripts/check-package-duplicate.mjs <folder-name>`
+2. Read `.scripts/package-coverage.mjs` → `EXISTING_COVERAGE`
+3. Search `mern/`, `react-native/`, `flutter/` for folder name and similar README keywords
+4. Use scaffold scripts (they import coverage and skip duplicates):
+   - `node .scripts/scaffold-mern-21-30.mjs`
+   - `node .scripts/scaffold-mern-31-40.mjs`
+   - `node .scripts/scaffold-flutter-21-30.mjs`
+   - `node .scripts/scaffold-react-native-31-40.mjs`
+5. If skipped: tell user **which existing package to use** — **never create anyway**
+
+## Naming
+
+- Use **unscoped** names in `package.json` (no `@mr-aftab-ahmad-khan/` unless user explicitly requests)
+- Renaming for npm (e.g. `*x` suffix) is a **new package**; old scoped releases stay — **do not deprecate** unless user asks
+
+## After adding coverage skips
+
+Update `EXISTING_COVERAGE` in `.scripts/package-coverage.mjs` when a proposed package is rejected as duplicate.

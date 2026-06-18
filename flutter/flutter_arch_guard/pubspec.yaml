@@ -1,0 +1,26 @@
+name: flutter_arch_guard
+description: Detect and prevent Flutter architecture violations automatically.
+version: 0.1.0
+
+topics:
+  - dart
+  - flutter
+  - flutter-arch-guard
+  - mobile
+  - pub
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+repository: https://github.com/NPM-Packages-Modules/flutter
+homepage: https://github.com/NPM-Packages-Modules/flutter/tree/main/flutter_arch_guard
+issue_tracker: https://github.com/NPM-Packages-Modules/flutter/issues
