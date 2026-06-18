@@ -1,4 +1,4 @@
-# stack-sync
+# stack-syncx
 
 **Topics:** contract · api · drift · express · mern-packages · merndev · nodejs · npm-pm · typescript
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install stack-sync
+npm install stack-syncx
 ```
 
 ## Example
@@ -19,7 +19,7 @@ npx stack-sync check
 ## API
 
 ```typescript
-import { stackSync } from "stack-sync";
+import { stackSync } from "stack-syncx";
 
 const report = stackSync.check({ client: ["/users"], server: ["/posts"] });
 ```

@@ -22,6 +22,9 @@ const BLOCKED_FOLDERS = new Set([
   "cachemesh",
   "dbflow",
   "envguard",
+  "env-diff",
+  "merge-safe",
+  "stack-sync",
 ]);
 
 const SPECIAL_X = {

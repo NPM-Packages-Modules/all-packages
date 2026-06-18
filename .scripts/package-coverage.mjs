@@ -55,7 +55,7 @@ export const EXISTING_COVERAGE = {
   errorbridge: "mern/error-translator",
   routegraph: "mern/endpoint-flow",
   "react-cleaner": "mern/component-usage-scanner",
-  configdiff: "mern/env-diff",
+  configdiff: "mern/env-diff (env-diffx)",
   "schema-preview": "mern/migration-preview, react-native/schemashift",
   "npm-inspector": "mern/package-impact, mern/chainsentry",
 

@@ -1,4 +1,4 @@
-# env-diff
+# env-diffx
 
 **Topics:** env · config · devops · mern-packages · merndev · nodejs · npm-pm · typescript
 
@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install env-diff
+npm install env-diffx
 ```
 
 ## API
 
 ```typescript
-import { envDiff } from "env-diff";
+import { envDiff } from "env-diffx";
 
 envDiff.compare({ local: ["PORT"], staging: [] });
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "merge-safe",
+  "name": "merge-safex",
   "version": "0.1.0",
   "description": "merge-safe — Predict likely Git merge conflicts before opening a PR.",
   "license": "MIT",

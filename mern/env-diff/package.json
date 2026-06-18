@@ -1,5 +1,5 @@
 {
-  "name": "env-diff",
+  "name": "env-diffx",
   "version": "0.1.0",
   "description": "env-diff — Compare environment variables across local, staging, and production.",
   "license": "MIT",

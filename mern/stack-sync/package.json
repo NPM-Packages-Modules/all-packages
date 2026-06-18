@@ -1,5 +1,5 @@
 {
-  "name": "stack-sync",
+  "name": "stack-syncx",
   "version": "0.1.0",
   "description": "stack-sync — Detect contract drift between frontend API clients and Express backend routes.",
   "license": "MIT",

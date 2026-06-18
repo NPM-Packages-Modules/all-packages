@@ -1,4 +1,4 @@
-# merge-safe
+# merge-safex
 
 **Topics:** git · merge · ci · mern-packages · merndev · nodejs · npm-pm · typescript
 
@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install merge-safe
+npm install merge-safex
 ```
 
 ## API
 
 ```typescript
-import { mergeSafe } from "merge-safe";
+import { mergeSafe } from "merge-safex";
 
 mergeSafe.analyze(["src/InvoiceService.ts"]);
 ```
